@@ -1,0 +1,13 @@
+id: fixture-border
+polity: fixture-polity
+year: 1
+earliest: 1
+latest: 1
+sources:
+  - src-fixture-sketch
+confidence: legendary
+provenance: fresh-drawn
+derived_from_gpl: false
+fresh_source: src-fixture-sketch
+geometry_ref: borders/gpl/square.geojson
+note: "Fixture. Not a historical claim."

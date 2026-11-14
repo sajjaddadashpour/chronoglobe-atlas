@@ -1,0 +1,13 @@
+id: fixture-ruler-b
+name: Fixture Ruler B
+title: "fixture office"
+polity: fixture-polity
+earliest: -444
+latest: -440
+succession:
+  - role: predecessor
+    id: fixture-ruler-a
+sources:
+  - src-fixture-book
+confidence: legendary
+note: "Test ruler. Not a historical claim."

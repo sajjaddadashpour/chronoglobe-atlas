@@ -1,0 +1,9 @@
+id: fixture-polity
+name: Fixture Polity
+kind: other
+earliest: -450
+latest: -440
+sources:
+  - src-fixture-book
+confidence: attested
+note: "Test polity. Not a historical claim."

@@ -1,0 +1,9 @@
+{
+  "id": "src-fixture-book",
+  "authors": ["Fixture Author"],
+  "title": "Fixture book, not a real work",
+  "year": 2026,
+  "publisher": "Fixture Press",
+  "license": "CC-BY-4.0",
+  "dataset": "bibliography"
+}

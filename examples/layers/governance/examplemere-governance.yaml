@@ -1,0 +1,24 @@
+id: examplemere-governance
+layer: governance
+polity: examplemere
+earliest: 9000
+latest: 9000
+value_low: 0
+value_high: 1
+unit: example-index
+method: "Illustration of a contested index. Not a measurement."
+sources:
+  - src-example-reading-a
+  - src-example-reading-b
+confidence: contested
+alternatives:
+  - value: 0
+    sources:
+      - src-example-reading-a
+    note: "Illustration alternative. Not a historical claim."
+  - value: 1
+    sources:
+      - src-example-reading-b
+    note: "Illustration alternative. Not a historical claim."
+example: true
+note: "Illustration only. Not a historical claim."

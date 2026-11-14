@@ -1,0 +1,16 @@
+id: fixture-border
+polity: fixture-polity
+year: 1
+earliest: 1
+latest: 1
+sources:
+  - src-fixture-sketch
+confidence: legendary
+provenance: fresh-drawn
+derived_from_gpl: true
+fresh_source: src-fixture-sketch
+geometry:
+  type: Polygon
+  coordinates:
+    - [[0, 0], [1, 0], [1, 1], [0, 1], [0, 0]]
+note: "Fixture. Not a historical claim."

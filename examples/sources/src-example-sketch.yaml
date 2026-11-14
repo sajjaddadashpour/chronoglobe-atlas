@@ -1,0 +1,10 @@
+id: src-example-sketch
+authors:
+  - Example Author
+title: "Example fresh sketch, not a real map"
+year: 2026
+url: "https://example.invalid/example-sketch"
+license: CC-BY-4.0
+dataset: fresh-drawn
+example: true
+note: "Illustration only. Not a historical claim. Not derived from a GPL shape."

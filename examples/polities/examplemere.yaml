@@ -1,0 +1,10 @@
+id: examplemere
+name: Examplemere
+kind: other
+earliest: 9000
+latest: 9000
+sources:
+  - src-example-gazetteer
+confidence: legendary
+example: true
+note: "Illustration only. Not a historical claim."

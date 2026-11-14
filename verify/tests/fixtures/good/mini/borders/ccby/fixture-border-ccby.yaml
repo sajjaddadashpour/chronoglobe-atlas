@@ -1,0 +1,13 @@
+id: fixture-border-ccby
+polity: fixture-polity
+year: -450
+earliest: -450
+latest: -450
+sources:
+  - src-fixture-sketch
+confidence: reconstructed
+provenance: fresh-drawn
+derived_from_gpl: false
+fresh_source: src-fixture-sketch
+geometry_ref: borders/ccby/square.geojson
+note: "Test geometry reference. Not a historical claim and not derived from a GPL shape."

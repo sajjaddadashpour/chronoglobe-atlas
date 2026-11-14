@@ -1,0 +1,9 @@
+id: src-fixture-sketch
+authors:
+  - Fixture Author
+title: "Fixture fresh sketch, not a real map"
+year: 2026
+url: "https://example.invalid/fixture-sketch"
+license: CC-BY-4.0
+dataset: fresh-drawn
+note: "Test source. Not derived from a GPL shape."

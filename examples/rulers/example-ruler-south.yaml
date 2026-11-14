@@ -1,0 +1,14 @@
+id: example-ruler-south
+name: Example Ruler South
+title: "example sovereign"
+polity: examplemere
+earliest: 9000
+latest: 9001
+succession:
+  - role: predecessor
+    id: example-ruler-north
+sources:
+  - src-example-gazetteer
+confidence: legendary
+example: true
+note: "Illustration only. Not a historical claim."

@@ -1,0 +1,9 @@
+id: fixture-capital
+polity: fixture-polity
+place: Fixturehaven
+earliest: -450
+latest: -440
+sources:
+  - src-fixture-book
+confidence: reconstructed
+note: "Test capital. Not a historical claim. Fixturehaven is not a place."
