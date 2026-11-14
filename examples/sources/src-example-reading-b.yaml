@@ -1,0 +1,10 @@
+id: src-example-reading-b
+authors:
+  - Example Author
+title: "Example reading B, not a real work"
+year: 2026
+publisher: Example Press
+license: CC-BY-4.0
+dataset: bibliography
+example: true
+note: "Illustration only. Not a historical claim."

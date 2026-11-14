@@ -1,0 +1,9 @@
+id: src-fixture-basemap
+authors:
+  - Fixture Author
+title: "Fixture stand-in for a GPL basemap citation, not a real bibliography entry"
+year: 2026
+url: "https://example.invalid/fixture-basemap"
+license: GPL-3.0
+dataset: historical-basemaps
+note: "Test source."

@@ -1,0 +1,14 @@
+id: fixture-climate
+layer: climate
+subject: fixture-region
+earliest: -450
+latest: -450
+value_low: 0
+value_high: 1
+unit: fixture-index
+method: "Fixture method. Not a measurement."
+sources:
+  - src-fixture-book
+confidence: scholarly-consensus
+# Quoted on purpose. An unquoted `no` is a YAML 1.1 boolean and must fail.
+note: "no"

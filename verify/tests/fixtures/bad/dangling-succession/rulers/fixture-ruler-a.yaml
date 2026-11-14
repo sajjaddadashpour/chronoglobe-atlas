@@ -1,0 +1,12 @@
+id: fixture-ruler-a
+name: Fixture Ruler A
+polity: fixture-polity
+earliest: -450
+latest: -440
+succession:
+  - role: successor
+    id: missing-ruler
+sources:
+  - src-fixture
+confidence: legendary
+note: "Fixture. Not a historical claim."

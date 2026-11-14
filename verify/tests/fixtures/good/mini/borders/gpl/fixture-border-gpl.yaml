@@ -1,0 +1,15 @@
+id: fixture-border-gpl
+polity: fixture-polity
+year: -450
+earliest: -450
+latest: -450
+sources:
+  - src-fixture-basemap
+confidence: reconstructed
+provenance: historical-basemaps-gpl
+derived_from_gpl: true
+geometry:
+  type: Polygon
+  coordinates:
+    - [[0, 0], [1, 0], [1, 1], [0, 1], [0, 0]]
+note: "Synthetic square used to exercise the GPL folder rule. Not an extract of historical-basemaps and not a historical claim."

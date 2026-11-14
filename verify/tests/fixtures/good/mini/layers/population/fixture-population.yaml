@@ -1,0 +1,13 @@
+id: fixture-population
+layer: population
+polity: fixture-polity
+earliest: -450
+latest: -400
+value_low: 1
+value_high: 4
+unit: persons
+method: "Fixture method. Not a measurement."
+sources:
+  - src-fixture-book
+confidence: estimate
+note: "Test layer. Not a historical claim."

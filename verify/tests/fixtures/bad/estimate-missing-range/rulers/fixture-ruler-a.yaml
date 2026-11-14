@@ -1,0 +1,9 @@
+id: fixture-ruler-a
+name: Fixture Ruler A
+polity: fixture-polity
+earliest: -450
+latest: -440
+sources:
+  - src-fixture
+confidence: estimate
+note: "Fixture. Not a historical claim."

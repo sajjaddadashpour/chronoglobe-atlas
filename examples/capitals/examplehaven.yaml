@@ -1,0 +1,10 @@
+id: examplehaven
+polity: examplemere
+place: Examplehaven
+earliest: 9000
+latest: 9001
+sources:
+  - src-example-gazetteer
+confidence: legendary
+example: true
+note: "Illustration only. Not a historical claim. Examplehaven is not a place."

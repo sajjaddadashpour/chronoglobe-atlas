@@ -1,0 +1,8 @@
+id: fixture-dup
+name: Fixture Dup
+earliest: 1
+latest: 1
+sources:
+  - src-fixture
+confidence: legendary
+note: "Fixture. Not a historical claim."

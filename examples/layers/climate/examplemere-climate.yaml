@@ -1,0 +1,14 @@
+id: examplemere-climate
+layer: climate
+subject: example-region
+earliest: 9000
+latest: 9000
+value_low: 0
+value_high: 1
+unit: example-index
+method: "Illustration of an index. Not a measurement."
+sources:
+  - src-example-gazetteer
+confidence: legendary
+example: true
+note: "Illustration only. Not a historical claim. example-region is not a place."

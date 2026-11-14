@@ -1,0 +1,12 @@
+id: fixture-polity
+name: Fixture Polity
+earliest: 1
+latest: 2
+sources:
+  - src-fixture
+confidence: contested
+alternatives:
+  - value: "other reading"
+    sources:
+      - src-missing
+note: "Fixture. Not a historical claim."

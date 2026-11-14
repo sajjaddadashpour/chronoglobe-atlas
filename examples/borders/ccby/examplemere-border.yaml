@@ -1,0 +1,17 @@
+id: examplemere-border
+polity: examplemere
+year: 9000
+earliest: 9000
+latest: 9000
+sources:
+  - src-example-sketch
+confidence: legendary
+provenance: fresh-drawn
+derived_from_gpl: false
+fresh_source: src-example-sketch
+geometry:
+  type: Polygon
+  coordinates:
+    - [[0, 0], [0.1, 0], [0.1, 0.1], [0, 0.1], [0, 0]]
+example: true
+note: "Illustration only. Not a historical claim. Schematic square, not a border of any place, and not derived from a GPL shape."

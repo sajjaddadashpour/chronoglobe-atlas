@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: Chronoglobe Atlas
+message: >-
+  If you use the Chronoglobe Atlas, please cite it.
+  Code in this repository is MIT. The dataset is CC-BY-4.0.
+  Inherited shapes in borders/gpl/ are GPL-3.0.
+  Each release is archived on Zenodo. Until a DOI is listed in this file,
+  cite the versioned fact URL and this repository.
+type: dataset
+authors:
+  - family-names: Dadashpour
+    given-names: Sajjad
+abstract: >-
+  Sourced, citable data for chronoglobe.si: polities, rulers, capitals,
+  borders, and layers (population, GDP, climate, governance) through time.
+  Every fact has a permanent id, date bounds, a confidence label, and sources.
+version: "0.1.0"
+date-released: "2026-11-14"
+license: CC-BY-4.0
+repository-code: "https://github.com/sajjaddadashpour/chronoglobe-atlas"
+url: "https://chronoglobe.si"

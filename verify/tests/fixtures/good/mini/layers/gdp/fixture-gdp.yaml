@@ -1,0 +1,13 @@
+id: fixture-gdp
+layer: gdp
+polity: fixture-polity
+earliest: -450
+latest: -450
+value_low: 1
+value_high: 2
+unit: fixture-units
+method: "Fixture method. Not a measurement."
+sources:
+  - src-fixture-book
+confidence: reconstructed
+note: "Test layer. Not a historical claim."

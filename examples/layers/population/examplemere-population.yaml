@@ -1,0 +1,14 @@
+id: examplemere-population
+layer: population
+polity: examplemere
+earliest: 9000
+latest: 9000
+value_low: 1
+value_high: 2
+unit: persons
+method: "Illustration of an estimate. Not a measurement."
+sources:
+  - src-example-gazetteer
+confidence: estimate
+example: true
+note: "Illustration only. Not a historical claim."

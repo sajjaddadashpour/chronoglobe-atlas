@@ -1,0 +1,8 @@
+id: fixture-polity
+name: Fixture Polity
+earliest: 1
+latest: 1
+sources:
+  - src-fixture-basemap
+confidence: legendary
+note: "Fixture. Not a historical claim."

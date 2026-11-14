@@ -1,0 +1,21 @@
+id: fixture-governance
+layer: governance
+polity: fixture-polity
+earliest: -450
+latest: -450
+value_low: 0
+value_high: 1
+unit: fixture-index
+method: "Fixture method. Not a measurement."
+sources:
+  - src-fixture-reading-a
+  - src-fixture-reading-b
+confidence: contested
+alternatives:
+  - value: 0
+    sources:
+      - src-fixture-reading-a
+  - value: 1
+    sources:
+      - src-fixture-reading-b
+note: "Test contested layer. Not a historical claim."

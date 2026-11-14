@@ -1,0 +1,47 @@
+# Chronoglobe Atlas
+
+> Sourced, citable data for chronoglobe.si. Polities, rulers, capitals, borders, and layers through time. Every fact has a permanent id, date bounds, one confidence label, and sources.
+
+Outside submissions are not open yet. Do not add polities, rulers, capitals, borders, layers, or sources. Do not invent facts, dates, borders, or citations. Files under `examples/` are illustrations, not historical claims. Their years are 9000 so they cannot be confused with history.
+
+## How to read the repo
+
+- `schema/` is the contract. JSON Schema, draft 2020-12: source, polity, ruler, capital, border, layer. Shared fragments are in `schema/common.schema.json`.
+- `examples/` holds the only checked-in records. Each one sets `example: true` and includes the words `not a historical claim` in `note`. Do not treat them as data and do not cite their ids as history.
+- `sources/`, `polities/`, `rulers/`, `capitals/`, `borders/`, and `layers/` are the real collections. v0 leaves them empty on purpose. Human-edited files may be YAML or JSON, one object per file. The filename stem is the id.
+- `verify/` is the validator. `python3 -m verify` checks the tree. `python3 -m verify.bundle` writes `dist/` after a clean check. Do not commit `dist/`.
+- `docs/CITING.md` is the citation form. A fact URL is `https://chronoglobe.si/f/<id>@<version>`. `<version>` is the dataset release in `CITATION.cff`. Each release is archived on Zenodo for a DOI. v0.1.0 has no DOI yet. Do not invent one.
+
+Confidence, exactly one: `attested`, `scholarly-consensus`, `estimate`, `reconstructed`, `contested`, `legendary`.
+
+An estimate requires a low, a high, and a method, with low <= high. Layer estimates use `value_low`, `value_high`, and `method`. A contested fact may carry `alternatives`. Each alternative has its own sources. Other labels must not carry alternatives.
+
+Every fact cites at least one source id that exists under `sources/`. A source has an id, authors, title, year, and a publisher, DOI, or URL. License is recorded where it matters. Negative years are BCE. `-1` is 1 BCE. Year 0 is not rewritten. `earliest` must be <= `latest`.
+
+Ids are permanent lowercase slugs (`letters`, digits, single hyphens), unique in the tree, and equal to the filename stem.
+
+Borders: one shape per polity, year, and source. Geometry is a GeoJSON Polygon or MultiPolygon, or a `geometry_ref` to one `.geojson` file in the same license folder. `provenance: historical-basemaps-gpl` is allowed only under `borders/gpl/` (and `examples/borders/gpl/`). That folder sets `derived_from_gpl: true` and cites a source with `dataset: historical-basemaps` and a GPL license. `borders/ccby/` sets `provenance: fresh-drawn`, `derived_from_gpl: false`, and `fresh_source` to a source with `dataset: fresh-drawn` and a non-GPL license. A CC-BY border must not cite a GPL or historical-basemaps source and must not reference a file under a `gpl/` folder.
+
+Layers are `population`, `gdp`, `climate`, and `governance`. The `layer` field matches the directory. A layer has `value_low`, `value_high`, `unit`, `method`, and source ids, and names a `polity` or a `subject`.
+
+In YAML, quote `yes`, `no`, `on`, `off`, `y`, and `n`. Unquoted, YAML 1.1 turns them into booleans. `true` and `false` are real booleans and may stay unquoted.
+
+## Bundles
+
+`dist/manifest.json` lists small JSON files, one per layer per century, plus `sources.json`. A record is copied into every century its span overlaps. `century_start` is the mathematical floor of the year divided by 100, times 100, not truncation toward zero. The file for year Y has `century_start = floor(Y / 100) * 100`. Example records go to `*.examples.json`. `borders/gpl` and `borders/ccby` are separate files and keep their own licenses. The site should load one of those files for the year on screen, not the whole atlas.
+
+## Validate locally
+
+From the repository root:
+
+```
+python3 -m pip install -r requirements.txt -r requirements-dev.txt
+make validate
+make test
+```
+
+`make validate` runs `python3 -m verify`. `make test` runs the good and bad fixtures, including an unquoted YAML `no`, a GPL provenance tag outside `borders/gpl/`, a CC-BY border derived from GPL, a dangling source, and a duplicate id. All of those must fail.
+
+## Contributing
+
+Not open yet. When it opens, `CONTRIBUTING.md` is the rule: no invented history, no invented sources, no unmarked examples. Code is MIT (`LICENSE`). Data is CC-BY-4.0 (`LICENSE-DATA`). `borders/gpl/` is GPL-3.0. Cite the atlas with `CITATION.cff`.

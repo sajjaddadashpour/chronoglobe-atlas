@@ -1,0 +1,16 @@
+id: fixture-ruler-a
+name: Fixture Ruler A
+title: "fixture office"
+polity: fixture-polity
+earliest: -450
+latest: -445
+succession:
+  - role: successor
+    id: fixture-ruler-b
+sources:
+  - src-fixture-book
+confidence: estimate
+low: -450
+high: -445
+method: "Fixture method for an estimated span. Not a measurement."
+note: "Test ruler. Not a historical claim."

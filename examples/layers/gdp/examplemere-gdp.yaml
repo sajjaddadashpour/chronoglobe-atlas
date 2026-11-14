@@ -1,0 +1,14 @@
+id: examplemere-gdp
+layer: gdp
+polity: examplemere
+earliest: 9000
+latest: 9000
+value_low: 1
+value_high: 3
+unit: example-units
+method: "Illustration of a range. Not a measurement."
+sources:
+  - src-example-gazetteer
+confidence: legendary
+example: true
+note: "Illustration only. Not a historical claim."

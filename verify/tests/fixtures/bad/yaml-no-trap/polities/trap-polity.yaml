@@ -1,0 +1,8 @@
+id: trap-polity
+name: Trap
+earliest: 1
+latest: 1
+sources:
+  - src-trap
+confidence: legendary
+note: no
