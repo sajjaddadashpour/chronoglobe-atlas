@@ -1,0 +1,14 @@
+id: khwarazmian-governance-03
+layer: governance
+polity: khwarazmian
+subject: "governance form: Jalāl-al-Din's itinerant state"
+earliest: 1220
+latest: 1231
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-khwarazmshahs-iii
+confidence: scholarly-consensus
+note: "Governance type: Jalāl-al-Din's itinerant state. Dates as given: 1220–1231. Start 1220 CE; end 1231 CE. Evidence: scholarly-or-primary."

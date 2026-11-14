@@ -1,0 +1,9 @@
+id: umayyad-capital-damascus
+polity: umayyad
+place: Damascus
+earliest: 661
+latest: 744
+sources:
+- wp-en-umayyad-caliphate
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 661–744. Start 661 CE; end 744 CE. Evidence: secondary-only."

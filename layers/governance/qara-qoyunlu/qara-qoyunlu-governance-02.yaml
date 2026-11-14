@@ -1,0 +1,14 @@
+id: qara-qoyunlu-governance-02
+layer: governance
+polity: qara-qoyunlu
+subject: "governance form: sultanate (title sultan from Pirbudaq's enthronement)"
+earliest: 1406
+latest: 1469
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-qara-qoyunlu
+confidence: scholarly-consensus
+note: "Governance type: sultanate (title sultan from Pirbudaq's enthronement). Dates as given: 1406/11–1467/69. Start 1406 CE to 1411 CE; end 1467 CE to 1469 CE. Evidence: secondary-only."

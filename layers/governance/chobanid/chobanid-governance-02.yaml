@@ -1,0 +1,14 @@
+id: chobanid-governance-02
+layer: governance
+polity: chobanid
+subject: "governance form: rule in own right (after the collapse of Il-khanid authority)"
+earliest: 1344
+latest: 1357
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-chobanids
+confidence: estimate
+note: "Governance type: rule in own right (after the collapse of Il-khanid authority). Dates as given: 1344/56–1357. Start 1344 CE to 1356 CE; end 1357 CE. Evidence: scholarly-or-primary."

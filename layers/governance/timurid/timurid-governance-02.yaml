@@ -1,0 +1,15 @@
+id: timurid-governance-02
+layer: governance
+polity: timurid
+subject: "governance form: succession wars and regional appanages"
+earliest: 1447
+latest: 1507
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-timurid-empire
+- eir-kandahar-iv
+confidence: scholarly-consensus
+note: "Governance type: succession wars and regional appanages. Dates as given: 1447–1507. Start 1447 CE; end 1507 CE. Evidence: scholarly-or-primary."

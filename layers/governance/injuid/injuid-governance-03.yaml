@@ -1,0 +1,14 @@
+id: injuid-governance-03
+layer: governance
+polity: injuid
+subject: "governance form: Abu Esḥāq's rule over Shiraz, Isfahan and Lorestān"
+earliest: 1342
+latest: 1353
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-inju-dynasty
+confidence: scholarly-consensus
+note: "Governance type: Abu Esḥāq's rule over Shiraz, Isfahan and Lorestān. Dates as given: 1342/43–1353. Start 1342 CE to 1343 CE; end 1353 CE. Evidence: scholarly-or-primary."

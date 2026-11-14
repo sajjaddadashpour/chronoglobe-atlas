@@ -1,0 +1,14 @@
+id: jalayirid-governance-02
+layer: governance
+polity: jalayirid
+subject: "governance form: sultanate"
+earliest: 1356
+latest: 1432
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-jalayerids
+confidence: attested
+note: "Governance type: sultanate. Dates as given: 1356–1431/32. Start 1356 CE; end 1431 CE to 1432 CE. Šayḵ Ovays was the first to take the title sultan. Evidence: scholarly-or-primary."

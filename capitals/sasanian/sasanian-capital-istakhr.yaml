@@ -1,0 +1,12 @@
+id: sasanian-capital-istakhr
+polity: sasanian
+place: Istakhr
+earliest: 224
+latest: 226
+sources:
+- wp-en-sasanian-empire
+confidence: estimate
+low: 224
+high: 226
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: early dynastic centre. Dates as given: 224–226. Start 224 CE; end 226 CE. Secondary only; Iranica treats Ctesiphon as capital from Ardashir. Evidence: secondary-only."

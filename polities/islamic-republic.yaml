@@ -1,0 +1,16 @@
+id: islamic-republic
+name: Islamic Republic of Iran
+kind: state
+earliest: 1979
+latest: 2026
+sources:
+- eir-constitution-islamic-republic
+- eir-khomeini-i
+- wp-en-supreme-leader-of-iran
+- wp-en-iran
+- news-reuters-2026-03-08
+- news-bbc-2026-03-08
+- primary-assembly-of-experts-2026-03-08
+- wp-en-list-of-monarchs-of-iran
+confidence: attested
+note: "Persian name: جمهوری اسلامی ایران (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): Islamic republic (velāyat-e faqih). Start: 1 Apr 1979 (proclaimed after the 30-31 March referendum) [attested; bounds 1979 CE; wp-en-iran, eir-constitution-islamic-republic]. Other readings (bound not contested): 11 Feb 1979 (fall of the monarchy; Provisional Government) [attested; wp-en-list-of-monarchs-of-iran, eir-khomeini-i]. End: present [attested; bounds ongoing; news-reuters-2026-03-08]. Ongoing. latest is 2026, the year of this data pass, not an end date (the v0 schema has no open-ended span). Record label attested is the weaker of the start label (attested) and end label (attested); see docs/iran/README.md. Predecessors: pahlavi. Wikidata: Q794 (via wp-fa-langlinks; verify item scope before use)."

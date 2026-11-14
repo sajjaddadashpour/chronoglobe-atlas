@@ -1,0 +1,13 @@
+id: achaemenid-cyrus-i
+name: Cyrus I
+title: king of Anshan (pre-imperial)
+polity: achaemenid
+earliest: -620
+latest: -590
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -620
+high: -590
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 620–590 BCE. Start 620 BCE; end 590 BCE. Dates from Bryce 2009 via Wikipedia only. Evidence: secondary-only."

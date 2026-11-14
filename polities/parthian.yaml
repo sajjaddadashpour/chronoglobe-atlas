@@ -1,0 +1,12 @@
+id: parthian
+name: Parthian (Arsacid) Empire
+kind: empire
+earliest: -247
+latest: 224
+sources:
+- eir-arsacids-ii
+- eir-ctesiphon
+- wp-en-parthian-empire
+- eir-sasanian-dynasty
+confidence: contested
+note: "Persian name: شاهنشاهی اشکانی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): empire (King of Kings). Start: c. 247 BCE (Arsacid era) / c. 238 BCE (invasion of Parthia) [contested; bounds 247 BCE to 238 BCE; eir-arsacids-ii]. Arsaces I proclaimed king c. 247 BCE (epoch of the Arsacid era); the Parni invaded the province of Parthia c. 238. Wikipedia lists Arsaces I from c. 250/247. End: 224 CE (Ardashir I defeats Artabanus IV) [scholarly-consensus; bounds 224 CE; eir-sasanian-dynasty, eir-arsacids-ii]. Record label contested is the weaker of the start label (contested) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: seleucid. Successors: sasanian. Wikidata: Q1986139 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-3."

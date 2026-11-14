@@ -1,0 +1,12 @@
+id: afsharid
+name: Afsharid Iran
+kind: empire
+earliest: 1736
+latest: 1796
+sources:
+- eir-afsharids
+- eir-nader-shah
+- wp-en-list-of-monarchs-of-iran
+- wp-en-afsharid-iran
+confidence: attested
+note: "Persian name: ایران افشاری (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): shahdom (Nader's empire, then Khorasan principality). Start: 1148/1736 (Moḡān assembly Feb; coronation 8 Mar 1736) [attested; bounds 1736 CE; eir-afsharids, eir-nader-shah, wp-en-list-of-monarchs-of-iran]. End: 1210/1796 (Khorasan annexed by Āqā Moḥammad Khan) [attested; bounds 1796 CE; eir-afsharids]. Record label attested is the weaker of the start label (attested) and end label (attested); see docs/iran/README.md. Predecessors: safavid; hotaki. Successors: zand (in western and southern Iran); qajar. Old map labels showed Mashhad as Durrani/Afghan territory 1765-1810, though Khorasan stayed Afsharid until 1796. Wikidata: Q63149558 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-7."

@@ -1,0 +1,15 @@
+id: qajar-governance-02
+layer: governance
+polity: qajar
+subject: "governance form: constitutional monarchy (Majles opened 7 Oct 1906; constitution 1906-07)"
+earliest: 1906
+latest: 1925
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-constitutional-revolution-ii
+- eir-ahmad-shah-qajar
+confidence: attested
+note: "Governance type: constitutional monarchy (Majles opened 7 Oct 1906; constitution 1906-07). Dates as given: 1906–1925. Start 1906 CE; end 1925 CE. Majles opened 18 Šaʿbān 1324 / 7 Oct 1906; constitution signed and presented 1 Jan 1907. Moḥammad-ʿAli Shah was deposed 16 July 1909 for opposing the constitutional order; he restored its principles on 5 May 1909 under pressure. Evidence: scholarly-or-primary."

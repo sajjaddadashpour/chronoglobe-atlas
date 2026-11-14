@@ -1,0 +1,12 @@
+id: sasanian
+name: Sasanian Empire
+kind: empire
+earliest: 224
+latest: 651
+sources:
+- eir-sasanian-dynasty
+- eir-ctesiphon
+- eir-arab-ii-conquest
+- wp-en-sasanian-empire
+confidence: contested
+note: "Persian name: شاهنشاهی ساسانی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Also called: Ērānšahr. Kind (draft wording): empire (King of Kings of Ērān and Anērān). Start: 224 CE (defeat of Artabanus IV) [scholarly-consensus; bounds 224 CE; eir-sasanian-dynasty]. End: 650/651 CE (death of Yazdegerd III) [contested; bounds 650 CE to 651 CE; eir-sasanian-dynasty, wp-en-sasanian-empire]. Iranica (Shahbazi) \"224-650\"; Wikipedia 651. Arab conquest of the plateau mostly complete by 651/652. Record label contested is the weaker of the start label (scholarly-consensus) and end label (contested); see docs/iran/README.md. Predecessors: parthian; persis. Successors: rashidun. Wikidata: Q83891 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-3, daryaee-2009."

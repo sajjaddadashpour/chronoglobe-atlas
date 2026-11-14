@@ -1,0 +1,10 @@
+id: chobanid
+name: Chobanids
+kind: state
+earliest: 1335
+latest: 1357
+sources:
+- eir-chobanids
+- wp-en-chobanids
+confidence: scholarly-consensus
+note: "Persian name: چوپانیان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): amirate ruling through puppet il-khans, then in own name. Start: 1335 (death of Abu Saʿid) / 1338 (Ḥasan-e Kūček's bid) [scholarly-consensus; bounds 1335 CE to 1338 CE; eir-chobanids]. Iranica dates Chobanid rule from 30 Nov 1335; the family's own regime in Tabriz dates from Ḥasan-e Kūček's moves in 738/1338. End: 758/1357 (death of Malek Ašraf) [attested; bounds 1357 CE; eir-chobanids]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: ilkhanate. Successors: jalayirid (Azarbaijan taken by Šayḵ Ovays 1359). Wikidata: Q1089675 (via wp-fa-langlinks; verify item scope before use)."

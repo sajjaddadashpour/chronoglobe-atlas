@@ -1,0 +1,10 @@
+id: sasanian-capital-ctesiphon
+polity: sasanian
+place: Ctesiphon
+earliest: 224
+latest: 637
+sources:
+- eir-ctesiphon
+- eir-sasanian-dynasty
+confidence: scholarly-consensus
+note: "Role: capital and coronation city. Dates as given: 224/26–637. Start 224 CE to 226 CE; end 637 CE. Iranica CTESIPHON: capital from Ardashir I until the Arab conquest in 16/637. Evidence: scholarly-or-primary."

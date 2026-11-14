@@ -1,0 +1,11 @@
+id: safavid-capital-isfahan
+polity: safavid
+place: Isfahan
+earliest: 1597
+latest: 1722
+sources:
+- eir-isfahan-vii
+- eir-safavid-dynasty
+- wp-en-safavid-iran
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 1597/98–1722. Start 1597 CE to 1598 CE; end 1722 CE. Proclaimed capital in 1006/1597-98 (Iranica Isfahan vii). Old dataset ran Isfahan to 1736, but Isfahan was Hotaki-held 1722-29. Evidence: scholarly-or-primary."

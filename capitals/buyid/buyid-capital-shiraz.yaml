@@ -1,0 +1,9 @@
+id: buyid-capital-shiraz
+polity: buyid
+place: Shiraz
+earliest: 934
+latest: 1062
+sources:
+- wp-en-buyid-dynasty
+confidence: scholarly-consensus
+note: "Role: capital of Buyids of Fārs. Dates as given: 934–1062. Start 934 CE; end 1062 CE. Evidence: secondary-only."

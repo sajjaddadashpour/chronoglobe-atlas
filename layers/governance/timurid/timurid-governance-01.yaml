@@ -1,0 +1,14 @@
+id: timurid-governance-01
+layer: governance
+polity: timurid
+subject: "governance form: empire"
+earliest: 1370
+latest: 1447
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-timurid-empire
+confidence: scholarly-consensus
+note: "Governance type: empire. Dates as given: 1370–1447. Start 1370 CE; end 1447 CE. Evidence: secondary-only."

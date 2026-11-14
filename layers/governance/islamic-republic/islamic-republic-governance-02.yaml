@@ -1,0 +1,14 @@
+id: islamic-republic-governance-02
+layer: governance
+polity: islamic-republic
+subject: "governance form: Islamic republic under the 1979 constitution (velāyat-e faqih)"
+earliest: 1979
+latest: 1989
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-constitution-islamic-republic
+confidence: attested
+note: "Governance type: Islamic republic under the 1979 constitution (velāyat-e faqih). Dates as given: 1979–1989. Start 1979 CE; end 1989 CE. Evidence: scholarly-or-primary."

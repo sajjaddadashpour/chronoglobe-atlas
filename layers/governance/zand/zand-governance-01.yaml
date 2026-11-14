@@ -1,0 +1,14 @@
+id: zand-governance-01
+layer: governance
+polity: zand
+subject: "governance form: regency (wakil) for the Safavid puppet Esmāʿil III"
+earliest: 1751
+latest: 1765
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-zand-dynasty
+confidence: scholarly-consensus
+note: "Governance type: regency (wakil) for the Safavid puppet Esmāʿil III. Dates as given: 1751–1765. Start 1751 CE; end 1765 CE. Evidence: scholarly-or-primary."

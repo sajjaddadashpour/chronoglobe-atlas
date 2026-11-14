@@ -1,0 +1,14 @@
+id: elam-governance-08
+layer: governance
+polity: elam
+subject: "governance form: Neo-Elamite I (no Elamite historical documents)"
+earliest: -1100
+latest: -770
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: estimate
+note: "Governance type: phase. Label: Neo-Elamite I (no Elamite historical documents). Dates as given: 1100–770 BCE. Start 1100 BCE; end 770 BCE. Evidence: scholarly-or-primary."

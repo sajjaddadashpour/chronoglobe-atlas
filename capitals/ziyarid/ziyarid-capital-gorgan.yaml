@@ -1,0 +1,13 @@
+id: ziyarid-capital-gorgan
+polity: ziyarid
+place: Gorgān
+earliest: 943
+latest: 1035
+sources:
+- eir-ziyarids
+- wp-en-ziyarid-dynasty
+confidence: estimate
+low: 943
+high: 1035
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 943–1035. Start 943 CE; end 1035 CE. Evidence: scholarly-or-primary."

@@ -1,0 +1,14 @@
+id: persis-governance-01
+layer: governance
+polity: persis
+subject: "governance form: fratarakā (\"frataraka of the gods\") as Seleucid representatives"
+earliest: -220
+latest: -150
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-frataraka
+confidence: reconstructed
+note: "Governance type: frataraka under Seleucid suzerainty. Label: fratarakā (\"frataraka of the gods\") as Seleucid representatives. Dates as given: 220/180–170/50 BCE. Start 220 BCE to 180 BCE; end 170 BCE to 150 BCE. Evidence: scholarly-or-primary."

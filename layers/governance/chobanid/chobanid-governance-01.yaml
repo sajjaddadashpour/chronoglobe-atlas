@@ -1,0 +1,14 @@
+id: chobanid-governance-01
+layer: governance
+polity: chobanid
+subject: "governance form: amirs ruling through Hülegüid puppet khans"
+earliest: 1335
+latest: 1356
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-chobanids
+confidence: scholarly-consensus
+note: "Governance type: amirs ruling through Hülegüid puppet khans. Dates as given: 1335–1344/56. Start 1335 CE; end 1344 CE to 1356 CE. e.g. Solaymān Khan installed by Ḥasan-e Kūček late 739/May 1339. Evidence: scholarly-or-primary."

@@ -1,0 +1,14 @@
+id: aq-qoyunlu-governance-01
+layer: governance
+polity: aq-qoyunlu
+subject: "governance form: tribal amirate at Āmed (Diyarbakr)"
+earliest: 1394
+latest: 1469
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-aq-qoyunlu
+confidence: scholarly-consensus
+note: "Governance type: tribal amirate at Āmed (Diyarbakr). Dates as given: 1394/1403–1469. Start 1394 CE to 1403 CE; end 1469 CE. Evidence: scholarly-or-primary."

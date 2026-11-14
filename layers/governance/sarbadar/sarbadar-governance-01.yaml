@@ -1,0 +1,14 @@
+id: sarbadar-governance-01
+layer: governance
+polity: sarbadar
+subject: "governance form: Sarbadar state (non-dynastic succession of leaders)"
+earliest: 1337
+latest: 1381
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-sarbedars
+confidence: scholarly-consensus
+note: "Governance type: Sarbadar state (non-dynastic succession of leaders). Dates as given: 1337–1381. Start 1337 CE; end 1381 CE. Shiʿite coinage 763/1362-772/1371. Evidence: scholarly-or-primary."

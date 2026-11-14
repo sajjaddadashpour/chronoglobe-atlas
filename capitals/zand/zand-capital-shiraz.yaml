@@ -1,0 +1,10 @@
+id: zand-capital-shiraz
+polity: zand
+place: Shiraz
+earliest: 1765
+latest: 1794
+sources:
+- eir-zand-dynasty
+- eir-shiraz-i
+confidence: attested
+note: "Role: capital. Dates as given: 1765–1794. Start 1765 CE; end 1794 CE. Evidence: scholarly-or-primary."

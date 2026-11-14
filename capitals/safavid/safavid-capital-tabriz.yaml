@@ -1,0 +1,10 @@
+id: safavid-capital-tabriz
+polity: safavid
+place: Tabriz
+earliest: 1501
+latest: 1555
+sources:
+- eir-safavid-dynasty
+- wp-en-safavid-iran
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 1501–1555. Start 1501 CE; end 1555 CE. Evidence: scholarly-or-primary."

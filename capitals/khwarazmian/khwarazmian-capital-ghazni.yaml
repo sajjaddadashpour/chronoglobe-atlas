@@ -1,0 +1,12 @@
+id: khwarazmian-capital-ghazni
+polity: khwarazmian
+place: Ghazni
+earliest: 1220
+latest: 1221
+sources:
+- wp-en-khwarazmian-empire
+confidence: estimate
+low: 1220
+high: 1221
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1220–1221. Start 1220 CE; end 1221 CE. Evidence: secondary-only."

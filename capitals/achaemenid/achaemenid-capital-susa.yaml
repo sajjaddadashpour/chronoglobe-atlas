@@ -1,0 +1,10 @@
+id: achaemenid-capital-susa
+polity: achaemenid
+place: Susa
+earliest: -521
+latest: -330
+sources:
+- eir-achaemenid-dynasty-i
+- eir-susa-ii
+confidence: scholarly-consensus
+note: "Role: administrative capital (probably from Darius I). Dates as given: 521/18–330 BCE. Start 521 BCE to 518 BCE; end 330 BCE. Evidence: scholarly-or-primary."

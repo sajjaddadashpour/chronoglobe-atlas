@@ -1,0 +1,10 @@
+id: jalayirid
+name: Jalayirids
+kind: state
+earliest: 1336
+latest: 1432
+sources:
+- eir-jalayerids
+- wp-en-jalayirid-sultanate
+confidence: scholarly-consensus
+note: "Persian name: جلایریان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): amirate, sultanate from 1356. Start: 1336 (Ḥasan-e Bozorg enthrones the puppet Moḥammad) [scholarly-consensus; bounds 1336 CE; eir-jalayerids]. End: 1431/32 (Ḥosayn II killed at al-Ḥella) [scholarly-consensus; bounds 1431 CE to 1432 CE; eir-jalayerids]. Iranica: lost al-Ḥella Oct 1431 and killed 9 Nov 1431 (Iranica's CE conversion); the AH year should be checked. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: ilkhanate; chobanid. Successors: qara-qoyunlu; timurid (Timurid occupations of Jalayirid lands). Wikidata: Q866716 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

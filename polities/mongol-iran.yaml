@@ -1,0 +1,13 @@
+id: mongol-iran
+name: "Mongol Empire: direct rule in Iran (pre-Ilkhanid governors)"
+kind: other
+earliest: 1219
+latest: 1256
+sources:
+- eir-cin-timur
+- eir-argun-aqa
+- wp-en-list-of-monarchs-of-iran
+- wp-en-mongol-invasion-of-the-khwarazmian-empire
+- eir-il-khanids-i
+confidence: scholarly-consensus
+note: "Kind (draft wording): province(s) of the Mongol Empire under governors. Start: 1219-1221 (conquest of Khwarazm and Khorasan) [scholarly-consensus; bounds 1219 CE to 1221 CE; eir-cin-timur, wp-en-mongol-invasion-of-the-khwarazmian-empire]. End: 1256 (Hülegü's arrival; Ilkhanate) [scholarly-consensus; bounds 1256 CE; eir-il-khanids-i]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: khwarazmian. Successors: ilkhanate. There was no capital in Iran; the Great Khan sat in Mongolia. The old dataset gave Avarga and Karakorum as capitals of \"Mongol Iran\"; those are Mongolian imperial seats. Further reading, not consulted this pass: chi-5."

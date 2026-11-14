@@ -1,0 +1,13 @@
+id: timurid
+name: Timurid Empire
+kind: empire
+earliest: 1370
+latest: 1507
+sources:
+- wp-en-list-of-monarchs-of-iran
+- wp-en-timurid-empire
+- wp-en-timurid-dynasty
+- eir-kandahar-iv
+- wp-en-qara-qoyunlu
+confidence: scholarly-consensus
+note: "Persian name: امپراتوری تیموری (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): empire, later appanage states. Start: 9 Apr 1370 (Timur's enthronement) [scholarly-consensus; bounds 1370 CE; wp-en-list-of-monarchs-of-iran, wp-en-timurid-empire]. End: 1507 (Uzbeks take Herat) [scholarly-consensus; bounds 1507 CE; wp-en-timurid-empire]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: chobanid; jalayirid; muzaffarid; kartid; sarbadar; injuid. Successors: qara-qoyunlu (western Iran from 1452); aq-qoyunlu; safavid. Control of Iran: 1381 CE to 1452 CE (western Iran lost to the Qara Qoyunlu 1452-53) [estimate; wp-en-qara-qoyunlu]. Iranica TIMURIDS and KHORASAN ix (Timurid period) are not online; this polity is secondary-only except Ḥosayn Bayqarā's reign. Wikidata: Q484195 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-6."

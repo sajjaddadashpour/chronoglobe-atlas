@@ -1,0 +1,11 @@
+id: khwarazmian
+name: Khwarazmshahs (Anuštegin line)
+kind: empire
+earliest: 1097
+latest: 1231
+sources:
+- eir-khwarazmshahs-iii
+- wp-en-list-of-monarchs-of-iran
+- wp-en-khwarazmian-empire
+confidence: scholarly-consensus
+note: "Persian name: خوارزمشاهیان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): shahdom (Seljuk vassals, then independent empire). Start: 490/1097 [scholarly-consensus; bounds 1097 CE; eir-khwarazmshahs-iii]. Independent of the Seljuks only from Tekeš (1172-1200); old dataset started at 1194. End: 628/1231 (death of Jalāl-al-Din) [attested; bounds 1231 CE; eir-khwarazmshahs-iii]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: seljuk. Successors: mongol-iran. Bosworth, New Islamic Dynasties no. 89, pp. 178-80 (cited by Iranica). Wikidata: Q63134381 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

@@ -1,0 +1,10 @@
+id: mongol-iran-korguz
+name: Körgüz
+title: governor of Khorasan
+polity: mongol-iran
+earliest: 1219
+latest: 1243
+sources:
+- eir-argun-aqa
+confidence: scholarly-consensus
+note: "Reign as given: late 1230s - early 1240s. Start unknown; end 1241 CE to 1243 CE. Start year unknown; earliest is the polity start bound (1219 CE), not a reign date. Arrested after Ögedei's death (1241) and executed in Mongolia. Evidence: scholarly-or-primary."

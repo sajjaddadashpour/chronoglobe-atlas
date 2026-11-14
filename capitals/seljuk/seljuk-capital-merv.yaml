@@ -1,0 +1,12 @@
+id: seljuk-capital-merv
+polity: seljuk
+place: Merv
+earliest: 1118
+latest: 1153
+sources:
+- wp-en-seljuk-empire
+confidence: estimate
+low: 1118
+high: 1153
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: Sanjar's capital (east). Dates as given: 1118–1153. Start 1118 CE; end 1153 CE. Evidence: secondary-only."

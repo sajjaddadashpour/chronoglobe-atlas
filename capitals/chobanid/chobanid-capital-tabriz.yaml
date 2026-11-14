@@ -1,0 +1,10 @@
+id: chobanid-capital-tabriz
+polity: chobanid
+place: Tabriz
+earliest: 1335
+latest: 1357
+sources:
+- eir-chobanids
+- wp-en-chobanids
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 1335/38–1357. Start 1335 CE to 1338 CE; end 1357 CE. Evidence: scholarly-or-primary."

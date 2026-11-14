@@ -1,0 +1,10 @@
+id: qajar-capital-tehran
+polity: qajar
+place: Tehran
+earliest: 1786
+latest: 1925
+sources:
+- eir-fath-ali-shah
+- eir-tehran-i
+confidence: attested
+note: "Role: capital. Dates as given: 1786–1925. Start 1786 CE; end 1925 CE. Āqā Moḥammad Khan's \"newly established capital at Tehran\" by 21 March 1786 (Iranica). Old dataset started it 1789. Evidence: scholarly-or-primary."

@@ -1,0 +1,13 @@
+id: parthian-arsaces-i
+name: Arsaces I
+title: king / King of Kings
+polity: parthian
+earliest: -250
+latest: -217
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -250
+high: -217
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: c. 250/247–217 BC. Start 250 BCE to 247 BCE; end 217 BCE. The Wikipedia row cites: Venning 2023 p. 163. Evidence: secondary-only."

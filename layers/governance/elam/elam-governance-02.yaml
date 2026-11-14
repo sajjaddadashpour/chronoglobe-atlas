@@ -1,0 +1,14 @@
+id: elam-governance-02
+layer: governance
+polity: elam
+subject: "governance form: Awan dynasty"
+earliest: -2400
+latest: -2100
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: estimate
+note: "Governance type: dynasty. Label: Awan dynasty. Dates as given: 2400–2100 BCE. Start 2400 BCE; end 2100 BCE. Evidence: scholarly-or-primary."

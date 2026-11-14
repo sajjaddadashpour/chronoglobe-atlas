@@ -1,0 +1,10 @@
+id: elam-capital-susa
+polity: elam
+place: Susa
+earliest: -3300
+latest: -539
+sources:
+- eir-elam-i
+- eir-susa-ii
+confidence: scholarly-consensus
+note: "Role: principal city / capital. Dates as given: 3300/3100–539 BCE. Start 3300 BCE to 3100 BCE; end 539 BCE. Capital in most periods; eclipsed by Madaktu and Hidalu in the 7th century and sacked 646. Evidence: scholarly-or-primary."

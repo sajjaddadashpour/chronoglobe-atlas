@@ -1,0 +1,14 @@
+id: elam-governance-07
+layer: governance
+polity: elam
+subject: "governance form: Middle Elamite III: Šutrukids"
+earliest: -1210
+latest: -1100
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: estimate
+note: "Governance type: dynasty. Label: Middle Elamite III: Šutrukids. Dates as given: 1210–1100 BCE. Start 1210 BCE; end 1100 BCE. Evidence: scholarly-or-primary."

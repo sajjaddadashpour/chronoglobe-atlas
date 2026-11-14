@@ -1,0 +1,13 @@
+id: elam-humban-haltas-iii
+name: Humban-haltaš III
+title: king
+polity: elam
+earliest: -648
+latest: -645
+sources:
+- eir-elam-i
+confidence: estimate
+low: -648
+high: -645
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: fl. 648-646 BCE. Start 648 BCE; end 646 BCE to 645 BCE. Killed Indabigaš in 648 BCE; king at the time of the sack of Susa (646). Evidence: scholarly-or-primary."

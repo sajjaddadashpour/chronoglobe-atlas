@@ -1,0 +1,14 @@
+id: qajar-governance-01
+layer: governance
+polity: qajar
+subject: "governance form: absolute monarchy"
+earliest: 1779
+latest: 1906
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-constitutional-revolution-i
+confidence: scholarly-consensus
+note: "Governance type: absolute monarchy. Dates as given: 1779/96–1906. Start 1779 CE to 1796 CE; end 1906 CE. Evidence: scholarly-or-primary."

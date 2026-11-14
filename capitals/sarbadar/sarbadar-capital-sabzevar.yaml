@@ -1,0 +1,10 @@
+id: sarbadar-capital-sabzevar
+polity: sarbadar
+place: Sabzevār
+earliest: 1337
+latest: 1381
+sources:
+- eir-sarbedars
+- wp-en-sarbadars
+confidence: attested
+note: "Role: capital. Dates as given: 1337–1381. Start 1337 CE; end 1381 CE. Evidence: scholarly-or-primary."

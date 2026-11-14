@@ -1,0 +1,13 @@
+id: ziyarid-capital-ray
+polity: ziyarid
+place: Ray
+earliest: 935
+latest: 943
+sources:
+- eir-ziyarids
+- wp-en-ziyarid-dynasty
+confidence: estimate
+low: 935
+high: 943
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 935–943. Start 935 CE; end 943 CE. Evidence: scholarly-or-primary."

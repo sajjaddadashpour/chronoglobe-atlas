@@ -1,0 +1,14 @@
+id: elam-governance-06
+layer: governance
+polity: elam
+subject: "governance form: Middle Elamite II: Igihalkids"
+earliest: -1400
+latest: -1210
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: contested
+note: "Governance type: dynasty. Label: Middle Elamite II: Igihalkids. Dates as given: 1400/1320–1210 BCE. Start 1400 BCE to 1320 BCE; end 1210 BCE. Vallat gives c. 1400-1210 in his period table but also says Igi-halki seized power \"in about 1320\", and that new evidence makes the dynasty \"older by about a century\". Both readings kept. Evidence: scholarly-or-primary."

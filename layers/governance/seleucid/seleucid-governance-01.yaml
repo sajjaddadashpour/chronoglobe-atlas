@@ -1,0 +1,14 @@
+id: seleucid-governance-01
+layer: governance
+polity: seleucid
+subject: "governance form: imperial monarchy"
+earliest: -312
+latest: -63
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-seleucid-empire
+confidence: scholarly-consensus
+note: "Governance type: imperial monarchy. Dates as given: 312/11–64/63 BCE. Start 312 BCE to 311 BCE; end 64 BCE to 63 BCE. Evidence: scholarly-or-primary."

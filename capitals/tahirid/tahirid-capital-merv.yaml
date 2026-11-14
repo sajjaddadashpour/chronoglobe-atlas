@@ -1,0 +1,13 @@
+id: tahirid-capital-merv
+polity: tahirid
+place: Merv (Marv)
+earliest: 821
+latest: 830
+sources:
+- eir-taherids
+- wp-en-tahirid-dynasty
+confidence: estimate
+low: 821
+high: 830
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 821–828/30. Start 821 CE; end 828 CE to 830 CE. Evidence: scholarly-or-primary."

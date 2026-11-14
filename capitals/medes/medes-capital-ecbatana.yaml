@@ -1,0 +1,10 @@
+id: medes-capital-ecbatana
+polity: medes
+place: "Ecbatana (Hagmatāna, Hamadan)"
+earliest: -728
+latest: -550
+sources:
+- eir-media-ii
+- eir-ecbatana
+confidence: contested
+note: "Role: capital. Dates as given: 728/672–550 BCE. Start 728 BCE to 672 BCE; end 550 BCE. Capital per Herodotus (founded by Deioces in his story); archaeological confirmation of a Median-period city is limited. Evidence: scholarly-or-primary."

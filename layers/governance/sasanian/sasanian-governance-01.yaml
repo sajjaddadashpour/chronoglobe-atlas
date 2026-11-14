@@ -1,0 +1,14 @@
+id: sasanian-governance-01
+layer: governance
+polity: sasanian
+subject: "governance form: imperial monarchy"
+earliest: 224
+latest: 651
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-sasanian-dynasty
+confidence: scholarly-consensus
+note: "Governance type: imperial monarchy. Dates as given: 224–650/51. Start 224 CE; end 650 CE to 651 CE. Evidence: scholarly-or-primary."

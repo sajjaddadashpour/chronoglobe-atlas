@@ -1,0 +1,13 @@
+id: parthian-capital-nisa
+polity: parthian
+place: Nisa (Mithradatkirt)
+earliest: -247
+latest: -138
+sources:
+- eir-nisa
+- wp-en-parthian-empire
+confidence: estimate
+low: -247
+high: -138
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: early royal seat / dynastic necropolis. Dates as given: 247/38–171/38 BCE. Start 247 BCE to 238 BCE; end 171 BCE to 138 BCE. Bounds are an estimate (early Arsacid period). Evidence: scholarly-or-primary."

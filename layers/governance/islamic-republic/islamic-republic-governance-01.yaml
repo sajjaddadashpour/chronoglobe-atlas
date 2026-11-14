@@ -1,0 +1,14 @@
+id: islamic-republic-governance-01
+layer: governance
+polity: islamic-republic
+subject: "governance form: Provisional Government (Bāzargān)"
+earliest: 1979
+latest: 1979
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-khomeini-i
+confidence: attested
+note: "Governance type: Provisional Government (Bāzargān). Dates as given: 1979. Start 1979 CE; end 1979 CE. Bāzargān agreed to the premiership after meeting Khomeini on 4 Feb 1979; resignation date not extracted. Evidence: scholarly-or-primary."

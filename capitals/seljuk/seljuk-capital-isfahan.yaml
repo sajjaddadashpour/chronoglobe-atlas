@@ -1,0 +1,12 @@
+id: seljuk-capital-isfahan
+polity: seljuk
+place: Isfahan
+earliest: 1051
+latest: 1118
+sources:
+- wp-en-seljuk-empire
+confidence: estimate
+low: 1051
+high: 1118
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1051–1118. Start 1051 CE; end 1118 CE. Evidence: secondary-only."

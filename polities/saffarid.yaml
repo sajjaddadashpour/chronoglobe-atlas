@@ -1,0 +1,12 @@
+id: saffarid
+name: Saffarids
+kind: state
+earliest: 861
+latest: 1003
+sources:
+- eir-saffarids
+- eir-sistan-ii
+- wp-en-list-of-monarchs-of-iran
+- wp-en-saffarid-dynasty
+confidence: contested
+note: "Persian name: صفاریان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): amirate (Sistan-based). Start: 247/861 (Iranica) or 867 (Wikipedia) [contested; bounds 861 CE to 867 CE; eir-saffarids, wp-en-list-of-monarchs-of-iran]. Iranica (Bosworth) dates the dynasty from 247/861 (Yaʿqub in power in Sistān); the Wikipedia list starts Yaʿqub's reign 867. End: 1002/1003 (Khalaf deposed by Maḥmud of Ghazna) [scholarly-consensus; bounds 1002 CE to 1003 CE; eir-saffarids, wp-en-list-of-monarchs-of-iran]. Iranica 393/1003; Wikipedia 1002. Later Saffarid maliks of Nimruz continued locally to the 16th century. Record label contested is the weaker of the start label (contested) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: tahirid. Successors: ghaznavid; samanid (in Khorasan after 900). Bosworth, New Islamic Dynasties no. 84, pp. 172-73 (cited by Iranica; not consulted directly). Wikidata: Q45310 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

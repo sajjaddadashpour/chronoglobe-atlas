@@ -1,0 +1,14 @@
+id: achaemenid-governance-01
+layer: governance
+polity: achaemenid
+subject: "governance form: Kingdom of Anshan/Persis under Cyrus II (pre-imperial)"
+earliest: -559
+latest: -550
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-cyrus-iii
+confidence: scholarly-consensus
+note: "Governance type: kingship. Label: Kingdom of Anshan/Persis under Cyrus II (pre-imperial). Dates as given: 559–550 BCE. Start 559 BCE; end 550 BCE. Evidence: scholarly-or-primary."

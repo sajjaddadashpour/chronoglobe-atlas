@@ -1,0 +1,11 @@
+id: qara-qoyunlu
+name: Qara Qoyunlu
+kind: state
+earliest: 1351
+latest: 1469
+sources:
+- wp-en-qara-qoyunlu
+- wp-en-list-of-rulers-of-qara-qoyunlu
+- eir-aq-qoyunlu
+confidence: contested
+note: "Persian name: قره‌قویونلو (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): Turkmen tribal confederation / sultanate. Start: c. 1374 (Bayram Ḵᵛāja; TDV gives 1351) [contested; bounds 1351 CE to 1374 CE; wp-en-qara-qoyunlu, wp-en-list-of-rulers-of-qara-qoyunlu]. End: 1467-1469 (Jahānšāh killed 1467; Ḥasan ʿAli captured Jan 1469) [scholarly-consensus; bounds 1467 CE to 1469 CE; eir-aq-qoyunlu, wp-en-qara-qoyunlu]. Record label contested is the weaker of the start label (contested) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: jalayirid; timurid. Successors: aq-qoyunlu. Iranica QARA QOYUNLU is not online. Wikipedia's two Qara Qoyunlu pages disagree with each other on early reign years; all rulers secondary-only. Wikidata: Q324470 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996, chi-6."

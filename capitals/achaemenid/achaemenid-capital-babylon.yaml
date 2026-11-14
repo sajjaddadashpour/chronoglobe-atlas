@@ -1,0 +1,10 @@
+id: achaemenid-capital-babylon
+polity: achaemenid
+place: Babylon
+earliest: -539
+latest: -330
+sources:
+- eir-achaemenid-dynasty-i
+- wp-en-achaemenid-empire
+confidence: scholarly-consensus
+note: "Role: royal residence / winter capital. Dates as given: 539–330 BCE. Start 539 BCE; end 330 BCE. Wikipedia cites CHI 3 p. 482 for Babylon as the most important residence. Evidence: scholarly-or-primary."

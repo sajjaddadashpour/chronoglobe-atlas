@@ -1,0 +1,30 @@
+id: safavid
+name: Safavid Iran
+kind: state
+earliest: 1501
+latest: 1736
+sources:
+- eir-safavid-dynasty
+- eir-isfahan-vii
+- wp-en-list-of-monarchs-of-iran
+- wp-en-safavid-iran
+- eir-afghanistan-x
+- eir-afsharids
+confidence: contested
+alternatives:
+- value: "end: Oct 1722 (abdication of Solṭān-Ḥosayn at Isfahan)"
+  low: 1722
+  high: 1722
+  sources:
+  - eir-safavid-dynasty
+  - eir-afghanistan-x
+  - wp-en-list-of-monarchs-of-iran
+  note: Reading labelled scholarly-consensus.
+- value: "end: 8 Mar 1736 (end of ʿAbbās III; Nader crowned)"
+  low: 1736
+  high: 1736
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+  - eir-afsharids
+  note: Reading labelled scholarly-consensus.
+note: "Persian name: ایران صفوی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): shahdom. Start: 1501 (Esmāʿil proclaimed shah in Tabriz) [scholarly-consensus; bounds 1501 CE; eir-safavid-dynasty, wp-en-safavid-iran]. The Wikipedia monarch list starts Esmāʿil I's reign 11 May 1502 (Spuler); the polity is dated 1501 by Iranica and Wikipedia's Safavid article. End: 1722 (fall of Isfahan) or 1736 (deposition of ʿAbbās III) [contested; bounds 1722 CE to 1736 CE; eir-safavid-dynasty, wp-en-list-of-monarchs-of-iran]. Iranica (Matthee): \"ruled Persia from 1501 to 1722\". Safavid shahs reigned nominally under Nader until 8 March 1736 (old dataset end), and Zand-era puppets until 1773. Record label contested is the weaker of the start label (scholarly-consensus) and end label (contested); see docs/iran/README.md. Predecessors: aq-qoyunlu; timurid. Successors: hotaki; afsharid. Wikidata: Q18234383 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-6."

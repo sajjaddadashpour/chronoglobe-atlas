@@ -1,0 +1,12 @@
+id: muzaffarid-capital-yazd
+polity: muzaffarid
+place: Yazd
+earliest: 1314
+latest: 1353
+sources:
+- eir-mozaffarids
+confidence: estimate
+low: 1314
+high: 1353
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1314–1340/53. Start 1314 CE; end 1340 CE to 1353 CE. Evidence: scholarly-or-primary."

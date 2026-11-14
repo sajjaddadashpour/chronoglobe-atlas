@@ -1,0 +1,10 @@
+id: kartid-capital-herat
+polity: kartid
+place: Herat
+earliest: 1245
+latest: 1381
+sources:
+- eir-al-e-kart
+- eir-herat-iii
+confidence: attested
+note: "Role: capital. Dates as given: 1245–1381. Start 1245 CE; end 1381 CE. Evidence: scholarly-or-primary."

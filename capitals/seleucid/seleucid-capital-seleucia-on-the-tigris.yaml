@@ -1,0 +1,10 @@
+id: seleucid-capital-seleucia-on-the-tigris
+polity: seleucid
+place: Seleucia on the Tigris
+earliest: -305
+latest: -141
+sources:
+- eir-seleucid-empire
+- wp-en-seleucid-empire
+confidence: scholarly-consensus
+note: "Role: eastern royal capital. Dates as given: 305–141 BCE. Start 305 BCE; end 141 BCE. Iranica names Seleucia on the Tigris as one of the capitals; Wikipedia gives 305-240 as main capital before Antioch. End for Iran: lost with Babylonia 141 BCE. Evidence: scholarly-or-primary."

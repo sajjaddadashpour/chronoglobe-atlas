@@ -1,0 +1,13 @@
+id: injuid-capital-isfahan
+polity: injuid
+place: Isfahan
+earliest: 1342
+latest: 1353
+sources:
+- eir-inju-dynasty
+- wp-en-injuids
+confidence: estimate
+low: 1342
+high: 1353
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1342/43–1353. Start 1342 CE to 1343 CE; end 1353 CE. Evidence: scholarly-or-primary."

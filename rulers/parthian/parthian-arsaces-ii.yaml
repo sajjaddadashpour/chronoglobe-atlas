@@ -1,0 +1,13 @@
+id: parthian-arsaces-ii
+name: Arsaces II
+title: king / King of Kings
+polity: parthian
+earliest: -217
+latest: -191
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -217
+high: -191
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: c. 217–191 BC. Start 217 BCE; end 191 BCE. The Wikipedia row cites: Venning 2023 p. 163. Evidence: secondary-only."

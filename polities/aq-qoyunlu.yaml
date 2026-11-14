@@ -1,0 +1,11 @@
+id: aq-qoyunlu
+name: Aq Qoyunlu
+kind: state
+earliest: 1348
+latest: 1508
+sources:
+- eir-aq-qoyunlu
+- wp-en-list-of-monarchs-of-iran
+- wp-en-aq-qoyunlu
+confidence: contested
+note: "Persian name: آق‌قویونلو (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): Turkmen tribal confederation / sultanate. Start: 1348 (Wikipedia) ... Āmed from c. 1394-1403 [contested; bounds 1348 CE to 1403 CE; eir-aq-qoyunlu, wp-en-aq-qoyunlu]. Old dataset began 1469 (move to Tabriz). Iranica: rulers based at Āmed (Diyarbakr) after c. 1394; Wikipedia infobox 1348, Âmid capital 1403-1468. End: 1503 (Fārs/Kerman) - 1508 (Mesopotamia) [contested; bounds 1503 CE to 1508 CE; eir-aq-qoyunlu, wp-en-aq-qoyunlu]. Iranica: Esmāʿil defeated them autumn 1501, took Fārs and Kerman 1503, Diyarbakr 1507-08, Mesopotamia 1508; Wikipedia ends summer 1503. Record label contested is the weaker of the start label (contested) and end label (contested); see docs/iran/README.md. Predecessors: qara-qoyunlu; timurid. Successors: safavid. Wikidata: Q555994 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996, chi-6."

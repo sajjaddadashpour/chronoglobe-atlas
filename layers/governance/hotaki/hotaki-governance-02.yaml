@@ -1,0 +1,15 @@
+id: hotaki-governance-02
+layer: governance
+polity: hotaki
+subject: "governance form: occupation of Isfahan and central Iran"
+earliest: 1722
+latest: 1729
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-kandahar-iv
+- eir-afghanistan-x
+confidence: scholarly-consensus
+note: "Governance type: occupation of Isfahan and central Iran. Dates as given: 1722–1729. Start 1722 CE; end 1729 CE. Evidence: scholarly-or-primary."

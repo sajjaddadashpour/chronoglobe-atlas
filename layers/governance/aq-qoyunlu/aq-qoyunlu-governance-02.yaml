@@ -1,0 +1,14 @@
+id: aq-qoyunlu-governance-02
+layer: governance
+polity: aq-qoyunlu
+subject: "governance form: sultanate ruling Iran from Tabriz"
+earliest: 1469
+latest: 1501
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-aq-qoyunlu
+confidence: scholarly-consensus
+note: "Governance type: sultanate ruling Iran from Tabriz. Dates as given: 1469–1497/1501. Start 1469 CE; end 1497 CE to 1501 CE. Evidence: scholarly-or-primary."

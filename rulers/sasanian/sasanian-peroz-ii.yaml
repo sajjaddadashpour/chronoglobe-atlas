@@ -1,0 +1,13 @@
+id: sasanian-peroz-ii
+name: Peroz II
+title: King of Kings
+polity: sasanian
+earliest: 632
+latest: 633
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: 632
+high: 633
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 632–632/633. Start 632 CE; end 632 CE to 633 CE. The Wikipedia row cites: Venning 2023 p. 170. Evidence: secondary-only."

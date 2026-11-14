@@ -1,0 +1,14 @@
+id: buyid-governance-01
+layer: governance
+polity: buyid
+subject: "governance form: amirates; amir al-umarāʾ over the caliph in Baghdad"
+earliest: 945
+latest: 1055
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-buyids
+confidence: attested
+note: "Governance type: amirates; amir al-umarāʾ over the caliph in Baghdad. Dates as given: 945–1055. Start 945 CE; end 1055 CE. Aḥmad (Moʿezz-al-Dawla) entered Baghdad 19 Dec 945. Evidence: scholarly-or-primary."

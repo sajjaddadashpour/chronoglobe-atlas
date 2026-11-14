@@ -1,0 +1,12 @@
+id: persis-capital-persepolis-area
+polity: persis
+place: Persepolis (Pārsa) area
+earliest: -220
+latest: -140
+sources:
+- eir-frataraka
+confidence: estimate
+low: -220
+high: -140
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: seat of the fratarakā (presumed). Dates as given: 220/180–140 BCE. Start 220 BCE to 180 BCE; end 140 BCE. \"Their seat was presumably at Persepolis\". Evidence: scholarly-or-primary."

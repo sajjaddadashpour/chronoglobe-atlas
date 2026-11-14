@@ -1,0 +1,19 @@
+id: achaemenid-darius-ii
+name: Darius II
+title: King of Kings
+polity: achaemenid
+earliest: -423
+latest: -403
+sources:
+- eir-darius-iv-darius-ii
+- wp-en-list-of-monarchs-of-iran
+confidence: contested
+alternatives:
+- value: Feb 423 - Mar 404 BCE
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+  note: "Cites: D; a; n; d; a; m; a; e; v;  ; 1; 9; 8; 9;  ; p; .;  ; 3; 5; 3"
+- value: 423 - 403 BCE (death)
+  sources:
+  - eir-darius-iv-darius-ii
+note: "Reign as given: Feb 423 - 404 or 403 BCE. Start 423 BCE; end 404 BCE to 403 BCE. Iranica (Sancisi-Weerdenburg) end differs from Wikipedia; also overlaps Iranica Artaxerxes II start 405/04. Evidence: scholarly-or-primary."

@@ -1,0 +1,12 @@
+id: samanid-capital-samarkand
+polity: samanid
+place: Samarkand
+earliest: 819
+latest: 892
+sources:
+- wp-en-samanid-empire
+confidence: estimate
+low: 819
+high: 892
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 819–892. Start 819 CE; end 892 CE. Secondary only. Evidence: secondary-only."

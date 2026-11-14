@@ -1,0 +1,12 @@
+id: ghaznavid
+name: Ghaznavids
+kind: state
+earliest: 977
+latest: 1186
+sources:
+- eir-ghaznavids
+- wp-en-list-of-monarchs-of-iran
+- wp-en-ghaznavid-empire
+- eir-khorasan-vi
+confidence: scholarly-consensus
+note: "Persian name: غزنویان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): sultanate. Start: 977 [scholarly-consensus; bounds 977 CE; eir-ghaznavids]. End: 1186 [scholarly-consensus; bounds 1186 CE; eir-ghaznavids]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: samanid; saffarid. Successors: seljuk (in Khorasan after Dandānqān 1040). Control of Iran: 999 CE to 1040 CE (Khorasan held from the Samanid collapse until the defeat at Dandānqān, 1040 (start year estimated)) [estimate; eir-ghaznavids, eir-khorasan-vi]. Old chronoglobe had this polity outside the Iran lineage (in-ghaznavid) and still labelled Mashhad \"Ghaznavid\" in 1100 and 1200. Wikidata: Q249578 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

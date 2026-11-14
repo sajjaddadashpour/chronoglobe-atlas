@@ -1,0 +1,14 @@
+id: jalayirid-governance-01
+layer: governance
+polity: jalayirid
+subject: "governance form: amir-e olus ruling through puppet il-khans (no claim to sovereignty)"
+earliest: 1336
+latest: 1356
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-jalayerids
+confidence: attested
+note: "Governance type: amir-e olus ruling through puppet il-khans (no claim to sovereignty). Dates as given: 1336–1356. Start 1336 CE; end 1356 CE. Ḥasan-e Bozorg \"never claimed to be sovereign\". Evidence: scholarly-or-primary."

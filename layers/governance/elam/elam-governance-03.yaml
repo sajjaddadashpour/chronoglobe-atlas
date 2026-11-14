@@ -1,0 +1,14 @@
+id: elam-governance-03
+layer: governance
+polity: elam
+subject: "governance form: Šimaški dynasty"
+earliest: -2100
+latest: -1970
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: estimate
+note: "Governance type: dynasty. Label: Šimaški dynasty. Dates as given: 2100–1970 BCE. Start 2100 BCE; end 1970 BCE. Evidence: scholarly-or-primary."

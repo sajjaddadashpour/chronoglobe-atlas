@@ -1,0 +1,10 @@
+id: sarbadar
+name: Sarbadars (Sarbedārs)
+kind: state
+earliest: 1337
+latest: 1381
+sources:
+- eir-sarbedars
+- wp-en-sarbadars
+confidence: scholarly-consensus
+note: "Persian name: سربداران (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): republican-like amirate of notables and dervishes (western Khorasan). Start: 9 Sep 1337 (seizure of Sabzevār) [attested; bounds 1337 CE; eir-sarbedars]. Uprising began earlier (Wikipedia starts ʿAbd-al-Razzāq 1332 or 1336). Iranica's introduction misprints Abu Saʿid's death as 1326. End: 1381 (ʿAli b. Moʾayyad submits to Timur, Nishapur, April 1381) [scholarly-consensus; bounds 1381 CE; eir-sarbedars]. Record label scholarly-consensus is the weaker of the start label (attested) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: ilkhanate. Successors: timurid. Wikidata: Q1931074 (via wp-fa-langlinks; verify item scope before use)."

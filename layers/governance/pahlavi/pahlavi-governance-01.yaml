@@ -1,0 +1,14 @@
+id: pahlavi-governance-01
+layer: governance
+polity: pahlavi
+subject: "governance form: constitutional monarchy under the 1906-07 constitution"
+earliest: 1925
+latest: 1979
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-pahlavi-iran
+confidence: scholarly-consensus
+note: "Governance type: constitutional monarchy under the 1906-07 constitution. Dates as given: 1925–1979. Start 1925 CE; end 1979 CE. 1949 amendment gave the shah power to dissolve the Majles (Wikipedia). Evidence: secondary-only."

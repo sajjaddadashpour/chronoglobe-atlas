@@ -1,0 +1,11 @@
+id: seleucid
+name: Seleucid Empire
+kind: empire
+earliest: -312
+latest: -63
+sources:
+- eir-seleucid-empire
+- wp-en-seleucid-empire
+- wp-en-list-of-monarchs-of-iran
+confidence: scholarly-consensus
+note: "Persian name: امپراتوری سلوکی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): empire (Macedonian dynasty). Start: 312/311 BCE (Seleucid era; Seleucus regains Babylon) [scholarly-consensus; bounds 312 BCE to 311 BCE; eir-seleucid-empire]. Other readings (bound not contested): 305 BCE (Seleucus takes the royal title) [scholarly-consensus; wp-en-list-of-monarchs-of-iran]. End: 64/63 BCE (collapse in Syria) [scholarly-consensus; bounds 64 BCE to 63 BCE; eir-seleucid-empire, wp-en-seleucid-empire]. For the Iranian plateau the effective end is earlier: Media lost to the Parthians in 148 BCE, Babylonia in 141, and Antiochus VII's attempt at reconquest failed in 130/129. Iranica gives 64 BCE; Wikipedia infobox 63 BCE. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: argead. Successors: parthian (on the Iranian plateau, 148-129 BCE). Control of Iran: 312 BCE to 148 BCE (Media held until 148 BCE) [scholarly-consensus; eir-seleucid-empire]. Control of Iran: 148 BCE to 141 BCE (Babylonia held until 141 BCE) [scholarly-consensus; eir-seleucid-empire]. Wikidata: Q93180 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-3."

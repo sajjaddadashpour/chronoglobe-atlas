@@ -1,0 +1,14 @@
+id: elam-governance-01
+layer: governance
+polity: elam
+subject: "governance form: Proto-Elamite period (script used to c. 2700)"
+earliest: -3300
+latest: -2700
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: estimate
+note: "Governance type: phase. Label: Proto-Elamite period (script used to c. 2700). Dates as given: 3300/3100–2700 BCE. Start 3300 BCE to 3100 BCE; end 2700 BCE. Evidence: scholarly-or-primary."

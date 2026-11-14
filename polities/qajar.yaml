@@ -1,0 +1,43 @@
+id: qajar
+name: Qajar Iran
+kind: state
+earliest: 1779
+latest: 1925
+sources:
+- eir-fath-ali-shah
+- eir-ahmad-shah-qajar
+- eir-constitutional-revolution-i
+- eir-constitutional-revolution-ii
+- wp-en-list-of-monarchs-of-iran
+- wp-en-qajar-iran
+- eir-zand-dynasty
+- wp-en-pahlavi-iran
+- eir-afsharids
+confidence: contested
+alternatives:
+- value: "start: 1779 (death of Karim Khan; Iranica ZAND gives r. 1779-97)"
+  low: 1779
+  high: 1779
+  sources:
+  - eir-zand-dynasty
+  note: Reading labelled scholarly-consensus.
+- value: "start: 21 Mar 1786 (accession at Tehran)"
+  low: 1786
+  high: 1786
+  sources:
+  - eir-fath-ali-shah
+  note: Reading labelled attested.
+- value: "start: 1789 (Wikipedia / old dataset)"
+  low: 1789
+  high: 1789
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+  note: Reading labelled scholarly-consensus.
+- value: "start: 1796 (royal title / coronation; Khorasan taken)"
+  low: 1796
+  high: 1796
+  sources:
+  - eir-fath-ali-shah
+  - eir-afsharids
+  note: Reading labelled estimate.
+note: "Persian name: ایران قاجاری (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): shahdom; constitutional monarchy from 1906. Start: 1779 / 1786 / 1789 / 1796 (see alternatives) [contested; bounds 1779 CE to 1796 CE; eir-zand-dynasty, eir-fath-ali-shah, wp-en-list-of-monarchs-of-iran]. Āqā Moḥammad Khan: rule counted from 1779 (Iranica ZAND, r. 1779-97); accession at his new capital Tehran 21 March 1786 (Iranica FATḤ-ʿALI SHAH); 1789 in the Wikipedia list (and the old dataset); he assumed the royal title only later (coronation; year to verify). End: 1925 (Majles deposes the dynasty, 12 Dec; Reza Shah 15 Dec) [attested; bounds 1925 CE; wp-en-pahlavi-iran, eir-ahmad-shah-qajar, wp-en-list-of-monarchs-of-iran]. Record label contested is the weaker of the start label (contested) and end label (attested); see docs/iran/README.md. Predecessors: zand; afsharid. Successors: pahlavi. Wikidata: Q63158027 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-7."

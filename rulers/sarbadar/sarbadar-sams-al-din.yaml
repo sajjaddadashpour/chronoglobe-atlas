@@ -1,0 +1,14 @@
+id: sarbadar-sams-al-din
+name: Šams-al-Din (brother of Masʿud)
+title: leader (regent for Loṭf-Allāh)
+polity: sarbadar
+earliest: 1347
+latest: 1347
+sources:
+- eir-sarbedars
+- wp-en-sarbadars
+confidence: estimate
+low: 1347
+high: 1347
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 1347. Start 1347 CE; end 1347 CE. Evidence: scholarly-or-primary."
