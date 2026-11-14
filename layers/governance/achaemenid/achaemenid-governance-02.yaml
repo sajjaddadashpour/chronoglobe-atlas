@@ -1,0 +1,14 @@
+id: achaemenid-governance-02
+layer: governance
+polity: achaemenid
+subject: "governance form: King of Kings; satrapal administration"
+earliest: -550
+latest: -330
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-achaemenid-dynasty-i
+confidence: scholarly-consensus
+note: "Governance type: imperial monarchy. Label: King of Kings; satrapal administration. Dates as given: 550–330 BCE. Start 550 BCE; end 330 BCE. Evidence: scholarly-or-primary."

@@ -1,0 +1,10 @@
+id: buyid-capital-baghdad
+polity: buyid
+place: Baghdad
+earliest: 945
+latest: 1055
+sources:
+- eir-buyids
+- wp-en-buyid-dynasty
+confidence: attested
+note: "Role: seat of the Buyids of Iraq. Dates as given: 945–1055. Start 945 CE; end 1055 CE. Evidence: scholarly-or-primary."

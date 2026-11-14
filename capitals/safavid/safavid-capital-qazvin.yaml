@@ -1,0 +1,10 @@
+id: safavid-capital-qazvin
+polity: safavid
+place: Qazvin
+earliest: 1555
+latest: 1598
+sources:
+- eir-safavid-dynasty
+- wp-en-safavid-iran
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 1555–1597/98. Start 1555 CE; end 1597 CE to 1598 CE. Start year secondary only. Evidence: scholarly-or-primary."

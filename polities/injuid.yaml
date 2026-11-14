@@ -1,0 +1,14 @@
+id: injuid
+name: Injuids
+kind: state
+earliest: 1325
+latest: 1353
+sources:
+- eir-inju-dynasty
+- wp-en-injuids
+- eir-mozaffarids
+confidence: estimate
+low: 1325
+high: 1353
+method: "low and high are the outer year bounds of the span (earliest possible start, latest possible end), taken from the dated estimates in the cited sources; per-bound readings are in note."
+note: "Persian name: آل اینجو (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): governorship turned dynasty (Fārs). Start: c. 1325 (inju administration) / 1335 (autonomy after Abu Saʿid) [estimate; bounds 1325 CE to 1335 CE; eir-inju-dynasty]. End: 1353 (Abu Esḥāq ousted by Mobārez-al-Din) [scholarly-consensus; bounds 1353 CE; eir-inju-dynasty, eir-mozaffarids]. Record label estimate is the weaker of the start label (estimate) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: ilkhanate. Successors: muzaffarid. Wikidata: Q1067513 (via wp-fa-langlinks; verify item scope before use)."

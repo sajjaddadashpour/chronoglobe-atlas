@@ -1,0 +1,14 @@
+id: zand-governance-03
+layer: governance
+polity: zand
+subject: "governance form: succession struggle among Zand khans"
+earliest: 1779
+latest: 1794
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-zand-dynasty
+confidence: scholarly-consensus
+note: "Governance type: succession struggle among Zand khans. Dates as given: 1779–1794. Start 1779 CE; end 1794 CE. Evidence: scholarly-or-primary."

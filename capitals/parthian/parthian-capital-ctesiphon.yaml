@@ -1,0 +1,10 @@
+id: parthian-capital-ctesiphon
+polity: parthian
+place: Ctesiphon
+earliest: -171
+latest: 224
+sources:
+- eir-ctesiphon
+- eir-arsacids-ii
+confidence: scholarly-consensus
+note: "Role: winter residence / principal capital. Dates as given: 171/38 BCE – 224 CE. Start 171 BCE to 138 BCE; end 224 CE. Iranica CTESIPHON: winter residence from Mithradates I (c. 171-138) until 224. Old dataset started it at 129 BCE. Evidence: scholarly-or-primary."

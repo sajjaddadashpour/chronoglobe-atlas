@@ -1,0 +1,12 @@
+id: parthian-capital-hecatompylos
+polity: parthian
+place: Hecatompylos (Šahr-e Qumes)
+earliest: -238
+latest: -138
+sources:
+- eir-arsacids-ii
+confidence: estimate
+low: -238
+high: -138
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: early capital. Dates as given: 238/00–171/38 BCE. Start 238 BCE to 200 BCE; end 171 BCE to 138 BCE. Iranica: the capital moved from Hecatompylos to Ctesiphon; transfer date not given. Evidence: scholarly-or-primary."

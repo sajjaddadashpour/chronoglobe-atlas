@@ -1,0 +1,14 @@
+id: ghaznavid-governance-01
+layer: governance
+polity: ghaznavid
+subject: "governance form: sultanate"
+earliest: 977
+latest: 1186
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-ghaznavids
+confidence: scholarly-consensus
+note: "Governance type: sultanate. Dates as given: 977–1186. Start 977 CE; end 1186 CE. Evidence: scholarly-or-primary."

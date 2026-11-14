@@ -1,0 +1,11 @@
+id: umayyad
+name: Umayyad Caliphate
+kind: empire
+earliest: 661
+latest: 750
+sources:
+- wp-en-list-of-monarchs-of-iran
+- wp-en-umayyad-caliphate
+- eir-abbasid-caliphate
+confidence: scholarly-consensus
+note: "Persian name: خلافت اموی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): caliphate. Start: 661 CE [scholarly-consensus; bounds 661 CE; wp-en-list-of-monarchs-of-iran]. End: 750 CE (ʿAbbasid revolution) [scholarly-consensus; bounds 750 CE; eir-abbasid-caliphate, wp-en-list-of-monarchs-of-iran]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: rashidun. Successors: abbasid. Wikidata: Q8575586 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-4."

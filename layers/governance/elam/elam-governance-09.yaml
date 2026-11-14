@@ -1,0 +1,14 @@
+id: elam-governance-09
+layer: governance
+polity: elam
+subject: "governance form: Neo-Elamite II (Assyrian and Babylonian synchronisms)"
+earliest: -770
+latest: -646
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-elam-i
+confidence: scholarly-consensus
+note: "Governance type: phase. Label: Neo-Elamite II (Assyrian and Babylonian synchronisms). Dates as given: 770–646 BCE. Start 770 BCE; end 646 BCE. Evidence: scholarly-or-primary."

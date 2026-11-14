@@ -1,0 +1,13 @@
+id: ilkhanate-capital-maraga
+polity: ilkhanate
+place: Marāḡa (Maragheh)
+earliest: 1258
+latest: 1265
+sources:
+- eir-il-khanids-i
+- wp-en-ilkhanate
+confidence: estimate
+low: 1258
+high: 1265
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1258–1265. Start 1258 CE; end 1265 CE. Iranica mentions Hülegü's observatory at Marāḡa; years from Wikipedia. Evidence: scholarly-or-primary."

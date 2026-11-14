@@ -1,0 +1,10 @@
+id: mongol-iran-nosal
+name: "Nosal (*Baysal)"
+title: governor (successor of Čin Temür)
+polity: mongol-iran
+earliest: 1235
+latest: 1256
+sources:
+- eir-cin-timur
+confidence: reconstructed
+note: "Reign as given: from 1235/36. Start 1235 CE to 1236 CE; end unknown. End year unknown; latest is the polity end bound (1256 CE), not a reign date. End not given. Evidence: scholarly-or-primary."

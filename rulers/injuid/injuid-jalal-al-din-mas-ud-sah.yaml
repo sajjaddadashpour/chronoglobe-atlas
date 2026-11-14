@@ -1,0 +1,13 @@
+id: injuid-jalal-al-din-mas-ud-sah
+name: Jalāl-al-Din Masʿud Šāh
+title: ruler in Shiraz
+polity: injuid
+earliest: 1338
+latest: 1339
+sources:
+- eir-inju-dynasty
+confidence: estimate
+low: 1338
+high: 1339
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 1338 - 1339. Start 1338 CE; end 1339 CE. Defeated at Sarvestān 1339 by Pir Ḥosayn (Chobanid) and Šams-al-Din Moḥammad. Evidence: scholarly-or-primary."

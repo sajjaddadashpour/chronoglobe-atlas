@@ -1,0 +1,14 @@
+id: seljuk-governance-01
+layer: governance
+polity: seljuk
+subject: "governance form: sultanate (with the ʿAbbasid caliph as nominal sovereign)"
+earliest: 1037
+latest: 1194
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-seljuk-empire
+confidence: scholarly-consensus
+note: "Governance type: sultanate (with the ʿAbbasid caliph as nominal sovereign). Dates as given: 1037/38–1194. Start 1037 CE to 1038 CE; end 1194 CE. Evidence: secondary-only."

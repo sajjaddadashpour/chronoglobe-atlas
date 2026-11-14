@@ -1,0 +1,12 @@
+id: qara-qoyunlu-capital-tabriz
+polity: qara-qoyunlu
+place: Tabriz
+earliest: 1406
+latest: 1469
+sources:
+- wp-en-qara-qoyunlu
+confidence: estimate
+low: 1406
+high: 1469
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1406/11–1467/69. Start 1406 CE to 1411 CE; end 1467 CE to 1469 CE. Years not given in the source; Erciş and Mosul were seasonal pastures. Evidence: secondary-only."

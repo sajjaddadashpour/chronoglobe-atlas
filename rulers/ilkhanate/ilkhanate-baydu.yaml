@@ -1,0 +1,13 @@
+id: ilkhanate-baydu
+name: Baydu
+title: il-khan
+polity: ilkhanate
+earliest: 1295
+latest: 1295
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: 1295
+high: 1295
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 26 March – summer? 1295. Start 1295 CE; end 1295 CE. The Wikipedia row cites: Venning & 2023b  Mongol 'Ilkhanate' of Persia. Evidence: secondary-only."

@@ -1,0 +1,25 @@
+id: samanid
+name: Samanids
+kind: state
+earliest: 819
+latest: 1005
+sources:
+- eir-khorasan-vi
+- wp-en-list-of-monarchs-of-iran
+- wp-en-samanid-empire
+confidence: contested
+alternatives:
+- value: "start: 817/819 (district governorships)"
+  low: 817
+  high: 819
+  sources:
+  - eir-khorasan-vi
+  note: Reading labelled scholarly-consensus.
+- value: "start: 875 (Naṣr I invested over Transoxiana)"
+  low: 875
+  high: 875
+  sources:
+  - eir-khorasan-vi
+  - wp-en-list-of-monarchs-of-iran
+  note: Reading labelled scholarly-consensus.
+note: "Persian name: سامانیان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): amirate. Start: 819 (grants) / 875 (Naṣr invested) / 892 (Esmāʿil) [contested; bounds 819 CE to 892 CE; eir-khorasan-vi, wp-en-list-of-monarchs-of-iran]. Samanid brothers received districts c. 817 or 819; Naṣr I was invested with all Transoxiana in 875; Esmāʿil's formal accession 892. Default 819. End: 999 (Bukhara taken) / 1005 (death of Esmāʿil II al-Montaṣer) [contested; bounds 999 CE to 1005 CE; eir-khorasan-vi, wp-en-list-of-monarchs-of-iran]. Iranica khorasan vi: ʿAbd-al-Malek II 999-1000; Wikipedia ends the main line Feb 999 and lists Ismail II to 1005. Record label contested is the weaker of the start label (contested) and end label (contested); see docs/iran/README.md. Predecessors: tahirid; saffarid. Successors: ghaznavid. Iranica SAMANIDS article is not online; Bosworth NID pp. 170-71 cited by Iranica Khorasan vi. Wikidata: Q12150341 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

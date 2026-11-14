@@ -1,0 +1,12 @@
+id: ilkhanate-capital-tabriz-2
+polity: ilkhanate
+place: Tabriz
+earliest: 1335
+latest: 1357
+sources:
+- eir-chobanids
+confidence: estimate
+low: 1335
+high: 1357
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: seat of the Chobanid-backed khans. Dates as given: 1335–1357. Start 1335 CE; end 1357 CE. No single Ilkhanid capital after 1335. Evidence: scholarly-or-primary."

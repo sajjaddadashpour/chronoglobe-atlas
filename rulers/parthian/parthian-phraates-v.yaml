@@ -1,0 +1,13 @@
+id: parthian-phraates-v
+name: Phraates V
+title: king / King of Kings
+polity: parthian
+earliest: -2
+latest: 4
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -2
+high: 4
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 2 BC – AD 4. Start 2 BCE; end 4 CE. The Wikipedia row cites: Venning 2023 p. 164. Evidence: secondary-only."

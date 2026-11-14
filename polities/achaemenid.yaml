@@ -1,0 +1,14 @@
+id: achaemenid
+name: Achaemenid Empire
+kind: empire
+earliest: -550
+latest: -330
+sources:
+- eir-achaemenid-dynasty-i
+- eir-achaemenid-dynasty-ii
+- eir-cyrus-iii
+- wp-en-achaemenid-empire
+- eir-media-ii
+- eir-darius-v-darius-iii
+confidence: scholarly-consensus
+note: "Persian name: شاهنشاهی هخامنشی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Also called: First Persian Empire. Kind (draft wording): empire (King of Kings). Start: 550 BCE (defeat of Astyages) [scholarly-consensus; bounds 550 BCE; eir-cyrus-iii, eir-media-ii]. Cyrus II was king of Anshan/Persia from 559 BCE; the empire is conventionally dated from his defeat of the Medes. Other readings (bound not contested): 559 BCE (accession of Cyrus II in Persia) [scholarly-consensus; eir-cyrus-iii]. End: 330 BCE (death of Darius III) [attested; bounds 330 BCE; eir-darius-v-darius-iii]. Bessus (Artaxerxes V) claimed the throne 330-329 BCE in the east. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: medes; elam. Successors: argead. Wikidata: Q389688 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: briant-2002, chi-2."

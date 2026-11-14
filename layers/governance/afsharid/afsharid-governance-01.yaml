@@ -1,0 +1,15 @@
+id: afsharid-governance-01
+layer: governance
+polity: afsharid
+subject: "governance form: shahdom (empire under Nader)"
+earliest: 1736
+latest: 1747
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-afsharids
+- eir-nader-shah
+confidence: attested
+note: "Governance type: shahdom (empire under Nader). Dates as given: 1736–1747. Start 1736 CE; end 1747 CE. Evidence: scholarly-or-primary."

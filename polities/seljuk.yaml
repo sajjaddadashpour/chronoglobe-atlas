@@ -1,0 +1,11 @@
+id: seljuk
+name: Great Seljuk Sultanate
+kind: state
+earliest: 1037
+latest: 1194
+sources:
+- wp-en-list-of-monarchs-of-iran
+- wp-en-seljuk-empire
+- eir-khwarazmshahs-iii
+confidence: scholarly-consensus
+note: "Persian name: امپراتوری سلجوقی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): sultanate. Start: 1037/1038 (Ṭoḡrel at Nishapur) [scholarly-consensus; bounds 1037 CE to 1038 CE; wp-en-list-of-monarchs-of-iran, wp-en-seljuk-empire]. End: 590/1194 (Ṭoḡrïl III killed by the Khwarazmshah Tekeš) [attested; bounds 1194 CE; eir-khwarazmshahs-iii, wp-en-list-of-monarchs-of-iran, wp-en-seljuk-empire]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: ghaznavid; buyid. Successors: khwarazmian. Iranica has no online article on the Great Seljuks; all Seljuk data here is secondary-only. Wikidata: Q3708094 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-5."

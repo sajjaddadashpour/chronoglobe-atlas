@@ -1,0 +1,13 @@
+id: ilkhanate-ghazan-khan
+name: Ghazan Khan
+title: il-khan
+polity: ilkhanate
+earliest: 1295
+latest: 1304
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: 1295
+high: 1304
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: Summer? 1295 – 11 May 1304. Start 1295 CE; end 1304 CE. The Wikipedia row cites: Venning & 2023b  Mongol 'Ilkhanate' of Persia. Evidence: secondary-only."

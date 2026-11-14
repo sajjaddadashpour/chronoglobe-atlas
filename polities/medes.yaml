@@ -1,0 +1,36 @@
+id: medes
+name: Median kingdom (Medes)
+kind: state
+earliest: -728
+latest: -550
+sources:
+- eir-media-ii
+- eir-media-iii
+- eir-deioces
+- eir-phraortes
+- eir-cyaxares
+- eir-astyages
+- wp-en-medes
+- eir-cyrus-iii
+confidence: contested
+alternatives:
+- value: "start: 728 BCE (Diakonoff/Cameron; Deioces c. 727-675)"
+  low: -728
+  high: -728
+  sources:
+  - eir-media-ii
+  - eir-deioces
+  note: Reading labelled reconstructed.
+- value: "start: c. 700 BCE (Herodotus counted back from 550; Rawlinson/Medvedskaya)"
+  low: -700
+  high: -700
+  sources:
+  - eir-media-ii
+  note: Reading labelled reconstructed.
+- value: "start: c. 672/671 BCE (Grantovskiĭ)"
+  low: -672
+  high: -671
+  sources:
+  - eir-media-ii
+  note: Reading labelled reconstructed.
+note: "Persian name: ماد (fa.wikipedia article title, source wp-fa-langlinks; secondary). Also called: Media; Median \"empire\". Kind (draft wording): kingdom / tribal confederation (extent and statehood debated). Start: c. 700 BCE (conventional; 728 / 700 / 672 in competing chronologies) [contested; bounds 728 BCE to 672 BCE; eir-media-ii, eir-media-iii, eir-deioces]. Start depends on how Herodotus' 150-year king list is fitted to Assyrian evidence. See rulers file. End: 550 BCE (Astyages defeated by Cyrus II) [attested; bounds 550 BCE; eir-media-ii, eir-astyages, eir-cyrus-iii]. War with Cyrus 553-550 BCE, Nabonidus Chronicle and Dream Text. Record label contested is the weaker of the start label (contested) and end label (attested); see docs/iran/README.md. Successors: achaemenid. Only Cyaxares (Umakištar) and Astyages (Ištumegu) appear by name in cuneiform; Deioces and Phraortes are known from Herodotus. The Assyrian Daiukku (a Mannean governor deported in 715 BCE) is only hypothetically Deioces; the \"House of Deioces\" is a misreading. Fixed points: Kaštariti revolt c. 673/672; fall of Nineveh 612; eclipse/battle of the Halys 29 May 585; Cyrus vs Astyages 553-550. Wikidata: Q8735 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-2."

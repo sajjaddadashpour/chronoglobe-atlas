@@ -1,0 +1,14 @@
+id: samanid-governance-01
+layer: governance
+polity: samanid
+subject: "governance form: amirate under nominal ʿAbbasid suzerainty"
+earliest: 819
+latest: 1005
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-khorasan-vi
+confidence: scholarly-consensus
+note: "Governance type: amirate under nominal ʿAbbasid suzerainty. Dates as given: 819/92–999/1005. Start 819 CE to 892 CE; end 999 CE to 1005 CE. Evidence: scholarly-or-primary."

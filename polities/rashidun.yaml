@@ -1,0 +1,12 @@
+id: rashidun
+name: Rashidun Caliphate
+kind: empire
+earliest: 632
+latest: 661
+sources:
+- eir-arab-ii-conquest
+- eir-kufa
+- wp-en-list-of-monarchs-of-iran
+- wp-en-rashidun-caliphate
+confidence: scholarly-consensus
+note: "Persian name: خلافت راشدین (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): caliphate. Start: 632 CE (caliphate); 637/638 CE for rule in Iran [scholarly-consensus; bounds 632 CE; wp-en-list-of-monarchs-of-iran, wp-en-rashidun-caliphate]. As a polity the caliphate begins 632. Conquest of Sasanian Iraq from Qādesiya (probably June 637); Iranian plateau mostly taken 642-651. Other readings (bound not contested): 637/638 (start of rule over Sasanian territory) [scholarly-consensus; eir-arab-ii-conquest, wp-en-list-of-monarchs-of-iran]. End: 661 CE (murder of ʿAli; Ḥasan's abdication) [attested; bounds 661 CE; eir-kufa, wp-en-list-of-monarchs-of-iran]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: sasanian. Successors: umayyad. Control of Iran: 637 CE to 651 CE (Qādesiya probably June 637, Šuštar 642, Sistān campaign 650/51 or 651/52) [scholarly-consensus; eir-arab-ii-conquest]. Wikidata: Q12490507 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-4."

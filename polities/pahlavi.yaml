@@ -1,0 +1,10 @@
+id: pahlavi
+name: Pahlavi Iran
+kind: state
+earliest: 1925
+latest: 1979
+sources:
+- wp-en-pahlavi-iran
+- wp-en-list-of-monarchs-of-iran
+confidence: attested
+note: "Persian name: ایران پهلوی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): constitutional monarchy (in form); autocratic in practice. Start: 12/15 Dec 1925 [attested; bounds 1925 CE; wp-en-pahlavi-iran, wp-en-list-of-monarchs-of-iran]. End: 11 Feb 1979 (collapse of the monarchy) [attested; bounds 1979 CE; wp-en-list-of-monarchs-of-iran, wp-en-pahlavi-iran]. Record label attested is the weaker of the start label (attested) and end label (attested); see docs/iran/README.md. Predecessors: qajar. Successors: islamic-republic. Iranica has no online PAHLAVI DYNASTY article; secondary-only. Wikidata: Q107258515 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-7."

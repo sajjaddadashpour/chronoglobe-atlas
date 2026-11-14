@@ -1,0 +1,13 @@
+id: injuid-giat-al-din-kaykosrow
+name: Ḡiāṯ-al-Din Kayḵosrow
+title: "family representative, then ruler in Shiraz"
+polity: injuid
+earliest: 1326
+latest: 1338
+sources:
+- eir-inju-dynasty
+confidence: estimate
+low: 1326
+high: 1338
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 1326 (in Shiraz) / 1335-36 (autonomous) - 1338. Start 1326 CE to 1336 CE; end 1338 CE. Seized the Mongol governor when news of Abu Saʿid's death arrived; died 1338. Evidence: scholarly-or-primary."

@@ -1,0 +1,12 @@
+id: timurid-capital-samarkand-2
+polity: timurid
+place: Samarkand
+earliest: 1447
+latest: 1459
+sources:
+- wp-en-timurid-empire
+confidence: estimate
+low: 1447
+high: 1459
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1447–1459. Start 1447 CE; end 1459 CE. Evidence: secondary-only."

@@ -1,0 +1,10 @@
+id: wp-fa-langlinks
+authors:
+- Wikipedia contributors
+title: Persian-language article titles and Wikidata items for the polities in this pass
+year: 2026
+publisher: Wikimedia Foundation
+url: "https://en.wikipedia.org/w/api.php?action=query&prop=langlinks|pageprops&lllang=fa"
+license: CC0-1.0 (Wikidata); titles are facts
+dataset: bibliography
+note: "Tier: secondary cross-check only. Consulted: yes - API response cached in _cache/fa_links.json. Accessed 2026-11-14. Titles are facts; Wikidata is CC0."

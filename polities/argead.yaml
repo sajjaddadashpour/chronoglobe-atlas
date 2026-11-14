@@ -1,0 +1,11 @@
+id: argead
+name: Argead Macedonian rule (Alexander and successors)
+kind: empire
+earliest: -331
+latest: -305
+sources:
+- eir-alexander-the-great
+- wp-en-list-of-monarchs-of-iran
+- eir-seleucid-empire
+confidence: contested
+note: "Kind (draft wording): empire (Macedonian kingship over the former Achaemenid realm). Start: 331/330 BCE (Gaugamela / death of Darius III) [scholarly-consensus; bounds 331 BCE to 330 BCE; eir-alexander-the-great, wp-en-list-of-monarchs-of-iran]. End: 312-305 BCE (Seleucus takes Babylon / assumes royal title) [contested; bounds 312 BCE to 305 BCE; eir-seleucid-empire, wp-en-list-of-monarchs-of-iran]. Record label contested is the weaker of the start label (scholarly-consensus) and end label (contested); see docs/iran/README.md. Predecessors: achaemenid. Successors: seleucid."

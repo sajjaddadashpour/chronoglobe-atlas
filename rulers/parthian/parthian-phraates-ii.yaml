@@ -1,0 +1,13 @@
+id: parthian-phraates-ii
+name: Phraates II
+title: king / King of Kings
+polity: parthian
+earliest: -132
+latest: -127
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -132
+high: -127
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: c. 132–127 BC. Start 132 BCE; end 127 BCE. The Wikipedia row cites: Venning 2023 p. 163. Evidence: secondary-only."

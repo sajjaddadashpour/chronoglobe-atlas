@@ -1,0 +1,14 @@
+id: safavid-governance-03
+layer: governance
+polity: safavid
+subject: "governance form: Safavid puppet shahs under the Zands"
+earliest: 1750
+latest: 1773
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-zand-dynasty
+confidence: scholarly-consensus
+note: "Governance type: Safavid puppet shahs under the Zands. Dates as given: 1750–1765/73. Start 1750 CE; end 1765 CE to 1773 CE. Esmāʿil III, 1750-65 (d. 1773). Evidence: scholarly-or-primary."

@@ -1,0 +1,9 @@
+id: islamic-republic-capital-tehran
+polity: islamic-republic
+place: Tehran
+earliest: 1979
+latest: 2026
+sources:
+- wp-en-iran
+confidence: attested
+note: "Role: capital. Dates as given: 1979–present. Start 1979 CE; end ongoing. Ongoing. latest is 2026, the year of this data pass, not an end date. Evidence: secondary-only."

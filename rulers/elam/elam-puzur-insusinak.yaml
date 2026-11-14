@@ -1,0 +1,13 @@
+id: elam-puzur-insusinak
+name: Puzur-Inšušinak
+title: king (last of Awan)
+polity: elam
+earliest: -2112
+latest: -2095
+sources:
+- eir-elam-i
+confidence: estimate
+low: -2112
+high: -2095
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: c. 2100 BCE (contemporary of Ur-Nammu, 2112-2095). Start 2112 BCE to 2095 BCE; end 2112 BCE to 2095 BCE. Reign years not given; synchronism only. Evidence: scholarly-or-primary."

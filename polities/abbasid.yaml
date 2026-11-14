@@ -1,0 +1,12 @@
+id: abbasid
+name: ʿAbbasid Caliphate
+kind: empire
+earliest: 749
+latest: 1258
+sources:
+- eir-abbasid-caliphate
+- wp-en-list-of-monarchs-of-iran
+- wp-en-abbasid-caliphate
+- eir-il-khanids-i
+confidence: scholarly-consensus
+note: "Persian name: خلافت عباسی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): caliphate. Start: 749/750 CE (132 AH) [scholarly-consensus; bounds 749 CE to 750 CE; eir-abbasid-caliphate, wp-en-list-of-monarchs-of-iran]. Iranica: established 132/750; al-Saffāḥ proclaimed at Kufa Nov 749 (Wikipedia). End: 1258 CE (Mongol sack of Baghdad) [attested; bounds 1258 CE; eir-il-khanids-i, wp-en-abbasid-caliphate]. Polity end. Effective rule over the Iranian plateau ended much earlier (Tahirid autonomy 821, Saffarids from 861/867, disintegration clear after c. 892, Buyids in Baghdad 945). The old dataset ended the polity at 875; that is not a recognised end date. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: umayyad. Successors: tahirid (in Khorasan); saffarid; samanid; buyid (over the caliph in Baghdad 945); ilkhanate (1258). Control of Iran: 750 CE to 821 CE (direct rule) [scholarly-consensus; eir-abbasid-caliphate]. Control of Iran: 821 CE to 892 CE (nominal suzerainty over autonomous dynasties; disintegration clear after c. 892) [scholarly-consensus; eir-abbasid-caliphate]. Wikidata: Q12536 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996, chi-4."

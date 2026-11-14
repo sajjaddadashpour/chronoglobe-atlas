@@ -1,0 +1,12 @@
+id: ziyarid-capital-isfahan
+polity: ziyarid
+place: Isfahan
+earliest: 931
+latest: 935
+sources:
+- wp-en-ziyarid-dynasty
+confidence: estimate
+low: 931
+high: 935
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 931–935. Start 931 CE; end 935 CE. Secondary only. Evidence: secondary-only."

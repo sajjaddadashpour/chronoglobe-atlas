@@ -1,0 +1,15 @@
+id: safavid-governance-02
+layer: governance
+polity: safavid
+subject: "governance form: restored Safavid shahs under Ṭahmāsbqoli Khan (Nader) as regent/commander"
+earliest: 1729
+latest: 1736
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-kandahar-iv
+- wp-en-list-of-monarchs-of-iran
+confidence: scholarly-consensus
+note: "Governance type: restored Safavid shahs under Ṭahmāsbqoli Khan (Nader) as regent/commander. Dates as given: 1729–1736. Start 1729 CE; end 1736 CE. Evidence: scholarly-or-primary."

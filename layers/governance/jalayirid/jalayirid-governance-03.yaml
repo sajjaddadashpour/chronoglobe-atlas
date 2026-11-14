@@ -1,0 +1,14 @@
+id: jalayirid-governance-03
+layer: governance
+polity: jalayirid
+subject: "governance form: Timurid occupation / rump state in southern Iraq and Khuzestan"
+earliest: 1410
+latest: 1432
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-jalayerids
+confidence: scholarly-consensus
+note: "Governance type: Timurid occupation / rump state in southern Iraq and Khuzestan. Dates as given: 1410–1431/32. Start 1410 CE; end 1431 CE to 1432 CE. Evidence: scholarly-or-primary."

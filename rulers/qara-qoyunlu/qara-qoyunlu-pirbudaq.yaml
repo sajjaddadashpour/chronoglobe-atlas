@@ -1,0 +1,14 @@
+id: qara-qoyunlu-pirbudaq
+name: Pirbudaq
+title: "sultan (nominal, under his father)"
+polity: qara-qoyunlu
+earliest: 1411
+latest: 1418
+sources:
+- wp-en-list-of-rulers-of-qara-qoyunlu
+- wp-en-qara-qoyunlu
+confidence: estimate
+low: 1411
+high: 1418
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 1411-1418. Start 1411 CE; end 1418 CE. Evidence: secondary-only."

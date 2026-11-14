@@ -1,0 +1,13 @@
+id: parthian-artabanus-i
+name: Artabanus I
+title: king / King of Kings
+polity: parthian
+earliest: -127
+latest: -123
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -127
+high: -123
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: c. 127–124/123 BC. Start 127 BCE; end 124 BCE to 123 BCE. The Wikipedia row cites: Venning 2023 p. 163. Evidence: secondary-only."

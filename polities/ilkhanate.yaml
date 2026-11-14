@@ -1,0 +1,34 @@
+id: ilkhanate
+name: Ilkhanate (Il-Khanids)
+kind: state
+earliest: 1256
+latest: 1357
+sources:
+- eir-il-khanids-i
+- eir-abaqa
+- eir-abu-said-bahador
+- wp-en-list-of-monarchs-of-iran
+- wp-en-ilkhanate
+- eir-chobanids
+confidence: contested
+alternatives:
+- value: "end: 30 Nov 1335 (death of Abu Saʿid)"
+  low: 1335
+  high: 1335
+  sources:
+  - eir-abu-said-bahador
+  - eir-chobanids
+  note: Reading labelled attested.
+- value: "end: 1353 (death of Ṭoḡā Temür)"
+  low: 1353
+  high: 1353
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+  note: Reading labelled scholarly-consensus.
+- value: "end: 1357 (last puppet khans)"
+  low: 1357
+  high: 1357
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+  note: Reading labelled scholarly-consensus.
+note: "Persian name: ایلخانان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): khanate (Mongol appanage, autonomous from 1260). Start: 1256 (Hülegü in Iran) / 1258 (fall of Baghdad) [scholarly-consensus; bounds 1256 CE to 1258 CE; eir-il-khanids-i, wp-en-list-of-monarchs-of-iran]. End: 1335 (death of Abu Saʿid) - 1353/1357 (last puppet khans) [contested; bounds 1335 CE to 1357 CE; eir-il-khanids-i, eir-abu-said-bahador, eir-chobanids, wp-en-list-of-monarchs-of-iran]. Unity ended with Abu Saʿid's death on 30 Nov 1335. Rival puppet khans were raised by Jalayirids, Chobanids and others until 1353 (Ṭoḡā Temür in Khorasan) and 1356/57 (Anušīrvān, Ḡāzān II). Wikipedia's list runs to Luqmān (1388). Default display end 1335 for the unitary state, 1357 for the last claimants. Record label contested is the weaker of the start label (scholarly-consensus) and end label (contested); see docs/iran/README.md. Predecessors: mongol-iran; abbasid. Successors: chobanid; jalayirid; injuid; muzaffarid; kartid; sarbadar. Wikidata: Q178084 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-5."

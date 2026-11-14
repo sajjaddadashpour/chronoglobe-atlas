@@ -1,0 +1,10 @@
+id: achaemenid-capital-ecbatana
+polity: achaemenid
+place: Ecbatana
+earliest: -550
+latest: -330
+sources:
+- eir-achaemenid-dynasty-i
+- eir-ecbatana
+confidence: scholarly-consensus
+note: "Role: seat of government under Cyrus II; later summer residence. Dates as given: 550–330 BCE. Start 550 BCE; end 330 BCE. Schmitt (Iranica): under Cyrus the seat of government remained at Ecbatana. Evidence: scholarly-or-primary."

@@ -1,0 +1,12 @@
+id: jalayirid-capital-baghdad-2
+polity: jalayirid
+place: Baghdad
+earliest: 1388
+latest: 1411
+sources:
+- wp-en-jalayirid-sultanate
+confidence: estimate
+low: 1388
+high: 1411
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1388–1411. Start 1388 CE; end 1411 CE. Interrupted by Timurid occupations. Evidence: secondary-only."

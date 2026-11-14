@@ -1,0 +1,13 @@
+id: ziyarid-gilanshah
+name: Gilanshah
+title: amir
+polity: ziyarid
+earliest: 927
+latest: 1091
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: 927
+high: 1091
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: ?–1090/1091. Start unknown; end 1090 CE to 1091 CE. Start year unknown; earliest is the polity start bound (927 CE), not a reign date. Start not given in the sources read. The Wikipedia row cites: Ross 1977 p. 579. Evidence: secondary-only."

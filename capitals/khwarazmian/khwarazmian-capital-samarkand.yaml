@@ -1,0 +1,12 @@
+id: khwarazmian-capital-samarkand
+polity: khwarazmian
+place: Samarkand
+earliest: 1212
+latest: 1220
+sources:
+- wp-en-khwarazmian-empire
+confidence: estimate
+low: 1212
+high: 1220
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1212–1220. Start 1212 CE; end 1220 CE. Evidence: secondary-only."

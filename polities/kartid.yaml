@@ -1,0 +1,10 @@
+id: kartid
+name: Kartids (Āl-e Kart)
+kind: state
+earliest: 1245
+latest: 1389
+sources:
+- eir-al-e-kart
+- wp-en-kart-dynasty
+confidence: scholarly-consensus
+note: "Persian name: کرتیان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): maliks of Herat (Mongol vassals, then independent). Start: 643/1245 [scholarly-consensus; bounds 1245 CE; eir-al-e-kart]. End: 1381 (Timur takes Herat) / 1389 (last prince eliminated) [scholarly-consensus; bounds 1381 CE to 1389 CE; eir-al-e-kart]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: mongol-iran. Successors: timurid. Wikidata: Q1734616 (via wp-fa-langlinks; verify item scope before use)."

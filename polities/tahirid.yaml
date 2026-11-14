@@ -1,0 +1,11 @@
+id: tahirid
+name: Tahirids
+kind: empire
+earliest: 821
+latest: 873
+sources:
+- eir-taherids
+- wp-en-list-of-monarchs-of-iran
+- wp-en-tahirid-dynasty
+confidence: scholarly-consensus
+note: "Persian name: طاهریان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): hereditary governorship of Khorasan under the caliphate. Start: 205/821 [scholarly-consensus; bounds 821 CE; eir-taherids]. End: 259/873 (Saffarids take Nishapur) [scholarly-consensus; bounds 873 CE; eir-taherids]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: abbasid. Successors: saffarid. Wikidata: Q373981 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

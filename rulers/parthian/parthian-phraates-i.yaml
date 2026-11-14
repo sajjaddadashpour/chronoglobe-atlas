@@ -1,0 +1,13 @@
+id: parthian-phraates-i
+name: Phraates I
+title: king / King of Kings
+polity: parthian
+earliest: -176
+latest: -171
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -176
+high: -171
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: c. 176–171 BC. Start 176 BCE; end 171 BCE. The Wikipedia row cites: Venning 2023 p. 163. Evidence: secondary-only."

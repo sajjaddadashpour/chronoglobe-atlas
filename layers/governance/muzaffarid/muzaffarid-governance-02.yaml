@@ -1,0 +1,14 @@
+id: muzaffarid-governance-02
+layer: governance
+polity: muzaffarid
+subject: "governance form: independent dynasty"
+earliest: 1335
+latest: 1393
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-mozaffarids
+confidence: scholarly-consensus
+note: "Governance type: independent dynasty. Dates as given: 1335–1393. Start 1335 CE; end 1393 CE. Evidence: scholarly-or-primary."

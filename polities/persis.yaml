@@ -1,0 +1,12 @@
+id: persis
+name: Persis (frataraka dynasts and kings of Persis)
+kind: state
+earliest: -220
+latest: 224
+sources:
+- eir-persis-kings-of
+- eir-frataraka
+- wp-en-persis
+- wp-en-frataraka
+confidence: reconstructed
+note: "Persian name: پارس (فرترکه / شاهان پارس) (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): regional dynasty under Seleucid, then Arsacid, suzerainty. Start: late 3rd / early 2nd century BCE [reconstructed; bounds 220 BCE to 180 BCE; eir-frataraka, eir-persis-kings-of]. Wiesehöfer: the fratarakā probably began as Seleucid representatives \"just before the end of the 3rd or in the first decades of the 2nd century\" BCE, rather than as independent 3rd-century anti-Seleucid rulers (older view). Coin chronology also disputed (Klose & Müseler; Hoover). Other readings (bound not contested): early 3rd century BCE (older view / Klose & Müseler first-phase coins) [contested; eir-persis-kings-of, eir-frataraka]. End: early 3rd century CE (rise of Pābag and Ardašīr; absorbed into the Sasanian state) [estimate; bounds 205 CE to 224 CE; eir-persis-kings-of]. No firm end date in the source read; tied to the Sasanian rise from Persis (224). Record label reconstructed is the weaker of the start label (reconstructed) and end label (estimate); see docs/iran/README.md. Predecessors: seleucid. Successors: sasanian. Seat presumably at Persepolis for the fratarakā (Iranica FRATARAKA). Order and dates from coins; all reign placements are reconstructions. Wikidata: Q3746183 (via wp-fa-langlinks; verify item scope before use)."

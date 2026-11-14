@@ -1,0 +1,14 @@
+id: hotaki-governance-01
+layer: governance
+polity: hotaki
+subject: "governance form: principality at Kandahar"
+earliest: 1709
+latest: 1738
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-kandahar-iv
+confidence: scholarly-consensus
+note: "Governance type: principality at Kandahar. Dates as given: 1709–1738. Start 1709 CE; end 1738 CE. Evidence: scholarly-or-primary."

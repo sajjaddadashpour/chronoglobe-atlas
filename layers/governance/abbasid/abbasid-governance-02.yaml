@@ -1,0 +1,16 @@
+id: abbasid-governance-02
+layer: governance
+polity: abbasid
+subject: "governance form: caliphate, Iran under autonomous dynasties"
+earliest: 821
+latest: 945
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-abbasid-caliphate
+- eir-taherids
+- eir-buyids
+confidence: scholarly-consensus
+note: "Governance type: caliphate, Iran under autonomous dynasties. Dates as given: 821–945. Start 821 CE; end 945 CE. Evidence: scholarly-or-primary."

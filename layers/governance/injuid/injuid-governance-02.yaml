@@ -1,0 +1,14 @@
+id: injuid-governance-02
+layer: governance
+polity: injuid
+subject: "governance form: contested regional rule (anarchy 1335-1342)"
+earliest: 1335
+latest: 1343
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-inju-dynasty
+confidence: scholarly-consensus
+note: "Governance type: contested regional rule (anarchy 1335-1342). Dates as given: 1335–1342/43. Start 1335 CE; end 1342 CE to 1343 CE. Evidence: scholarly-or-primary."

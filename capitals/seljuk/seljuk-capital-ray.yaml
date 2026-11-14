@@ -1,0 +1,12 @@
+id: seljuk-capital-ray
+polity: seljuk
+place: Ray
+earliest: 1043
+latest: 1051
+sources:
+- wp-en-seljuk-empire
+confidence: estimate
+low: 1043
+high: 1051
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1043–1051. Start 1043 CE; end 1051 CE. Evidence: secondary-only."

@@ -1,0 +1,10 @@
+id: elymais-capital-susa
+polity: elymais
+place: Susa
+earliest: -147
+latest: 224
+sources:
+- eir-elymais
+- wp-en-elymais
+confidence: contested
+note: "Role: capital (intermittently). Dates as given: 147–? BCE. Start 147 BCE; end unknown. End unknown; latest is the polity end bound (224 CE). Elymaean kings \"from time to time\" controlled Susiana; not held continuously. Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: buyid
+name: Buyids (Būyids)
+kind: state
+earliest: 932
+latest: 1062
+sources:
+- eir-buyids
+- wp-en-list-of-monarchs-of-iran
+- wp-en-buyid-dynasty
+confidence: scholarly-consensus
+note: "Persian name: آل بویه (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): confederation of amirates (Fārs, Jebāl/Ray, Iraq, Kermān). Start: 934 (ʿAli in Fārs; often 932-934) [scholarly-consensus; bounds 932 CE to 934 CE; eir-buyids, wp-en-list-of-monarchs-of-iran]. End: 1062 (Fārs lost under Abu Manṣur Pulād Sotun) [scholarly-consensus; bounds 1062 CE; eir-buyids, wp-en-list-of-monarchs-of-iran]. Ṭoḡrel entered Baghdad Dec 1055. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (scholarly-consensus); see docs/iran/README.md. Predecessors: ziyarid; abbasid. Successors: seljuk. Wikidata: Q273874 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

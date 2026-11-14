@@ -1,0 +1,19 @@
+id: parthian-mithridates-i
+name: Mithridates I
+title: king / King of Kings
+polity: parthian
+earliest: -171
+latest: -132
+sources:
+- eir-ctesiphon
+- wp-en-list-of-monarchs-of-iran
+confidence: contested
+alternatives:
+- value: c. 171-132 BCE
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+  note: "Cites: V; e; n; n; i; n; g;  ; 2; 0; 2; 3;  ; p; .;  ; 1; 6; 3"
+- value: c. 171-138 BCE
+  sources:
+  - eir-ctesiphon
+note: "Reign as given: c. 171 - 138/132 BCE. Start 171 BCE; end 138 BCE to 132 BCE. The old dataset had two Mithridates I records (171-142 and 142-132). Wikipedia splits the reign at 142 BCE (conquest of Babylonia, after which he ruled as \"the Great\"); it is one reign. Iranica (CTESIPHON) gives c. 171-138; Wikipedia ends at 132. The Wikipedia row cites: Venning 2023 p. 163; Venning 2023 p. 118. Evidence: scholarly-or-primary."

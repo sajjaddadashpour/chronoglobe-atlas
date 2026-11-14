@@ -1,0 +1,9 @@
+id: pahlavi-capital-tehran
+polity: pahlavi
+place: Tehran
+earliest: 1925
+latest: 1979
+sources:
+- wp-en-pahlavi-iran
+confidence: attested
+note: "Role: capital. Dates as given: 1925–1979. Start 1925 CE; end 1979 CE. Evidence: secondary-only."

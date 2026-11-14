@@ -1,0 +1,25 @@
+id: medes-phraortes
+name: Phraortes (identified by some with Kaštariti)
+title: "king (Herodotus: 22 years)"
+polity: medes
+earliest: -678
+latest: -620
+sources:
+- eir-media-ii
+- eir-phraortes
+- wp-en-list-of-monarchs-of-iran
+confidence: contested
+alternatives:
+- value: "A: 647-625 BCE"
+  sources:
+  - eir-media-ii
+- value: "B: 675-653 BCE"
+  sources:
+  - eir-media-ii
+- value: "Rawlinson/Medvedskaya: 678-625 BCE"
+  sources:
+  - eir-media-ii
+- value: "Grantovskiĭ: c. 640-620 BCE"
+  sources:
+  - eir-media-ii
+note: "Reign as given: 647-625 / 675-653 / 678-625 / c. 640-620 BCE. Start 678 BCE to 640 BCE; end 653 BCE to 620 BCE. Identification with Kaštariti (revolt c. 673) is the basis of chronology B and Medvedskaya; Labat rejected it. Cross-check (wp-en-list-of-monarchs-of-iran): Wikipedia list uses Diakonoff 2003 chronology: Deioces c.727-675, Phraortes c.674-653, Cyaxares c.624-585, Astyages c.584-550. Evidence: scholarly-or-primary."

@@ -1,0 +1,13 @@
+id: muzaffarid-capital-kerman
+polity: muzaffarid
+place: Kerman
+earliest: 1340
+latest: 1353
+sources:
+- eir-mozaffarids
+- wp-en-muzaffarids-iran
+confidence: estimate
+low: 1340
+high: 1353
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1340/41–1353. Start 1340 CE to 1341 CE; end 1353 CE. Evidence: scholarly-or-primary."

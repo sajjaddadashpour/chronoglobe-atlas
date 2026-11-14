@@ -1,0 +1,14 @@
+id: argead-governance-02
+layer: governance
+polity: argead
+subject: "governance form: nominal Argead kings"
+earliest: -323
+latest: -305
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: scholarly-consensus
+note: "Governance type: regency / Diadochi wars. Label: nominal Argead kings. Dates as given: 323–312/05 BCE. Start 323 BCE; end 312 BCE to 305 BCE. Evidence: secondary-only."

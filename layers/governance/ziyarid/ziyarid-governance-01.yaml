@@ -1,0 +1,14 @@
+id: ziyarid-governance-01
+layer: governance
+polity: ziyarid
+subject: "governance form: amirate"
+earliest: 927
+latest: 1091
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-ziyarids
+confidence: scholarly-consensus
+note: "Governance type: amirate. Dates as given: 927/31–1090/91. Start 927 CE to 931 CE; end 1090 CE to 1091 CE. Evidence: scholarly-or-primary."

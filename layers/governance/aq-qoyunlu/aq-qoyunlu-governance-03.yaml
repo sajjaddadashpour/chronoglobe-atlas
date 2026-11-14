@@ -1,0 +1,14 @@
+id: aq-qoyunlu-governance-03
+layer: governance
+polity: aq-qoyunlu
+subject: "governance form: tripartition among rival princes"
+earliest: 1497
+latest: 1508
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-aq-qoyunlu
+confidence: scholarly-consensus
+note: "Governance type: tripartition among rival princes. Dates as given: 1497/1500–1508. Start 1497 CE to 1500 CE; end 1508 CE. Evidence: scholarly-or-primary."

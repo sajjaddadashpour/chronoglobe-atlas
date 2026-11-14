@@ -1,0 +1,11 @@
+id: qajar-fath-ali
+name: Fath-Ali
+title: shah
+polity: qajar
+earliest: 1797
+latest: 1834
+sources:
+- eir-fath-ali-shah
+- wp-en-list-of-monarchs-of-iran
+confidence: scholarly-consensus
+note: "Reign as given: 17 Jun 1797 - 23/24 Oct 1834. Start 1797 CE; end 1834 CE. Iranica: d. 19 Jomādā II 1250 / 24 Oct 1834; Wikipedia 23 Oct. The Wikipedia row cites: Papoli-Yazdi & Dezhamkhooy 2021 p. 20. Evidence: scholarly-or-primary."

@@ -1,0 +1,13 @@
+id: achaemenid-cambyses-i
+name: Cambyses I
+title: king of Anshan (pre-imperial)
+polity: achaemenid
+earliest: -590
+latest: -559
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -590
+high: -559
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 590–559 BCE. Start 590 BCE; end 559 BCE. Dates from Bryce 2009 via Wikipedia only. Evidence: secondary-only."

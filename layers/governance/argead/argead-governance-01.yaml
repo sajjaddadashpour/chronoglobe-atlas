@@ -1,0 +1,14 @@
+id: argead-governance-01
+layer: governance
+polity: argead
+subject: "governance form: Alexander III"
+earliest: -331
+latest: -323
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-alexander-the-great
+confidence: attested
+note: "Governance type: imperial monarchy. Label: Alexander III. Dates as given: 331–323 BCE. Start 331 BCE; end 323 BCE. Evidence: scholarly-or-primary."

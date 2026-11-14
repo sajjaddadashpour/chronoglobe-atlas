@@ -1,0 +1,14 @@
+id: islamic-republic-governance-03
+layer: governance
+polity: islamic-republic
+subject: "governance form: Islamic republic under the 1989 amended constitution"
+earliest: 1989
+latest: 2026
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- eir-constitution-islamic-republic
+confidence: attested
+note: "Governance type: Islamic republic under the 1989 amended constitution. Dates as given: 1989–present. Start 1989 CE; end ongoing. Ongoing. latest is 2026, the year of this data pass, not an end date. Amendments of 1368 Š./1989. Evidence: scholarly-or-primary."

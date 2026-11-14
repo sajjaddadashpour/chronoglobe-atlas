@@ -1,0 +1,12 @@
+id: ziyarid-capital-amol
+polity: ziyarid
+place: Āmol
+earliest: 1035
+latest: 1090
+sources:
+- wp-en-ziyarid-dynasty
+confidence: estimate
+low: 1035
+high: 1090
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1035–1090. Start 1035 CE; end 1090 CE. Secondary only. Evidence: secondary-only."

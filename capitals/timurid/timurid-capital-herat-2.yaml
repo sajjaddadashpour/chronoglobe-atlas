@@ -1,0 +1,10 @@
+id: timurid-capital-herat-2
+polity: timurid
+place: Herat
+earliest: 1459
+latest: 1507
+sources:
+- wp-en-timurid-empire
+- eir-herat-iii
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 1459–1507. Start 1459 CE; end 1507 CE. Evidence: scholarly-or-primary."

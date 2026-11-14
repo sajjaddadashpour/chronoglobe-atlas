@@ -1,0 +1,10 @@
+id: injuid-capital-shiraz
+polity: injuid
+place: Shiraz
+earliest: 1325
+latest: 1353
+sources:
+- eir-inju-dynasty
+- wp-en-injuids
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 1325/35–1353. Start 1325 CE to 1335 CE; end 1353 CE. Evidence: scholarly-or-primary."

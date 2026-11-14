@@ -1,0 +1,14 @@
+id: qara-qoyunlu-governance-01
+layer: governance
+polity: qara-qoyunlu
+subject: "governance form: tribal confederation under Jalayirid suzerainty"
+earliest: 1351
+latest: 1389
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-qara-qoyunlu
+confidence: estimate
+note: "Governance type: tribal confederation under Jalayirid suzerainty. Dates as given: 1351/74–1388/89. Start 1351 CE to 1374 CE; end 1388 CE to 1389 CE. Evidence: secondary-only."

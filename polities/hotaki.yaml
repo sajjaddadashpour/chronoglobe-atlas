@@ -1,0 +1,12 @@
+id: hotaki
+name: Hotaki (Ḡilzay) dynasty
+kind: state
+earliest: 1709
+latest: 1738
+sources:
+- eir-kandahar-iv
+- eir-afghanistan-x
+- wp-en-list-of-monarchs-of-iran
+- wp-en-hotak-dynasty
+confidence: scholarly-consensus
+note: "Persian name: هوتکیان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): tribal principality (Kandahar), rulers of Isfahan 1722-29. Start: 1709 (Mir Ways's revolt at Kandahar) [scholarly-consensus; bounds 1709 CE; eir-kandahar-iv, eir-afghanistan-x]. End: 1738 (Kandahar surrenders to Nader) [attested; bounds 1738 CE; eir-kandahar-iv, eir-afghanistan-x]. Rule in Isfahan only 1722-1729. Old dataset used 1722-1729 for the whole polity. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: safavid. Successors: afsharid. Wikidata: Q627449 (via wp-fa-langlinks; verify item scope before use)."

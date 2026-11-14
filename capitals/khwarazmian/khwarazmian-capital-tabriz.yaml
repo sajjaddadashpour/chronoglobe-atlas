@@ -1,0 +1,12 @@
+id: khwarazmian-capital-tabriz
+polity: khwarazmian
+place: Tabriz
+earliest: 1225
+latest: 1231
+sources:
+- wp-en-khwarazmian-empire
+confidence: estimate
+low: 1225
+high: 1231
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: seat of Jalāl-al-Din. Dates as given: 1225–1231. Start 1225 CE; end 1231 CE. Evidence: secondary-only."

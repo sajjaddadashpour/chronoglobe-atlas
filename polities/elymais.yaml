@@ -1,0 +1,10 @@
+id: elymais
+name: Elymais
+kind: state
+earliest: -200
+latest: 224
+sources:
+- eir-elymais
+- wp-en-elymais
+confidence: reconstructed
+note: "Persian name: الیمائی (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): semi-independent kingdom, often under Parthian suzerainty. Start: 2nd century BCE (Kamnaskires I takes Susa c. 147 BCE) [reconstructed; bounds 200 BCE to 147 BCE; eir-elymais]. Le Rider (via Hansman, Iranica) suggests Kamnaskires I took Susiana c. 147 BCE; Elymaean contingents are attested from 220 and 190 BCE without a known state. End: early 3rd century CE [estimate; bounds 200 CE to 224 CE; eir-elymais, wp-en-elymais]. Wikipedia infobox gives Orodes V 221/222 CE as the last ruler (secondary). Record label reconstructed is the weaker of the start label (reconstructed) and end label (estimate); see docs/iran/README.md. Predecessors: seleucid. Successors: sasanian. Wikidata: Q1275158 (via wp-fa-langlinks; verify item scope before use)."

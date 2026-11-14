@@ -1,0 +1,13 @@
+id: ziyarid-keikavus
+name: Keikavus
+title: amir
+polity: ziyarid
+earliest: 1049
+latest: 1091
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: 1049
+high: 1091
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 1049/1050–?. Start 1049 CE to 1050 CE; end unknown. End year unknown; latest is the polity end bound (1091 CE), not a reign date. End not given in the sources read. The Wikipedia row cites: Ross 1977 p. 579. Evidence: secondary-only."

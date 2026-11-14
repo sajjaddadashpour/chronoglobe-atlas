@@ -1,0 +1,11 @@
+id: zand
+name: Zand dynasty
+kind: state
+earliest: 1751
+latest: 1794
+sources:
+- eir-zand-dynasty
+- wp-en-list-of-monarchs-of-iran
+- wp-en-zand-dynasty
+confidence: scholarly-consensus
+note: "Kind (draft wording): regency (wakil) / khanate. Start: 1164/1751 [scholarly-consensus; bounds 1751 CE; eir-zand-dynasty]. End: 1209/1794 (capture of Loṭf-ʿAli Khan) [attested; bounds 1794 CE; eir-zand-dynasty]. Record label scholarly-consensus is the weaker of the start label (scholarly-consensus) and end label (attested); see docs/iran/README.md. Predecessors: afsharid; safavid. Successors: qajar. Persian name not filled: the fa.wikipedia langlink for \"Zand dynasty\" points to a list page; to be checked. Wikidata: Q97629053 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: chi-7."

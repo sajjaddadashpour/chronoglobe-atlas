@@ -1,0 +1,13 @@
+id: ilkhanate-capital-tabriz
+polity: ilkhanate
+place: Tabriz
+earliest: 1265
+latest: 1306
+sources:
+- eir-il-khanids-i
+- wp-en-ilkhanate
+confidence: estimate
+low: 1265
+high: 1306
+method: low and high are the outer year bounds of the capital period as dated (approximately) by the cited sources.
+note: "Role: capital. Dates as given: 1265–1306. Start 1265 CE; end 1306 CE. Wikipedia 1265-1307 overlaps Solṭāniya from 1306; trimmed here to remove the overlap. Evidence: scholarly-or-primary."

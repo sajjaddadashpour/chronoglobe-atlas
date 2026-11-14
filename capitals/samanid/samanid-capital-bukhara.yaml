@@ -1,0 +1,11 @@
+id: samanid-capital-bukhara
+polity: samanid
+place: Bukhara
+earliest: 892
+latest: 999
+sources:
+- eir-khorasan-vi
+- eir-bukhara-iii
+- wp-en-samanid-empire
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 892–999. Start 892 CE; end 999 CE. Evidence: scholarly-or-primary."

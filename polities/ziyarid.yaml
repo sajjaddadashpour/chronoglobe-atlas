@@ -1,0 +1,11 @@
+id: ziyarid
+name: Ziyarids
+kind: state
+earliest: 927
+latest: 1091
+sources:
+- eir-ziyarids
+- wp-en-list-of-monarchs-of-iran
+- wp-en-ziyarid-dynasty
+confidence: contested
+note: "Persian name: زیاریان (fa.wikipedia article title, source wp-fa-langlinks; secondary). Kind (draft wording): amirate (Ṭabarestān and Gorgān). Start: 931 (Iranica) / 927-928 (Wikipedia) [contested; bounds 927 CE to 931 CE; eir-ziyarids, wp-en-list-of-monarchs-of-iran]. End: c. 1090 [estimate; bounds 1090 CE to 1091 CE; eir-ziyarids, wp-en-list-of-monarchs-of-iran]. Record label contested is the weaker of the start label (contested) and end label (estimate); see docs/iran/README.md. Predecessors: samanid. Successors: seljuk. Bosworth, New Islamic Dynasties no. 81, pp. 166-67 (cited by Iranica). Wikidata: Q207044 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: bosworth-nid-1996."

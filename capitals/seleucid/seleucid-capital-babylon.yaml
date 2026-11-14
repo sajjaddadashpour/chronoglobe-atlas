@@ -1,0 +1,9 @@
+id: seleucid-capital-babylon
+polity: seleucid
+place: Babylon
+earliest: -312
+latest: -305
+sources:
+- wp-en-seleucid-empire
+confidence: scholarly-consensus
+note: "Role: capital. Dates as given: 312/11–305 BCE. Start 312 BCE to 311 BCE; end 305 BCE. Secondary only. Evidence: secondary-only."

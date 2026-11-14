@@ -1,0 +1,17 @@
+# Proposed schema changes (from the Iran pass)
+
+Nothing below was changed. These are the places where v0 could not hold what the sources say. Each has a stopgap in the data now (see README.md, "How the draft was mapped to v0").
+
+1. **Separate start and end bounds on date facts.** Add `start: {earliest, latest, display}` and `end: {earliest, latest, display}`, or `start_earliest`/`start_latest`/`end_earliest`/`end_latest`. Today one `earliest`/`latest` pair is the outer span, so "accession 250 or 247 BCE" and "died 211 BCE" cannot both be exact. A `display` string ("c. 700 BCE", "1501/02") is needed for the site too.
+2. **Labels per bound.** Allow `start.confidence` and `end.confidence`. The Medes start is contested but their end (550 BCE) is attested. A single label has to choose the weaker one.
+3. **Meaning of `low`/`high` on estimated dates.** Say what they are for a date fact (the uncertain year range), or let a date estimate be satisfied by its bounds. Today they repeat `earliest`/`latest`.
+4. **Open-ended spans.** Add `ongoing: true` (with `latest` optional or ignored) for the Islamic Republic, its current leader and capital. Today `latest` is set to 2026, the year of the pass.
+5. **Unknown bounds.** Add `start_unknown`/`end_unknown`, or let `earliest`/`latest` be null with a flag. 16 records now borrow the polity's bound. Two kings with no year at all could not be entered.
+6. **Alternatives on legendary and other labels.** Let `alternatives` appear on `legendary` (and maybe `reconstructed`) facts. Deioces has four scholarly chronologies but is legendary. Each alternative should also be able to carry its own confidence label and its own `earliest`/`latest`.
+7. **Polity names and identifiers.** Add `names: {en, fa, ...}` with sources, `alt_names`, and `identifiers: {wikidata: Q...}`. The Wikidata link is one of the four "citable source" goals.
+8. **Polity succession.** Add `succession` (predecessor/successor polity ids, with an optional note) to the polity schema, as rulers already have, and let the validator resolve the ids.
+9. **Categorical governance.** Give the governance layer a categorical form, such as `value: "constitutional monarchy"` from a controlled list, without `value_low`/`value_high`/`unit`. Today each period is a 1/1 indicator.
+10. **Ruler role.** Add `role` (claimant, regent, co-ruler, puppet, interregnum) to rulers, and `role` (capital, seat, residence, dynastic centre) to capitals. Today they are in `note`.
+11. **Partial control.** A polity's span and the span in which it ruled Iran differ (Timurids, Seljuks, caliphates). A `control_periods` list (from, to, region, sources, confidence), or layer values with a region, would let the globe show that.
+12. **Source fields.** Add `consulted` (yes/no and how), `tier` (scholarly, primary, news, secondary-crosscheck), `accessed`, `revision`, `editors` and `isbn` to sources, and let the validator refuse a fact whose only sources are `consulted: no`. These live in the source `note` today.
+13. **Open questions as data.** An optional `open_questions` list per record, or an `issues/` collection, would keep OPEN_QUESTIONS.md items next to the fact they concern.

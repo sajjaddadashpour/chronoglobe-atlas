@@ -1,0 +1,13 @@
+id: parthian-tiridates
+name: Tiridates
+title: king / King of Kings
+polity: parthian
+earliest: -32
+latest: -31
+sources:
+- wp-en-list-of-monarchs-of-iran
+confidence: estimate
+low: -32
+high: -31
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 32–31 BC. Start 32 BCE; end 31 BCE. Rival/overlapping kingship in this period; reigns overlap by design. The Wikipedia row cites: Venning 2023 p. 163. Evidence: secondary-only."
