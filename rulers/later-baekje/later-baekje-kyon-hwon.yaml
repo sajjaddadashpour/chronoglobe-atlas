@@ -1,0 +1,24 @@
+id: later-baekje-kyon-hwon
+name: Kyŏn Hwŏn
+title: King of Later Baekje
+polity: later-baekje
+earliest: 892
+latest: 935
+sources:
+- ekc-e0002178-gyeon-hwon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 892 CE to 935 CE"
+  low: 892
+  high: 935
+  sources:
+  - ekc-e0002178-gyeon-hwon
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 900 CE to 935 CE"
+  low: 900
+  high: 935
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 900–935 (Wikipedia list); EKC: 892 CE to 935 CE. Outer bounds 892 CE to 935 CE; the readings are in alternatives. Korean name: 견훤 (EKC article title). Personal name (Wikipedia list): Kyŏn Hwŏn. Wikidata: Q150132 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

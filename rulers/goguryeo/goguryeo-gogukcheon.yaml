@@ -1,0 +1,23 @@
+id: goguryeo-gogukcheon
+name: Gogukcheon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 179
+latest: 197
+sources:
+- ekc-e0003340-goguryeo-gogukcheon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 179 CE to 197 CE"
+  low: 179
+  high: 197
+  sources:
+  - ekc-e0003340-goguryeo-gogukcheon
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Sansang are treated as unreliable by critical scholarship (EKC 고구려); no alternative years in the sources read"
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "Reign as given: 179–197 (Wikipedia list); EKC: 179 CE to 197 CE. Start 179 CE; end 197 CE. Korean name: 고국천왕 (EKC article title). Personal name (Wikipedia list): Go Nam-mu. Wikidata: Q498549 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

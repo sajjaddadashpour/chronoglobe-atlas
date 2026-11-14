@@ -1,0 +1,11 @@
+id: joseon-seonjo
+name: Seonjo
+title: King of Joseon
+polity: joseon
+earliest: 1567
+latest: 1608
+sources:
+- ekc-e0028912-joseon-seonjo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1567–1608 (Wikipedia list); EKC: 1567 CE to 1608 CE. Start 1567 CE; end 1608 CE. Korean name: 선조 (EKC article title). Personal name (Wikipedia list): Yi Gyun / Yi Yeon. Wikidata: Q484359 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

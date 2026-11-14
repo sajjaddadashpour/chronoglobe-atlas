@@ -1,0 +1,24 @@
+id: goguryeo-sansang
+name: Sansang
+title: King of Goguryeo
+polity: goguryeo
+earliest: 197
+latest: 229
+sources:
+- ekc-e0026247-goguryeo-sansang
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 197 CE to 229 CE"
+  low: 197
+  high: 229
+  sources:
+  - ekc-e0026247-goguryeo-sansang
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 197 CE to 227 CE"
+  low: 197
+  high: 227
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 197–227 (Wikipedia list); EKC: 197 CE to 229 CE. Outer bounds 197 CE to 229 CE; the readings are in alternatives. Korean name: 산상왕 (EKC article title). Personal name (Wikipedia list): Go Yeon-u / Go Iimo. Wikidata: Q498568 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

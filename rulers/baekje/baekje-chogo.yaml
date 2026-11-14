@@ -1,0 +1,23 @@
+id: baekje-chogo
+name: Chogo
+title: King of Baekje
+polity: baekje
+earliest: 166
+latest: 214
+sources:
+- ekc-e0056944-baekje-chogo
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 166 CE to 214 CE"
+  low: 166
+  high: 214
+  sources:
+  - ekc-e0056944-baekje-chogo
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 166–214 (Wikipedia list); EKC: 166 CE to 214 CE. Start 166 CE; end 214 CE. Korean name: 초고왕 (EKC article title). Personal name (Wikipedia list): Buyeo Chogo / Buyeo Sogo / Buyeo Sokgo. Wikidata: Q497399 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

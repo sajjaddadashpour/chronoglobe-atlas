@@ -1,0 +1,9 @@
+id: unified-silla-capital-gyeongju
+polity: unified-silla
+place: Gyeongju (Geumseong)
+earliest: 668
+latest: 935
+sources:
+- ekc-e0032800-silla
+confidence: attested
+note: "Capital of Silla throughout (EKC); a planned move to Dalgubeol (Daegu) in 689 was abandoned (not checked in sources read; see OPEN_QUESTIONS). Evidence: scholarly-or-primary."

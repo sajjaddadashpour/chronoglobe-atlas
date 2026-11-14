@@ -1,0 +1,21 @@
+id: geumgwan-gaya-isipum
+name: Isipum
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 346
+latest: 407
+sources:
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 346 CE to 407 CE"
+  low: 346
+  high: 407
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: the Garakguk-gi king list is rejected by some (mainly Japanese) scholars, who equate several of these kings with one another (EKC 겸지왕); no alternative years in the sources read"
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled contested.
+note: "Reign as given: 346–407 (Wikipedia list). Start 346 CE; end 407 CE. Personal name (Wikipedia list): Isipum. Wikidata: Q491146 (via wp-en-wikidata-korea; verify item scope before use). Evidence: secondary-only."

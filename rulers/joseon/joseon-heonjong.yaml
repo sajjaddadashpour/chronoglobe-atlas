@@ -1,0 +1,11 @@
+id: joseon-heonjong
+name: Heonjong
+title: King of Joseon
+polity: joseon
+earliest: 1834
+latest: 1849
+sources:
+- ekc-e0063230-joseon-heonjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1834–1849 (Wikipedia list); EKC: 1834 CE to 1849 CE. Start 1834 CE; end 1849 CE. Korean name: 헌종 (EKC article title). Personal name (Wikipedia list): Yi Hwan. Wikidata: Q484966 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

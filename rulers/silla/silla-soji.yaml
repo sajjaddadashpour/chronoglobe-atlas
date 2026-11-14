@@ -1,0 +1,11 @@
+id: silla-soji
+name: Soji
+title: Maripgan of Silla
+polity: silla
+earliest: 479
+latest: 500
+sources:
+- ekc-e0030284-silla-soji
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 479–500 (Wikipedia list); EKC: 479 CE to 500 CE. Start 479 CE; end 500 CE. Korean name: 소지마립간 (EKC article title). Wikidata: Q488382 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: baekje-mu
+name: Mu
+title: King of Baekje
+polity: baekje
+earliest: 600
+latest: 641
+sources:
+- ekc-e0019178-baekje-mu
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 600–641 (Wikipedia list); EKC: 600 CE to 641 CE. Start 600 CE; end 641 CE. Korean name: 무왕 (EKC article title). Personal name (Wikipedia list): Buyeo Jang / Buyeo Seodong. Wikidata: Q498007 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,22 @@
+id: geumgwan-gaya-capital-gimhae
+polity: geumgwan-gaya
+place: Gimhae
+earliest: -50
+latest: 532
+sources:
+- ekc-e0007597-geumgwan-gaya
+confidence: contested
+alternatives:
+- value: "start: 42 CE (Garakguk-gi)"
+  low: 42
+  high: 42
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled legendary.
+- value: "start: around the turn of the era (encoded 50 BCE-50 CE)"
+  low: -50
+  high: 50
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled estimate.
+note: "EKC 금관가야: centred on Gimhae. Start inherits the contested polity start. Evidence: scholarly-or-primary."

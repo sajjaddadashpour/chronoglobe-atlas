@@ -1,0 +1,21 @@
+id: geumgwan-gaya-jwaji
+name: Jwaji
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 407
+latest: 421
+sources:
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 407 CE to 421 CE"
+  low: 407
+  high: 421
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: the Garakguk-gi king list is rejected by some (mainly Japanese) scholars, who equate several of these kings with one another (EKC 겸지왕); no alternative years in the sources read"
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled contested.
+note: "Reign as given: 407–421 (Wikipedia list). Start 407 CE; end 421 CE. Personal name (Wikipedia list): Jwaji. Wikidata: Q490888 (via wp-en-wikidata-korea; verify item scope before use). Evidence: secondary-only."

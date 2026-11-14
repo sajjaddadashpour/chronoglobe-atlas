@@ -1,0 +1,9 @@
+id: goryeo-capital-cheorwon
+polity: goryeo
+place: Cheorwon
+earliest: 918
+latest: 919
+sources:
+- ekc-e0056148-cheorwon-gun
+confidence: scholarly-consensus
+note: "EKC 철원군: Goryeo founded at Cheorwon in 918, moved to Songak the next year. Evidence: scholarly-or-primary."

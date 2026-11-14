@@ -1,0 +1,23 @@
+id: goguryeo-mobon
+name: Mobon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 48
+latest: 53
+sources:
+- ekc-e0018498-goguryeo-mobon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 48 CE to 53 CE"
+  low: 48
+  high: 53
+  sources:
+  - ekc-e0018498-goguryeo-mobon
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Sansang are treated as unreliable by critical scholarship (EKC 고구려); no alternative years in the sources read"
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "Reign as given: 48–53 (Wikipedia list); EKC: 48 CE to 53 CE. Start 48 CE; end 53 CE. Korean name: 모본왕 (EKC article title). Personal name (Wikipedia list): Hae U / Hae Aeru / Hae Mangnae. Wikidata: Q498458 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

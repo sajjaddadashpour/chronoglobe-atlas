@@ -1,0 +1,23 @@
+id: silla-cheomhae
+name: Cheomhae
+title: Isageum of Silla
+polity: silla
+earliest: 247
+latest: 261
+sources:
+- ekc-e0056207-silla-cheomhae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 247 CE to 261 CE"
+  low: 247
+  high: 261
+  sources:
+  - ekc-e0056207-silla-cheomhae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 247–261 (Wikipedia list); EKC: 247 CE to 261 CE. Start 247 CE; end 261 CE. Korean name: 첨해이사금 (EKC article title). Wikidata: Q485584 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

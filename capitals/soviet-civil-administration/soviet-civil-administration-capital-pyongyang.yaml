@@ -1,0 +1,10 @@
+id: soviet-civil-administration-capital-pyongyang
+polity: soviet-civil-administration
+place: Pyongyang
+earliest: 1945
+latest: 1948
+sources:
+- wp-en-soviet-civil-administration
+- ekc-e0024785-north-korea
+confidence: scholarly-consensus
+note: "Wikipedia infobox capital Pyongyang; EKC 북한: Pyongyang made provisional capital in Sept 1946. Evidence: scholarly-partial."

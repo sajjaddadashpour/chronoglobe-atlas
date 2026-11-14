@@ -1,0 +1,23 @@
+id: silla-heulhae
+name: Heulhae
+title: Isageum of Silla
+polity: silla
+earliest: 310
+latest: 356
+sources:
+- ekc-e0065933-silla-heulhae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 310 CE to 356 CE"
+  low: 310
+  high: 356
+  sources:
+  - ekc-e0065933-silla-heulhae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 310–356 (Wikipedia list); EKC: 310 CE to 356 CE. Start 310 CE; end 356 CE. Korean name: 흘해이사금 (EKC article title). Wikidata: Q496697 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

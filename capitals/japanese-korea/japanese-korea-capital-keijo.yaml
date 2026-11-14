@@ -1,0 +1,11 @@
+id: japanese-korea-capital-keijo
+polity: japanese-korea
+place: Keijō (Seoul)
+earliest: 1910
+latest: 1945
+sources:
+- ekc-e0059235-residency-general
+- ekc-e0019891-usamgik
+- ekc-e0052242-government-general-of-chosen
+confidence: scholarly-consensus
+note: "Seat of the Government-General in Seoul (EKC 통감부: Residency-General set up in Seoul; EKC 미군정청: surrender signed at the Government-General building in Seoul on 9 Sep 1945). Evidence: scholarly-or-primary."

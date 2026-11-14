@@ -1,0 +1,11 @@
+id: goryeo-gyeongjong
+name: Gyeongjong
+title: King of Goryeo
+polity: goryeo
+earliest: 975
+latest: 981
+sources:
+- ekc-e0002807-goryeo-gyeongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 975–981 (Wikipedia list); EKC: 975 CE to 981 CE. Start 975 CE; end 981 CE. Korean name: 경종 (EKC article title). Personal name (Wikipedia list): Wang Ju. Wikidata: Q493692 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

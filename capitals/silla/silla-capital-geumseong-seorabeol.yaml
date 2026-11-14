@@ -1,0 +1,20 @@
+id: silla-capital-geumseong-seorabeol
+polity: silla
+place: Geumseong / Seorabeol (Gyeongju)
+earliest: -57
+latest: 668
+sources:
+- ekc-e0032800-silla
+confidence: contested
+alternatives:
+- value: "start: 57 BCE (Samguk sagi)"
+  low: -57
+  high: -57
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled legendary.
+- value: Saro-guk city-state formed earlier (EKC); no year
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Saro-guk in the Gyeongju basin (EKC). Start inherits the contested 57 BCE founding date. Evidence: scholarly-or-primary."

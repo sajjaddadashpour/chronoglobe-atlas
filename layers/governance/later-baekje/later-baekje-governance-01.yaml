@@ -1,0 +1,27 @@
+id: later-baekje-governance-01
+layer: governance
+polity: later-baekje
+subject: "governance form: monarchy"
+earliest: 892
+latest: 936
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0065738-later-baekje
+confidence: contested
+alternatives:
+- value: "start: 892 (seizure of Mujinju)"
+  low: 892
+  high: 892
+  sources:
+  - ekc-e0065738-later-baekje
+  note: Reading labelled scholarly-consensus.
+- value: "start: 900 (state proclaimed at Wansanju)"
+  low: 900
+  high: 900
+  sources:
+  - ekc-e0065738-later-baekje
+  note: Reading labelled scholarly-consensus.
+note: "Governance type: monarchy. Dates as given: same span as the polity (892 CE to 936 CE). Evidence: EKC article on the polity describes a hereditary king; start inherits the polity start label. Evidence: scholarly-or-primary."

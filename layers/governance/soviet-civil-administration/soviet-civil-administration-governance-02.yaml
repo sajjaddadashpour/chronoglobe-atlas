@@ -1,0 +1,15 @@
+id: soviet-civil-administration-governance-02
+layer: governance
+polity: soviet-civil-administration
+subject: "governance form: people's committees under Soviet occupation"
+earliest: 1946
+latest: 1948
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0024785-north-korea
+- wp-en-soviet-civil-administration
+confidence: scholarly-consensus
+note: "Governance type: people's committees under Soviet occupation. Dates as given: 8 Feb 1946 - 9 Sep 1948. Evidence: EKC 북한: Provisional People's Committee for North Korea (chair Kim Il-sung) from 8 Feb 1946, then the People's Committee; DPRK proclaimed 9 Sep 1948. Evidence: scholarly-or-primary."

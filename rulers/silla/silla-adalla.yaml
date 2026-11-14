@@ -1,0 +1,23 @@
+id: silla-adalla
+name: Adalla
+title: Isageum of Silla
+polity: silla
+earliest: 154
+latest: 184
+sources:
+- ekc-e0034232-silla-adalla
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 154 CE to 184 CE"
+  low: 154
+  high: 184
+  sources:
+  - ekc-e0034232-silla-adalla
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 154–184 (Wikipedia list); EKC: 154 CE to 184 CE. Start 154 CE; end 184 CE. Korean name: 아달라이사금 (EKC article title). Wikidata: Q485807 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

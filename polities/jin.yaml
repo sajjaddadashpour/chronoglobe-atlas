@@ -1,0 +1,20 @@
+id: jin
+name: Jin (Jinguk)
+kind: state
+earliest: -300
+latest: -101
+sources:
+- ekc-e0054604-jinguk
+confidence: contested
+alternatives:
+- value: a state named Jin in the 3rd-2nd century BCE (reading 辰國)
+  low: -300
+  high: -101
+  sources:
+  - ekc-e0054604-jinguk
+  note: Reading labelled estimate.
+- value: "no single state: the Shiji passage reads 衆國, many statelets"
+  sources:
+  - ekc-e0054604-jinguk
+  note: Reading labelled contested.
+note: "Korean name: 진국 (辰國) (EKC). Start: 3rd century BCE; end: 2nd century BCE (EKC gives the period as roughly the 3rd to 2nd century BCE, centre-south of the peninsula). Its existence as a state is debated because the key passage in Shiji survives in variants (辰國 'Jin state' vs 衆國 'the many states'). The years are this pass's encoding of 'third to second century BCE'. Successors: the Samhan (mahan, jinhan, byeonhan), on the reading that Jin existed. Evidence: scholarly-or-primary."

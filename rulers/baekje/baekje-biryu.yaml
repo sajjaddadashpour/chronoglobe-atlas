@@ -1,0 +1,23 @@
+id: baekje-biryu
+name: Biryu
+title: King of Baekje
+polity: baekje
+earliest: 304
+latest: 344
+sources:
+- ekc-e0025131-baekje-biryu
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 304 CE to 344 CE"
+  low: 304
+  high: 344
+  sources:
+  - ekc-e0025131-baekje-biryu
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 304–344 (Wikipedia list); EKC: 304 CE to 344 CE. Start 304 CE; end 344 CE. Korean name: 비류왕 (EKC article title). Personal name (Wikipedia list): Buyeo Biryu. Wikidata: Q497553 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

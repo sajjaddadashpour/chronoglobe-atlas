@@ -1,0 +1,23 @@
+id: goguryeo-sindae
+name: Sindae
+title: King of Goguryeo
+polity: goguryeo
+earliest: 165
+latest: 179
+sources:
+- ekc-e0032752-goguryeo-sindae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 165 CE to 179 CE"
+  low: 165
+  high: 179
+  sources:
+  - ekc-e0032752-goguryeo-sindae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Sansang are treated as unreliable by critical scholarship (EKC 고구려); no alternative years in the sources read"
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "Reign as given: 165–179 (Wikipedia list); EKC: 165 CE to 179 CE. Start 165 CE; end 179 CE. Korean name: 신대왕 (EKC article title). Personal name (Wikipedia list): Go Baekgo / Go Baekgu. Wikidata: Q498530 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,10 @@
+id: balhae-capital-dongmo-san
+polity: balhae
+place: "Dongmo-san (Chengshanzi, Dunhua)"
+earliest: 698
+latest: 742
+sources:
+- ekc-e0021626-balhae
+- ekc-e0053686-junggyeong-hyeondeok-bu
+confidence: scholarly-consensus
+note: "EKC 발해: founded at Dongmo-san (Chengshanzi near Dunhua). EKC 중경현덕부: capital moved from the Dunhua basin to Junggyeong in 742. Evidence: scholarly-or-primary."

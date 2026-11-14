@@ -1,0 +1,11 @@
+id: unified-silla-gyeongdeok
+name: Gyeongdeok
+title: King of Silla
+polity: unified-silla
+earliest: 742
+latest: 765
+sources:
+- ekc-e0002370-unified-silla-gyeongdeok
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 742–765 (Wikipedia list); EKC: from 742 CE (one bound only). Start 742 CE; end 765 CE. Korean name: 경덕왕 (EKC article title). Wikidata: Q485815 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-partial."

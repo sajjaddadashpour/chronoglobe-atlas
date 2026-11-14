@@ -1,0 +1,24 @@
+id: balhae-dae-hyeonseok
+name: Dae Hyeonseok
+title: King of Balhae
+polity: balhae
+earliest: 871
+latest: 895
+sources:
+- ekc-e0015252-balhae-dae-hyeonseok
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 871 CE to 893 CE"
+  low: 871
+  high: 893
+  sources:
+  - ekc-e0015252-balhae-dae-hyeonseok
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 871 CE to 895 CE"
+  low: 871
+  high: 895
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 871–895 (Wikipedia list); EKC: 871 CE to 893 CE. Outer bounds 871 CE to 895 CE; the readings are in alternatives. Korean name: 대현석 (EKC article title). Personal name (Wikipedia list): Dae Hyeonseok. Wikidata: Q703199 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

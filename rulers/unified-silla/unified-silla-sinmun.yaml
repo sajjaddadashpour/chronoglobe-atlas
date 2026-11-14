@@ -1,0 +1,11 @@
+id: unified-silla-sinmun
+name: Sinmun
+title: King of Silla
+polity: unified-silla
+earliest: 681
+latest: 692
+sources:
+- ekc-e0032950-unified-silla-sinmun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 681–692 (Wikipedia list); EKC: 681 CE to 692 CE. Start 681 CE; end 692 CE. Korean name: 신문왕 (EKC article title). Wikidata: Q485818 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

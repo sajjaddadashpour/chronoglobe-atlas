@@ -1,0 +1,13 @@
+id: mahan
+name: Mahan
+kind: other
+earliest: -100
+latest: 300
+sources:
+- ekc-e0017481-mahan
+- ekc-e0026922-samhan
+confidence: estimate
+low: -100
+high: 300
+method: "low and high are the outer year bounds of the span (earliest possible start, latest possible end), taken from the dated estimates in the cited sources; per-bound readings are in note."
+note: "Korean name: 마한 (EKC). One of the Samhan (삼한) confederations of statelets (54 statelets in Sanguozhi). Kind 'other' = confederation of statelets. Start: 1st century BCE; end: 3rd century CE (EKC) - both bounds are this pass's encoding of the centuries. Led by the Jin king at Mokji-guk (EKC). Absorbed step by step into baekje; the end date of the last Mahan statelets is debated (see OPEN_QUESTIONS). Old chronoglobe had one 'Samhan' record; split here. Evidence: scholarly-or-primary."

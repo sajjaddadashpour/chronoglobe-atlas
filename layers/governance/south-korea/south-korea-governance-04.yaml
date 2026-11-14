@@ -1,0 +1,14 @@
+id: south-korea-governance-04
+layer: governance
+polity: south-korea
+subject: "governance form: republic (Third Republic)"
+earliest: 1963
+latest: 1972
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-list-of-presidents-of-south-korea
+confidence: scholarly-consensus
+note: "Governance type: republic (Third Republic). Dates as given: 1963-1972. Evidence: Period headings of the Wikipedia list of presidents. The form of each republic (presidential, parliamentary, Yushin) is not encoded; see OPEN_QUESTIONS. Evidence: secondary-only."

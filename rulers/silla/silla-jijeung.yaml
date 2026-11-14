@@ -1,0 +1,11 @@
+id: silla-jijeung
+name: Jijeung
+title: King of Silla
+polity: silla
+earliest: 500
+latest: 514
+sources:
+- ekc-e0054400-silla-jijeung
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 500–514 (Wikipedia list); EKC: 500 CE to 514 CE. Start 500 CE; end 514 CE. Korean name: 지증왕 (EKC article title). Wikidata: Q491142 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

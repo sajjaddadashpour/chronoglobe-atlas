@@ -1,0 +1,15 @@
+id: soviet-civil-administration-governance-01
+layer: governance
+polity: soviet-civil-administration
+subject: "governance form: military occupation (Soviet)"
+earliest: 1945
+latest: 1946
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-soviet-civil-administration
+- ekc-e0024785-north-korea
+confidence: scholarly-consensus
+note: "Governance type: military occupation (Soviet). Dates as given: Aug 1945 - Feb 1946. Evidence: Wikipedia infobox: provisional government under military occupation 1945-1946; EKC 북한: Provisional People's Committee from 8 Feb 1946. Evidence: scholarly-partial."

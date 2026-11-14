@@ -1,0 +1,45 @@
+id: gojoseon
+name: Gojoseon (Old Joseon)
+kind: state
+earliest: -2333
+latest: -108
+sources:
+- ekc-e0003937-gojoseon
+- ekc-e0013538-dangun
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "start: 2333 BCE (Dangun founding; tradition from Samguk yusa)"
+  low: -2333
+  high: -2333
+  sources:
+  - ekc-e0013538-dangun
+  - ekc-e0003937-gojoseon
+  note: Reading labelled legendary.
+- value: "start: earliest mentions in Guanzi / Shanhaijing (text dated 7th to 3rd century BCE; the 700 to 221 BCE width is this pass's encoding)"
+  low: -700
+  high: -221
+  sources:
+  - ekc-e0003937-gojoseon
+  note: Reading labelled contested.
+- value: "start: attested by the mid-4th century BCE at the latest (Marquis Wen of Yan, 361-333 BCE)"
+  low: -361
+  high: -333
+  sources:
+  - ekc-e0003937-gojoseon
+  note: Reading labelled attested.
+- value: "end: c. 194 BCE (Wiman seizes power; pre-Wiman scope, usual in political history)"
+  low: -195
+  high: -194
+  sources:
+  - ekc-e0003937-gojoseon
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+- value: "end: 108 BCE (scope including Wiman Joseon)"
+  low: -108
+  high: -108
+  sources:
+  - ekc-e0003937-gojoseon
+  - ekc-e0041138-wiman-joseon
+  note: Reading labelled attested.
+note: "Korean name: 고조선 (EKC article title); called 'Joseon' (조선) in early Chinese texts; the name Gojoseon is first used in Samguk yusa. Start: contested. The 2333 BCE founding by Dangun (Samguk yusa / later tradition) is legendary; the EKC article states the year has no real historical meaning, because farming and bronze reached Liaoxi/Liaodong only in the second millennium BCE. Earliest written mentions are in Shanhaijing and Guanzi (texts of uncertain date; Guanzi is mostly Warring States, 402-221 BCE, possibly resting on traditions older than the 5th century BCE). By the mid-4th century BCE at the latest Joseon is clearly attested (Su Qin's speech to Marquis Wen of Yan, r. 361-333 BCE, in Shiji / Zhanguoce). End: c. 194 BCE (Wiman's coup) if Gojoseon means only pre-Wiman Joseon, the usual political scope; 108 BCE if Wiman Joseon is included (EKC gives both scopes). This atlas keeps Wiman Joseon as a separate polity (wiman-joseon). Location of the centre is contested (Liaoning-centre theory, migration theory from Liaodong to Pyongyang, Pyongyang-centre theory; North Korea claimed Dangun's tomb near Pyongyang in 1993); see capital record gojoseon-capital-centre-of-gojoseon. Rulers before Bu and Jun are legendary or unattested. Record label contested is the weaker of the start label (contested) and end label (contested); see docs/korea/README.md. Successors: wiman-joseon. Evidence: scholarly-or-primary."

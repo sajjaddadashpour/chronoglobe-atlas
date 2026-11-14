@@ -1,0 +1,23 @@
+id: baekje-gaeru
+name: Gaeru
+title: King of Baekje
+polity: baekje
+earliest: 128
+latest: 166
+sources:
+- ekc-e0001617-baekje-gaeru
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 128 CE to 166 CE"
+  low: 128
+  high: 166
+  sources:
+  - ekc-e0001617-baekje-gaeru
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 128–166 (Wikipedia list); EKC: 128 CE to 166 CE. Start 128 CE; end 166 CE. Korean name: 개루왕 (EKC article title). Personal name (Wikipedia list): Buyeo Gaeru. Wikidata: Q497364 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

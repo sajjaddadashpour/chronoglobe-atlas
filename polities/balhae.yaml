@@ -1,0 +1,10 @@
+id: balhae
+name: Balhae (Bohai)
+kind: state
+earliest: 698
+latest: 926
+sources:
+- ekc-e0021626-balhae
+- wp-en-list-of-monarchs-of-korea
+confidence: attested
+note: "Korean name: 발해 (EKC). Start: 698 CE (Dae Joyeong founds the state at Dongmo-san). End: 926 CE (Khitan take Sanggyeong in the first month of 926). Both attested in EKC. Its ethnic and historiographic attribution (Korean vs Chinese history) is disputed between national historiographies; the dates are not. Successors: Liao (Khitan, not modelled); refugees to goryeo. Evidence: scholarly-or-primary."

@@ -1,0 +1,29 @@
+id: korean-empire-governance-01
+layer: governance
+polity: korean-empire
+subject: "governance form: monarchy (empire)"
+earliest: 1897
+latest: 1906
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0015187-korean-empire
+- ekc-e0059235-residency-general
+confidence: contested
+alternatives:
+- value: "end: 1905 (protectorate treaty, Nov 1905)"
+  low: 1905
+  high: 1905
+  sources:
+  - ekc-e0015187-korean-empire
+  - ekc-e0059235-residency-general
+  note: Reading labelled scholarly-consensus.
+- value: "end: 1906 (Residency-General opens, Feb 1906)"
+  low: 1906
+  high: 1906
+  sources:
+  - ekc-e0059235-residency-general
+  note: Reading labelled attested.
+note: "Governance type: monarchy (empire). Dates as given: 1897 to the protectorate (1905 treaty or 1906 Residency-General). Evidence: EKC 대한제국, 통감부. Evidence: scholarly-or-primary."

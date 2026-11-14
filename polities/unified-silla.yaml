@@ -1,0 +1,11 @@
+id: unified-silla
+name: Unified Silla (Later Silla)
+kind: state
+earliest: 668
+latest: 935
+sources:
+- ekc-e0032800-silla
+- ekc-e0002611-gyeongsun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Korean name: 통일신라 (EKC uses 신라). Start: 668 CE (fall of Goguryeo; atlas split convention). Some historians date unification to 676 (end of the Silla-Tang war); not checked in the sources read (OPEN_QUESTIONS). End: 935 CE (King Gyeongsun surrenders to Goryeo) [attested]. Successors: goryeo. Evidence: scholarly-or-primary."

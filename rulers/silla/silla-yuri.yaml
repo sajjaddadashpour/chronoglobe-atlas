@@ -1,0 +1,23 @@
+id: silla-yuri
+name: Yuri
+title: Isageum of Silla
+polity: silla
+earliest: 24
+latest: 57
+sources:
+- ekc-e0041390-silla-yuri
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 24 CE to 57 CE"
+  low: 24
+  high: 57
+  sources:
+  - ekc-e0041390-silla-yuri
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 24–57 (Wikipedia list); EKC: 24 CE to 57 CE. Start 24 CE; end 57 CE. Korean name: 유리이사금 (EKC article title). Wikidata: Q485107 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

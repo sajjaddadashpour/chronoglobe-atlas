@@ -1,0 +1,11 @@
+id: goryeo-taejo
+name: Taejo
+title: King of Goryeo
+polity: goryeo
+earliest: 918
+latest: 943
+sources:
+- ekc-e0059032-goryeo-taejo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 918–943 (Wikipedia list); EKC: 918 CE to 943 CE. Start 918 CE; end 943 CE. Korean name: 태조 (EKC article title). Personal name (Wikipedia list): Wang Geon. Wikidata: Q334312 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

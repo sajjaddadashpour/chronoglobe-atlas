@@ -1,0 +1,23 @@
+id: balhae-capital-sanggyeong-yongcheon-bu
+polity: balhae
+place: "Sanggyeong Yongcheon-bu (Dongjingcheng, Ning'an)"
+earliest: 755
+latest: 794
+sources:
+- ekc-e0027003-sanggyeong-yongcheon-bu
+- ekc-e0021626-balhae
+confidence: contested
+alternatives:
+- value: 785 to Donggyeong (EKC 상경용천부)
+  low: 755
+  high: 785
+  sources:
+  - ekc-e0027003-sanggyeong-yongcheon-bu
+  note: Reading labelled scholarly-consensus.
+- value: late 780s to Donggyeong (EKC 발해; start 756)
+  low: 756
+  high: 789
+  sources:
+  - ekc-e0021626-balhae
+  note: Reading labelled scholarly-consensus.
+note: "First Sanggyeong period, from 755/756 until the move to Donggyeong in the 780s. Evidence: scholarly-or-primary."

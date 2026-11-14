@@ -1,0 +1,24 @@
+id: joseon-cheoljong
+name: Cheoljong
+title: King of Joseon
+polity: joseon
+earliest: 1849
+latest: 1864
+sources:
+- ekc-e0056172-joseon-cheoljong
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 1849 CE to 1863 CE"
+  low: 1849
+  high: 1863
+  sources:
+  - ekc-e0056172-joseon-cheoljong
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 1849 CE to 1864 CE"
+  low: 1849
+  high: 1864
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 1849–1864 (Wikipedia list); EKC: 1849 CE to 1863 CE. Outer bounds 1849 CE to 1864 CE; the readings are in alternatives. Korean name: 철종 (EKC article title). Personal name (Wikipedia list): Yi Won-beom / Yi Byeon. Difference probably from lunar vs solar year of death (12th lunar month 1863 = January 1864); not verified. Wikidata: Q482850 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

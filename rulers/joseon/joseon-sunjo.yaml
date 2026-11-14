@@ -1,0 +1,11 @@
+id: joseon-sunjo
+name: Sunjo
+title: King of Joseon
+polity: joseon
+earliest: 1800
+latest: 1834
+sources:
+- ekc-e0031943-joseon-sunjo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1800–1834 (Wikipedia list); EKC: 1800 CE to 1834 CE. Start 1800 CE; end 1834 CE. Korean name: 순조 (EKC article title). Personal name (Wikipedia list): Yi Hong. Wikidata: Q459964 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

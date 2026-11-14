@@ -1,0 +1,10 @@
+id: goryeo
+name: Goryeo
+kind: state
+earliest: 918
+latest: 1392
+sources:
+- ekc-e0003424-goryeo
+- wp-en-list-of-monarchs-of-korea
+confidence: attested
+note: "Korean name: 고려 (EKC). Start: 918 CE (Wang Geon). Reunification 936. End: 1392 CE (Yi Seong-gye founds Joseon). Military regime 1170-1270 and Yuan overlordship (from 1259/1270 to 1356) are encoded as governance periods, not separate polities. Successors: joseon. Evidence: scholarly-or-primary."

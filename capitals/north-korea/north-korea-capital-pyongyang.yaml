@@ -1,0 +1,9 @@
+id: north-korea-capital-pyongyang
+polity: north-korea
+place: Pyongyang
+earliest: 1948
+latest: 2026
+sources:
+- ekc-e0024785-north-korea
+confidence: scholarly-consensus
+note: "EKC 북한: Pyongyang provisional capital from Sept 1946. The 1948 constitution named Seoul as capital until 1972 (not checked in sources read; OPEN_QUESTIONS). Ongoing: 2026 is not an end date. Evidence: scholarly-or-primary."

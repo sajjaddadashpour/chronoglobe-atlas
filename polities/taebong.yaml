@@ -1,0 +1,12 @@
+id: taebong
+name: Later Goguryeo / Majin / Taebong
+kind: state
+earliest: 901
+latest: 918
+sources:
+- ekc-e0058942-taebong
+- ekc-e0017454-majin
+- ekc-e0056148-cheorwon-gun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Korean names: 후고구려 (901), 마진 (904), 태봉 (911) (EKC 철원군, 태봉, 마진). Start: 901 (Gungye proclaims Later Goguryeo; he held Cheorwon as a base from 895). End: 918 (Wang Geon overthrows Gungye). Successors: goryeo. Evidence: scholarly-or-primary."

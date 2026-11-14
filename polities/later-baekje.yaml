@@ -1,0 +1,26 @@
+id: later-baekje
+name: Later Baekje (Hubaekje)
+kind: state
+earliest: 892
+latest: 936
+sources:
+- ekc-e0065738-later-baekje
+- ekc-e0002178-gyeon-hwon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "start: 892 (seizure of Mujinju)"
+  low: 892
+  high: 892
+  sources:
+  - ekc-e0065738-later-baekje
+  - ekc-e0002178-gyeon-hwon
+  note: Reading labelled scholarly-consensus.
+- value: "start: 900 (state proclaimed at Wansanju)"
+  low: 900
+  high: 900
+  sources:
+  - ekc-e0065738-later-baekje
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Korean name: 후백제 (EKC). Start contested: 892 (Gyeon Hwon takes Mujinju) vs 900 (state name Baekje proclaimed at Wansanju; EKC: officially from 900; Wikipedia list dates Gyeon Hwon from 900). End: 936 CE (defeat by Goryeo) [attested]. Successors: goryeo. Evidence: scholarly-or-primary."

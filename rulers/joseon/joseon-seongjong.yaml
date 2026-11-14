@@ -1,0 +1,11 @@
+id: joseon-seongjong
+name: Seongjong
+title: King of Joseon
+polity: joseon
+earliest: 1469
+latest: 1494
+sources:
+- ekc-e0029554-joseon-seongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1469–1494 (Wikipedia list); EKC: 1469 CE to 1494 CE. Start 1469 CE; end 1494 CE. Korean name: 성종 (EKC article title). Personal name (Wikipedia list): Yi Hyeol. Wikidata: Q484006 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

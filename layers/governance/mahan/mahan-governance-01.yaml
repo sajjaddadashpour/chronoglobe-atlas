@@ -1,0 +1,15 @@
+id: mahan-governance-01
+layer: governance
+polity: mahan
+subject: "governance form: confederation of statelets"
+earliest: -100
+latest: 300
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0017481-mahan
+- ekc-e0026922-samhan
+confidence: estimate
+note: "Governance type: confederation of statelets. Dates as given: 1st century BCE to 3rd century CE. Evidence: EKC: a group of statelets (guk) with chiefs; Mahan led by the Jin king of Mokji-guk. Evidence: scholarly-or-primary."

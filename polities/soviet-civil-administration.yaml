@@ -1,0 +1,10 @@
+id: soviet-civil-administration
+name: Soviet Civil Administration in Korea
+kind: other
+earliest: 1945
+latest: 1948
+sources:
+- wp-en-soviet-civil-administration
+- ekc-e0024785-north-korea
+confidence: attested
+note: "Kind 'other' = Soviet military occupation administration north of the 38th parallel. Start: Aug 1945; end: Sept 1948 (DPRK proclaimed 9 Sep 1948, EKC 북한). Wikipedia: provisional government under military occupation 1945-1946; EKC: Provisional People's Committee for North Korea from 8 Feb 1946 chaired by Kim Il-sung. Successors: north-korea. Evidence: scholarly-or-primary."

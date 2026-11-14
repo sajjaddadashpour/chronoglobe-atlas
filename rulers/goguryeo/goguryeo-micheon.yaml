@@ -1,0 +1,24 @@
+id: goguryeo-micheon
+name: Micheon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 300
+latest: 331
+sources:
+- ekc-e0020017-goguryeo-micheon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 300 CE to 330 CE"
+  low: 300
+  high: 330
+  sources:
+  - ekc-e0020017-goguryeo-micheon
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 300 CE to 331 CE"
+  low: 300
+  high: 331
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 300–331 (Wikipedia list); EKC: 300 CE to 330 CE. Outer bounds 300 CE to 331 CE; the readings are in alternatives. Korean name: 미천왕 (EKC article title). Personal name (Wikipedia list): Go Eulbul / Go Ubul. Wikidata: Q498693 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

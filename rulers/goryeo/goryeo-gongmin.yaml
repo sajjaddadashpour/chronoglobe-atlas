@@ -1,0 +1,11 @@
+id: goryeo-gongmin
+name: Gongmin
+title: King of Goryeo
+polity: goryeo
+earliest: 1351
+latest: 1374
+sources:
+- ekc-e0004295-gongmin
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1351–1374 (Wikipedia list); EKC: 1351 CE to 1374 CE. Start 1351 CE; end 1374 CE. Korean name: 공민왕 (EKC article title). Personal name (Wikipedia list): Wang Jeon. Wikidata: Q494074 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

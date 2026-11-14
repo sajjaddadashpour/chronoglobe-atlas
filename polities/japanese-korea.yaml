@@ -1,0 +1,11 @@
+id: japanese-korea
+name: Korea under Japanese rule (Chōsen)
+kind: other
+earliest: 1910
+latest: 1945
+sources:
+- ekc-e0047318-japanese-colonial-period
+- ekc-e0052242-government-general-of-chosen
+- wp-en-governor-general-of-chosen
+confidence: attested
+note: "Korean name: 일제강점기 (EKC). Kind 'other' = colony administered by the Government-General of Chōsen (조선총독부). Start: 29 Aug 1910. End: 15 Aug 1945 (Japanese surrender); the Government-General formally surrendered in Seoul on 9 Sep 1945 (EKC 미군정청). Successors: usamgik, soviet-civil-administration. Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: joseon-sukjong
+name: Sukjong
+title: King of Joseon
+polity: joseon
+earliest: 1674
+latest: 1720
+sources:
+- ekc-e0031837-joseon-sukjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1674–1720 (Wikipedia list); EKC: 1674 CE to 1720 CE. Start 1674 CE; end 1720 CE. Korean name: 숙종 (EKC article title). Personal name (Wikipedia list): Yi Gwang / Yi Sun. Wikidata: Q485664 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

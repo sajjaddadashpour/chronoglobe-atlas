@@ -1,0 +1,11 @@
+id: joseon-jungjong
+name: Jungjong
+title: King of Joseon
+polity: joseon
+earliest: 1506
+latest: 1544
+sources:
+- ekc-e0053932-joseon-jungjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1506–1544 (Wikipedia list); EKC: 1506 CE to 1544 CE. Start 1506 CE; end 1544 CE. Korean name: 중종 (EKC article title). Personal name (Wikipedia list): Yi Yeok. Wikidata: Q483008 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

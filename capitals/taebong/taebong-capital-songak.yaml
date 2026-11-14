@@ -1,0 +1,10 @@
+id: taebong-capital-songak
+polity: taebong
+place: Songak (Kaesong)
+earliest: 898
+latest: 905
+sources:
+- ekc-e0058942-taebong
+- ekc-e0056148-cheorwon-gun
+confidence: scholarly-consensus
+note: "EKC 태봉: capital at Songak from 898; Later Goguryeo proclaimed there in 901; move to Cheorwon in 905. Evidence: scholarly-or-primary."

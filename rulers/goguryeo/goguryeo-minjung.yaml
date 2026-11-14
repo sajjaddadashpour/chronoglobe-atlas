@@ -1,0 +1,23 @@
+id: goguryeo-minjung
+name: Minjung
+title: King of Goguryeo
+polity: goguryeo
+earliest: 44
+latest: 48
+sources:
+- ekc-e0020318-goguryeo-minjung
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 44 CE to 48 CE"
+  low: 44
+  high: 48
+  sources:
+  - ekc-e0020318-goguryeo-minjung
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Sansang are treated as unreliable by critical scholarship (EKC 고구려); no alternative years in the sources read"
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "Reign as given: 44–48 (Wikipedia list); EKC: 44 CE to 48 CE. Start 44 CE; end 48 CE. Korean name: 민중왕 (EKC article title). Personal name (Wikipedia list): Hae Saekju. Wikidata: Q498441 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

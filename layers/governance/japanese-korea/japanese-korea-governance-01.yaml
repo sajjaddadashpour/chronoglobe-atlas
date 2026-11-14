@@ -1,0 +1,15 @@
+id: japanese-korea-governance-01
+layer: governance
+polity: japanese-korea
+subject: "governance form: colonial government (Government-General of Chōsen)"
+earliest: 1910
+latest: 1945
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0052242-government-general-of-chosen
+- ekc-e0047318-japanese-colonial-period
+confidence: attested
+note: "Governance type: colonial government (Government-General of Chōsen). Dates as given: 1910-1945. Evidence: EKC 조선총독부: governor-general held executive, legislative and judicial authority. Evidence: scholarly-or-primary."

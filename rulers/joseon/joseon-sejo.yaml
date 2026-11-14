@@ -1,0 +1,11 @@
+id: joseon-sejo
+name: Sejo
+title: King of Joseon
+polity: joseon
+earliest: 1455
+latest: 1468
+sources:
+- ekc-e0029849-joseon-sejo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1455–1468 (Wikipedia list); EKC: 1455 CE to 1468 CE. Start 1455 CE; end 1468 CE. Korean name: 세조 (EKC article title). Personal name (Wikipedia list): Yi Yu. Wikidata: Q334308 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

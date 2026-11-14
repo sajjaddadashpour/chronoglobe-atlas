@@ -1,0 +1,11 @@
+id: goguryeo-capital-pyongyang
+polity: goguryeo
+place: Pyongyang (Anhak Palace / Daeseong-san)
+earliest: 427
+latest: 586
+sources:
+- ekc-e0003323-goguryeo
+- ekc-e0048656-jangan-seong
+- ekc-e0035088-anhak-gung
+confidence: attested
+note: "Move to Pyongyang 427 (King Jangsu). The 427-586 seat is placed at Anhak Palace with Daeseong-san fortress (EKC 안학궁: Goguryeo palace site in Daeseong district, Pyongyang, south of Daeseong-san). Move to Jangan-seong 586. Evidence: scholarly-or-primary."

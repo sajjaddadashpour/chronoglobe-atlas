@@ -1,0 +1,11 @@
+id: unified-silla-wonseong
+name: Wonseong
+title: King of Silla
+polity: unified-silla
+earliest: 785
+latest: 798
+sources:
+- ekc-e0040718-unified-silla-wonseong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 785–798 (Wikipedia list); EKC: 785 CE to 798 CE. Start 785 CE; end 798 CE. Korean name: 원성왕 (EKC article title). Wikidata: Q485591 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

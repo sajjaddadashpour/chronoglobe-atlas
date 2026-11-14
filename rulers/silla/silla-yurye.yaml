@@ -1,0 +1,23 @@
+id: silla-yurye
+name: Yurye
+title: Isageum of Silla
+polity: silla
+earliest: 284
+latest: 298
+sources:
+- ekc-e0041379-silla-yurye
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 284 CE to 298 CE"
+  low: 284
+  high: 298
+  sources:
+  - ekc-e0041379-silla-yurye
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 284–298 (Wikipedia list); EKC: 284 CE to 298 CE. Start 284 CE; end 298 CE. Korean name: 유례이사금 (EKC article title). Wikidata: Q485837 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

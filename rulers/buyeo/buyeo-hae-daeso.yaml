@@ -1,0 +1,23 @@
+id: buyeo-hae-daeso
+name: Hae Daeso
+title: King of (Eastern) Buyeo
+polity: buyeo
+earliest: -20
+latest: 22
+sources:
+- ekc-e0014524-buyeo-hae-daeso
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 20 BCE to 22 CE"
+  low: -20
+  high: 22
+  sources:
+  - ekc-e0014524-buyeo-hae-daeso
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Eastern Buyeo kings are known only from Samguk sagi; their dates are not confirmed by Chinese sources (EKC 부여); no alternative years in the sources read"
+  sources:
+  - ekc-e0024368-buyeo
+  note: Reading labelled contested.
+note: "Reign as given: 20 BC – 22 AD (Wikipedia list); EKC: 20 BCE to 22 CE. Start 20 BCE; end 22 CE. Korean name: 대소 (EKC article title). Personal name (Wikipedia list): Hae Daeso. Eastern Buyeo (Dongbuyeo) king in the Wikipedia list; filed under buyeo. Wikidata: Q702571 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

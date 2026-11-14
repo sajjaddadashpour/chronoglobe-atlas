@@ -1,0 +1,14 @@
+id: goryeo-governance-02
+layer: governance
+polity: goryeo
+subject: "governance form: military regime (monarchy under military rulers)"
+earliest: 1170
+latest: 1270
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0003424-goryeo
+confidence: attested
+note: "Governance type: military regime (monarchy under military rulers). Dates as given: 1170-1270. Evidence: EKC 고려: military officials held power from the 1170 coup to 1270; the king remained. Evidence: scholarly-or-primary."

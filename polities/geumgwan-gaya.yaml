@@ -1,0 +1,25 @@
+id: geumgwan-gaya
+name: Geumgwan Gaya (Garak-guk)
+kind: state
+earliest: -50
+latest: 532
+sources:
+- ekc-e0007597-geumgwan-gaya
+- ekc-e0000257-gaya
+- ekc-e0031325-suro
+confidence: contested
+alternatives:
+- value: "start: 42 CE (Garakguk-gi: King Suro)"
+  low: 42
+  high: 42
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  - ekc-e0031325-suro
+  note: Reading labelled legendary.
+- value: "start: around the turn of the era (기원 전후; the 50 BCE to 50 CE width is this pass's encoding)"
+  low: -50
+  high: 50
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled estimate.
+note: "Korean name: 금관가야 / 가락국 (EKC). Start contested: 42 CE (founding by King Suro in Garakguk-gi, quoted in Samguk yusa) vs. formation around the turn of the era (EKC definition). End: 532 CE (King Guhyeong surrenders to Silla) [attested]. Member of gaya. Evidence: scholarly-or-primary."

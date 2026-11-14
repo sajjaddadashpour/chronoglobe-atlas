@@ -1,0 +1,10 @@
+id: south-korea-syngman-rhee
+name: Syngman Rhee
+title: President
+polity: south-korea
+earliest: 1948
+latest: 1960
+sources:
+- wp-en-list-of-presidents-of-south-korea
+confidence: scholarly-consensus
+note: "Term as given (Wikipedia list of presidents, timeline): 24 Jul 1948 - 27 Apr 1960. Evidence: secondary-only."

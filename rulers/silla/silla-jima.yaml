@@ -1,0 +1,23 @@
+id: silla-jima
+name: Jima
+title: Isageum of Silla
+polity: silla
+earliest: 112
+latest: 134
+sources:
+- ekc-e0054172-silla-jima
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 112 CE to 134 CE"
+  low: 112
+  high: 134
+  sources:
+  - ekc-e0054172-silla-jima
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 112–134 (Wikipedia list); EKC: 112 CE to 134 CE. Start 112 CE; end 134 CE. Korean name: 지마이사금 (EKC article title). Wikidata: Q494883 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

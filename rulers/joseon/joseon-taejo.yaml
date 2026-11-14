@@ -1,0 +1,11 @@
+id: joseon-taejo
+name: Taejo
+title: King of Joseon
+polity: joseon
+earliest: 1392
+latest: 1398
+sources:
+- ekc-e0059033-joseon-taejo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1392–1398 (Wikipedia list); EKC: 1392 CE to 1398 CE. Start 1392 CE; end 1398 CE. Korean name: 태조 (EKC article title). Personal name (Wikipedia list): Yi Seong-gye / Yi Dan. Wikidata: Q378483 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: goryeo-yejong
+name: Yejong
+title: King of Goryeo
+polity: goryeo
+earliest: 1105
+latest: 1122
+sources:
+- ekc-e0038020-goryeo-yejong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1105–1122 (Wikipedia list); EKC: 1105 CE to 1122 CE. Start 1105 CE; end 1122 CE. Korean name: 예종 (EKC article title). Personal name (Wikipedia list): Wang U. Wikidata: Q493852 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

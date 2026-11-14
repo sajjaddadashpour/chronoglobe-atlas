@@ -1,0 +1,14 @@
+id: goryeo-governance-01
+layer: governance
+polity: goryeo
+subject: "governance form: monarchy"
+earliest: 918
+latest: 1170
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0003424-goryeo
+confidence: attested
+note: "Governance type: monarchy. Dates as given: 918-1170. Evidence: EKC 고려. Evidence: scholarly-or-primary."

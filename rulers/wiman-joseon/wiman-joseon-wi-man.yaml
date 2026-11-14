@@ -1,0 +1,14 @@
+id: wiman-joseon-wi-man
+name: Wi Man
+title: King of (Wiman) Joseon
+polity: wiman-joseon
+earliest: -194
+latest: -108
+sources:
+- ekc-e0041137-wiman-joseon-wi-man
+- wp-en-list-of-monarchs-of-korea
+confidence: estimate
+low: -194
+high: -108
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: 194–? BC (Wikipedia list); EKC: from 194 BCE (one bound only). Start 194 BCE; end 108 BCE. Korean name: 위만 (EKC article title). Personal name (Wikipedia list): Wi Man. The sources read give no end year; the end is set to the wiman-joseon outer bound (108 BCE). See docs/korea/OPEN_QUESTIONS.md section F. Wikidata: Q701346 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-partial."

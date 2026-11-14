@@ -1,0 +1,22 @@
+id: gojoseon-capital-centre-of-gojoseon
+polity: gojoseon
+place: centre of Gojoseon (location contested)
+earliest: -361
+latest: -195
+sources:
+- ekc-e0003937-gojoseon
+confidence: contested
+alternatives:
+- value: centre in Liaoning (Liaoning-centre theory)
+  sources:
+  - ekc-e0003937-gojoseon
+  note: Reading labelled contested.
+- value: centre moved from Liaodong to Pyongyang (migration theory)
+  sources:
+  - ekc-e0003937-gojoseon
+  note: Reading labelled contested.
+- value: centre at Pyongyang throughout (Pyongyang-centre theory)
+  sources:
+  - ekc-e0003937-gojoseon
+  note: Reading labelled contested.
+note: "No dated capital. EKC sets out three positions on the centre of Gojoseon: in Liaoning (Liaodong/Liaoxi), a move from Liaodong to the Pyongyang area (migration theory), or Pyongyang throughout. Span is from first firm attestation to Wiman's coup. Place name in later tradition: Asadal / Wanggeom-seong. Evidence: scholarly-or-primary."

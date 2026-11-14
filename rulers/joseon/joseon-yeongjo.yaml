@@ -1,0 +1,11 @@
+id: joseon-yeongjo
+name: Yeongjo
+title: King of Joseon
+polity: joseon
+earliest: 1724
+latest: 1776
+sources:
+- ekc-e0037669-joseon-yeongjo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1724–1776 (Wikipedia list); EKC: 1724 CE to 1776 CE. Start 1724 CE; end 1776 CE. Korean name: 영조 (EKC article title). Personal name (Wikipedia list): Yi Geum. Wikidata: Q485009 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

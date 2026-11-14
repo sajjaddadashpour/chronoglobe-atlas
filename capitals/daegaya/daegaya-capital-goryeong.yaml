@@ -1,0 +1,22 @@
+id: daegaya-capital-goryeong
+polity: daegaya
+place: Goryeong
+earliest: 42
+latest: 562
+sources:
+- ekc-e0013970-daegaya
+confidence: contested
+alternatives:
+- value: "start: c. 42 CE (Samguk sagi count)"
+  low: 42
+  high: 42
+  sources:
+  - ekc-e0013970-daegaya
+  note: Reading labelled legendary.
+- value: "start: mid-5th century (encoded 440-460)"
+  low: 440
+  high: 460
+  sources:
+  - ekc-e0013970-daegaya
+  note: Reading labelled estimate.
+note: "EKC 대가야: centred on Goryeong. Start inherits the contested polity start. Evidence: scholarly-or-primary."

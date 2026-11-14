@@ -1,0 +1,11 @@
+id: joseon-danjong
+name: Danjong
+title: King of Joseon
+polity: joseon
+earliest: 1452
+latest: 1455
+sources:
+- ekc-e0013661-joseon-danjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1452–1455 (Wikipedia list); EKC: 1452 CE to 1455 CE. Start 1452 CE; end 1455 CE. Korean name: 단종 (EKC article title). Personal name (Wikipedia list): Yi Hong-wi. Wikidata: Q485023 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,14 @@
+id: unified-silla-governance-01
+layer: governance
+polity: unified-silla
+subject: "governance form: monarchy"
+earliest: 668
+latest: 935
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0032800-silla
+confidence: scholarly-consensus
+note: "Governance type: monarchy. Dates as given: same span as the polity (668 CE to 935 CE). Evidence: EKC article on the polity describes a hereditary king; start inherits the polity start label. Evidence: scholarly-or-primary."

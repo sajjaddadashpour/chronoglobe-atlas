@@ -1,0 +1,11 @@
+id: joseon-jeongjong
+name: Jeongjong
+title: King of Joseon
+polity: joseon
+earliest: 1398
+latest: 1400
+sources:
+- ekc-e0050884-joseon-jeongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1398–1400 (Wikipedia list); EKC: 1398 CE to 1400 CE. Start 1398 CE; end 1400 CE. Korean name: 정종 (EKC article title). Personal name (Wikipedia list): Yi Bang-gwa / Yi Gyeong. Wikidata: Q485556 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

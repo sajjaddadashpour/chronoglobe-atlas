@@ -1,0 +1,24 @@
+id: balhae-gang
+name: Gang
+title: King of Balhae
+polity: balhae
+earliest: 794
+latest: 809
+sources:
+- ekc-e0001292-balhae-gang
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 795 CE to 809 CE"
+  low: 795
+  high: 809
+  sources:
+  - ekc-e0001292-balhae-gang
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 794 CE to 809 CE"
+  low: 794
+  high: 809
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 794–809 (Wikipedia list); EKC: 795 CE to 809 CE. Outer bounds 794 CE to 809 CE; the readings are in alternatives. Korean name: 강왕 (EKC article title). Personal name (Wikipedia list): Dae Sung-rin. EKC header gives 795-809; its body gives accession in 794. Wikidata: Q703263 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

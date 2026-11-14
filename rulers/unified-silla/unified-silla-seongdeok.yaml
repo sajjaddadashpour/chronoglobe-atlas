@@ -1,0 +1,11 @@
+id: unified-silla-seongdeok
+name: Seongdeok
+title: King of Silla
+polity: unified-silla
+earliest: 702
+latest: 737
+sources:
+- ekc-e0029270-unified-silla-seongdeok
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 702–737 (Wikipedia list); EKC: 702 CE to 737 CE. Start 702 CE; end 737 CE. Korean name: 성덕왕 (EKC article title). Wikidata: Q484700 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

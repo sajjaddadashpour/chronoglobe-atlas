@@ -1,0 +1,10 @@
+id: taebong-capital-cheorwon
+polity: taebong
+place: Cheorwon
+earliest: 895
+latest: 898
+sources:
+- ekc-e0058942-taebong
+- ekc-e0056148-cheorwon-gun
+confidence: scholarly-consensus
+note: "Gungye's base before the state was proclaimed (EKC 태봉: 895). Evidence: scholarly-or-primary."

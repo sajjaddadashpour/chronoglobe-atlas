@@ -1,0 +1,10 @@
+id: north-korea-kim-il-sung
+name: Kim Il-sung
+title: supreme leader
+polity: north-korea
+earliest: 1948
+latest: 1994
+sources:
+- wp-en-supreme-leader-north-korea
+confidence: scholarly-consensus
+note: "Tenure as given (Wikipedia, Supreme Leader article): 9 Sep 1948 - 8 Jul 1994 (died in office). Premier 1948-1972, then President. Premiers of the DPRK are not modelled as rulers in this pass (old chronoglobe mixed them in). Evidence: secondary-only."

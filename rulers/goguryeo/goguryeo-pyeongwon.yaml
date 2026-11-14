@@ -1,0 +1,11 @@
+id: goguryeo-pyeongwon
+name: Pyeongwon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 559
+latest: 590
+sources:
+- ekc-e0060039-goguryeo-pyeongwon
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 559–590 (Wikipedia list); EKC: 559 CE to 590 CE. Start 559 CE; end 590 CE. Korean name: 평원왕 (EKC article title). Personal name (Wikipedia list): Go Yangseong / Go Yang / Go Tang. Wikidata: Q498904 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

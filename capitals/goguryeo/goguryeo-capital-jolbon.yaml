@@ -1,0 +1,23 @@
+id: goguryeo-capital-jolbon
+polity: goguryeo
+place: Jolbon (Huanren area)
+earliest: -37
+latest: 3
+sources:
+- ekc-e0003323-goguryeo
+- ekc-e0006166-gungnae-seong
+- ekc-e0016431-dongmyeong
+confidence: contested
+alternatives:
+- value: "end: 3 CE (Samguk sagi move to Gungnae)"
+  low: 3
+  high: 3
+  sources:
+  - ekc-e0006166-gungnae-seong
+  note: Reading labelled legendary.
+- value: "end: later than 3 CE (re-examinations cited in EKC; no year given)"
+  sources:
+  - ekc-e0006166-gungnae-seong
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "First capital (Jolbon / Holbon) per Samguk sagi, 37 BCE until the move to Gungnae in 3 CE. The move date is debated (EKC 국내성 cites Im Gi-hwan 2018 re-examining it); start inherits the legendary founding date. Evidence: scholarly-or-primary."

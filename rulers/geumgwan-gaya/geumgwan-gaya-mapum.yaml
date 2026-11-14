@@ -1,0 +1,28 @@
+id: geumgwan-gaya-mapum
+name: Mapum
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 253
+latest: 291
+sources:
+- ekc-e0017476-geumgwan-gaya-mapum
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 253 CE to 291 CE"
+  low: 253
+  high: 291
+  sources:
+  - ekc-e0017476-geumgwan-gaya-mapum
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 259 CE to 291 CE"
+  low: 259
+  high: 291
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+- value: "critical reading: the Garakguk-gi king list is rejected by some (mainly Japanese) scholars, who equate several of these kings with one another (EKC 겸지왕); no alternative years in the sources read"
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled contested.
+note: "Reign as given: 259–291 (Wikipedia list); EKC: 253 CE to 291 CE. Outer bounds 253 CE to 291 CE; the readings are in alternatives. Korean name: 마품왕 (EKC article title). Personal name (Wikipedia list): Mapum. Wikidata: Q499171 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

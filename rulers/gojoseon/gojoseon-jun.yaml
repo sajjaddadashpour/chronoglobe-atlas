@@ -1,0 +1,11 @@
+id: gojoseon-jun
+name: Jun
+title: King of Gojoseon
+polity: gojoseon
+earliest: -220
+latest: -195
+sources:
+- ekc-e0053644-jun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 220–195 BC (Wikipedia list). Start 220 BCE; end 195 BCE. Korean name: 준왕 (EKC article title). Personal name (Wikipedia list): King Jun. EKC 준왕 confirms Jun as the last king before Wiman but gives no reign years; years from Wikipedia only. Wikidata: Q711336 (via wp-en-wikidata-korea; verify item scope before use). Evidence: secondary-only."

@@ -1,0 +1,23 @@
+id: baekje-saban
+name: Saban
+title: King of Baekje
+polity: baekje
+earliest: 234
+latest: 234
+sources:
+- ekc-e0025623-baekje-saban
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 234 CE"
+  low: 234
+  high: 234
+  sources:
+  - ekc-e0025623-baekje-saban
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 234 (Wikipedia list); EKC: 234 CE. Start 234 CE; end 234 CE. Korean name: 사반왕 (EKC article title). Personal name (Wikipedia list): Buyeo Saban / Buyeo Sabi / Buyeo Sai. Wikidata: Q497460 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

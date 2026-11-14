@@ -1,0 +1,23 @@
+id: silla-talhae
+name: Talhae
+title: Isageum of Silla
+polity: silla
+earliest: 57
+latest: 80
+sources:
+- ekc-e0058812-silla-talhae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 57 CE to 80 CE"
+  low: 57
+  high: 80
+  sources:
+  - ekc-e0058812-silla-talhae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 57–80 (Wikipedia list); EKC: 57 CE to 80 CE. Start 57 CE; end 80 CE. Korean name: 탈해이사금 (EKC article title). Wikidata: Q485572 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

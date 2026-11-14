@@ -1,0 +1,11 @@
+id: baekje-seong
+name: Seong
+title: King of Baekje
+polity: baekje
+earliest: 523
+latest: 554
+sources:
+- ekc-e0029457-baekje-seong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 523–554 (Wikipedia list); EKC: 523 CE to 554 CE. Start 523 CE; end 554 CE. Korean name: 성왕 (EKC article title). Personal name (Wikipedia list): Buyeo Myeongnong / Buyeo Myeong. Wikidata: Q497911 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

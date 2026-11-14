@@ -1,0 +1,24 @@
+id: goguryeo-jungcheon
+name: Jungcheon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 247
+latest: 270
+sources:
+- ekc-e0053941-goguryeo-jungcheon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 247 CE to 270 CE"
+  low: 247
+  high: 270
+  sources:
+  - ekc-e0053941-goguryeo-jungcheon
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 248 CE to 270 CE"
+  low: 248
+  high: 270
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 248–270 (Wikipedia list); EKC: 247 CE to 270 CE. Outer bounds 247 CE to 270 CE; the readings are in alternatives. Korean name: 중천왕 (EKC article title). Personal name (Wikipedia list): Go Yeonbul. Wikidata: Q498618 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: joseon-gwanghaegun
+name: Gwanghaegun
+title: King of Joseon
+polity: joseon
+earliest: 1608
+latest: 1623
+sources:
+- ekc-e0005335-joseon-gwanghaegun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1608–1623 (Wikipedia list); EKC: 1608 CE to 1623 CE. Start 1608 CE; end 1623 CE. Korean name: 광해군 (EKC article title). Personal name (Wikipedia list): Yi Hon. Wikidata: Q482874 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

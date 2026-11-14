@@ -1,0 +1,24 @@
+id: goguryeo-jangsu
+name: Jangsu
+title: King of Goguryeo
+polity: goguryeo
+earliest: 412
+latest: 491
+sources:
+- ekc-e0048605-goguryeo-jangsu
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 413 CE to 490 CE"
+  low: 413
+  high: 490
+  sources:
+  - ekc-e0048605-goguryeo-jangsu
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 412 CE to 491 CE"
+  low: 412
+  high: 491
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 412–491 (Wikipedia list); EKC: 413 CE to 490 CE. Outer bounds 412 CE to 491 CE; the readings are in alternatives. Korean name: 장수왕 (EKC article title). Personal name (Wikipedia list): Go Georyeon / Go Yeon. Wikidata: Q498810 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."
