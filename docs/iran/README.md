@@ -4,7 +4,9 @@ The real records in the atlas for the polities of the Iranian plateau from Elam 
 
 ## Iran pass 2 (`iran-pass-2-sources`)
 
-Lane-Poole, *The Mohammadan Dynasties* (1894), and Zambaur, *Manuel de généalogie et de chronologie* (1927), were consulted via Chief of Staff transcriptions of archive.org page images (`research/lanepoole_1894.md`, `research/zambaur_1927.md`). Both are older manuals, superseded by Bosworth, *The New Islamic Dynasties* (1996), which still could not be borrowed (`research/bosworth_batch1.md`). Potts, *The Archaeology of Elam* (1999, 1st ed.) was consulted for the pages transcribed in `research/potts_batch1.md`.
+Lane-Poole, *The Mohammadan Dynasties* (1894), and Zambaur, *Manuel de généalogie et de chronologie* (1927), were consulted via Chief of Staff transcriptions of archive.org page images (`research/lanepoole_1894.md`, `research/zambaur_1927.md`). Both are older manuals, superseded by Bosworth, *The New Islamic Dynasties* (1996), which still could not be borrowed (`research/bosworth_batch1.md`). Potts, *The Archaeology of Elam* (1999, 1st ed.) was consulted for the pages transcribed in `research/potts_batch1.md` and, in a follow-up on this branch, tables 5.4 and 5.5 in `research/potts_tables_5_4_5_5.md`.
+
+A follow-up on this same branch cites Lane-Poole's Seljuks of Iraq and Kurdistan table (p. 154; archive leaf 220) on the eight Wikipedia-only Iraq-line rows and on Tughril III (already cited to Iranica). No new ruler was added: the ninth name in the table is the existing Tughril III record. None of the dates differed from the current reading by more than a year, so no new contested facts were created. The Potts Shimashki tables have no year column; their kinglist and synchronisms are in OPEN_QUESTIONS.md, and a schema proposal for relative dating is in SCHEMA_PROPOSALS.md.
 
 A.H. years were converted with the standard tabular (civil) Islamic calendar to Julian A.D. years. When an A.H. year spans two A.D. years, both bounds are kept. Lane-Poole's own printed A.D. years are used as his reading; no printed A.D. year differed from the conversion by more than one year.
 
@@ -12,15 +14,15 @@ A.H. years were converted with the standard tabular (civil) Islamic calendar to 
 |---|---|---|
 | `sources/` | pass-1 131, plus 2 | Added `lanepoole-1894` and `zambaur-1927`. `potts-elam` is now marked consulted for the transcribed pages. (The repo also holds later Korea sources.) |
 | `polities/` | 38 | Unchanged in number. Elam gained a Potts start reading (c. 2600–2500 BC) as a contested alternative |
-| `rulers/<polity>/` | 463 | 383 from pass 1, plus 79 rulers added from the books (both years printed) and Mar-biti-apla-usur from Potts p. 262 |
+| `rulers/<polity>/` | 463 | 383 from pass 1, plus 79 rulers added from the books (both years printed) and Mar-biti-apla-usur from Potts p. 262. The Iraq Seljuk follow-up cited 9 existing rows and added none. |
 | `capitals/<polity>/` | 86 | Unchanged this pass |
 | `layers/governance/<polity>/` | 77 | Unchanged this pass |
-| `research/` | 4 | CoS transcriptions (Lane-Poole, Zambaur, Potts batch 1) and the Bosworth borrow note |
+| `research/` | 5 | CoS transcriptions (Lane-Poole, including the Iraq Seljuk table; Zambaur; Potts batch 1; Potts tables 5.4 and 5.5) and the Bosworth borrow note |
 | `docs/iran/` | 8 | This file, CORRECTIONS, CONTESTED, OPEN_QUESTIONS, POLITIES, ID_MAP, SNAPSHOT_PLAN, SCHEMA_PROPOSALS |
 
-Confidence labels across the 664 Iran facts: scholarly-consensus 449, estimate 79, attested 43, contested 72, reconstructed 20, legendary 1.
+Confidence labels across the 664 Iran facts: scholarly-consensus 449, estimate 79, attested 43, contested 72, reconstructed 20, legendary 1. Unchanged by the Iraq Seljuk follow-up (no new records and no new contested facts).
 
-Evidence behind rulers: 283 rest on a scholarly source that was read (Iranica and/or Lane-Poole, Zambaur, Potts), **179 rest only on Wikipedia** (was 248 in pass 1), 1 on news reports. 69 of the 248 Wikipedia-only rows now cite a consulted book. Schema and validator were not changed.
+Evidence behind rulers: 291 rest on a scholarly source that was read (Iranica and/or Lane-Poole, Zambaur, Potts), **171 rest only on Wikipedia** (was 248 in pass 1, 179 before the Iraq Seljuk table was cited), 1 on news reports. 77 of the 248 Wikipedia-only rows now cite a consulted book. Schema and validator were not changed.
 
 ## Iran pass 1 (`iran-pass-1`)
 

@@ -93,7 +93,7 @@ Sources: `lanepoole-1894`, `zambaur-1927` (consulted via Chief of Staff transcri
 
 ### Wikipedia-only rows supported or replaced
 
-69 of the 248 Wikipedia-only Iran ruler rows now cite one or both manuals. The remaining 179 are mostly in dynasties these books do not cover (Sasanian, Parthian, Ilkhanate, Umayyad, Seleucid, Safavid and later) or in lines whose tables were not copied (Seljuks of Iraq, a few stray names). Where the book dates agree with the current data within one year, the row stays as it was and the book is added as a consulted source.
+77 of the 248 Wikipedia-only Iran ruler rows now cite one or both manuals. The remaining 171 are mostly in dynasties these books do not cover (Sasanian, Parthian, Ilkhanate, Umayyad, Seleucid, Safavid and later) or in lines whose tables were not copied (Seljuks of Kirman and Syria, a few stray names). Where the book dates agree with the current data within one year, the row stays as it was and the book is added as a consulted source.
 
 ### Date disagreements of more than one year
 
@@ -112,4 +112,8 @@ Notable corrections to unknown or placeholder bounds:
 
 ### Elam
 
-Potts 1999 p. 4 cannot "in all honesty speak of Elam before c. 2600–2500 BC". That start is a new contested alternative on `elam`, alongside the Iranica Proto-Elamite, first-attested-name, and Awan readings. Tables 5.4/5.5 (Shimashkian kings) were not transcribed row by row, so dated Shimashkian kings could not be added from Potts.
+Potts 1999 p. 4 cannot "in all honesty speak of Elam before c. 2600–2500 BC". That start is a new contested alternative on `elam`, alongside the Iranica Proto-Elamite, first-attested-name, and Awan readings. Tables 5.4 and 5.5 (Shimashkian kings, pp. 145, 147–148) are now transcribed in `research/potts_tables_5_4_5_5.md`. They have no year column, so no dated Shimashkian ruler records were added; the kinglist and synchronisms are in OPEN_QUESTIONS.md.
+
+### Seljuks of Iraq (Lane-Poole p. 154)
+
+The eight Wikipedia-only Iraq-line rows, and the existing Tughril III record, are now cited to Lane-Poole, *The Mohammadan Dynasties* (1894), p. 154 (D. Seljuks of Iraq and Kurdistan; archive leaf 220). Lane-Poole's printed A.D. years are used as his reading. Every start and end agrees with the current Wikipedia or Iranica interval within one year, so none of these facts was marked contested. Lane-Poole numbers this line separately from the Great Seljuks: his Ṭughril I is the atlas record Tughril II, and his Ṭughril II (573/1177–590/1194) is the existing Tughril III (already cited to Iranica; both years were printed, but a ninth record was not added). Kirman and Syria tables have still not been copied.

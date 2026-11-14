@@ -226,6 +226,28 @@ Footnotes, as printed:
 
 ---
 
+## Seljūḳs of -'Irāḳ and Kurdistān
+
+**P. 154; archive leaf 220. Image-verified.** Headed **D. SELJŪḲS OF -'IRĀḲ AND KURDISTĀN**, A.H. 511—590 / A.D. 1117—1194. (The same page also has **C. SELJŪḲS OF SYRIA** above this table, which is a separate line and is not copied here. The Great Seljūḳs and the Seljūḳs of Kirmān are on p. 153, leaf 219.)
+
+| A.H. | Name (as printed) | A.D. |
+|------|-------------------|------|
+| 511 | Mughīth-*al*-dīn Maḥmūd | 1117 |
+| 525 | Ghiyāth-*al*-dīn Dāwūd. | 1131 |
+| 526 | Ṭughril I | 1132 |
+| 527 | Ghiyāth-*al*-dīn Mas'ūd | 1133 |
+| 547 | Mu'īn-*al*-dīn Malik Shāh | 1152 |
+| 548 | Moḥammad | 1153 |
+| 554 | Sulaymān Shāh | 1159 |
+| 556 | Arslān Shāh | 1161 |
+| 573 | Ṭughril II | 1177 |
+| —590 | | —1194 |
+
+Closing label: `[*Shāhs of Khwārizm*]`.
+
+On the 525 row the book prints a full stop immediately after Dāwūd, before the leader dots. The numerals after Ṭughril are small capitals in the book, rendered here as I and II, as in the Great Seljūḳs table.
+
+
 ## Ghaznawids (especially after 1040)
 
 The introduction runs pp. 285–289 (leaves 381–385). The single reign table, including the post-1040 rulers, is on **p. 289; archive leaf 385. Image-verified.** A genealogy is on p. 290 (leaf 386). Headed **103. GHAZNAWIDS**, A.H. 351—582 / A.D. 962—1186.
@@ -430,6 +452,7 @@ The two names in brackets under Tīmūr are printed as a sub-entry: “[771 Suy�
 | Buyids (as Buwayhids) | Yes; three regional lists | 141–142 (intro 139–140; chart 143; genealogy 144) | 203–204 (201–202, 205–206) | 8 + 6 + 4 + 3 + 7 regional rows |
 | Ghaznawids, including after 1040 | Yes, one table covering the whole line | 289 (intro 285–289; genealogy 290) | 385 (381–386) | 22, plus closing span |
 | Great Seljūḳs | Yes | 153 | 219 | 8, plus closing span |
+| Seljūḳs of -'Irāḳ and Kurdistān | Yes | 154 | 220 | 9, plus closing span |
 | Chobanids | **No separate table.** Mentions only, in the Il-khān chapter | 219–220 | 299–300 | 0 |
 | Jalayirids (as Jalayrs) | Yes | 248 (intro 246–247) | 334 (332–333) | 6 named rows (one of them A.H. only) |
 | Muẓaffarids | Yes | 250 (intro 249) | 336 (335) | 5 (one a three-name contemporary group) |

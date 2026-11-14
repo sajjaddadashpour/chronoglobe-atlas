@@ -6,7 +6,7 @@ The top section is a hand-written summary; the full list is generated from the r
 
 ## Iran pass 2 (Lane-Poole, Zambaur, Potts)
 
-22 existing rulers were newly marked `contested` because a consulted book differs from the current reading by more than a year, or the two books disagree with each other. 4 already-contested rulers gained book alternatives. 7 newly added rulers are contested for the same reason. The Elam polity, already contested, gained a Potts start reading (c. 2600–2500 BC).
+22 existing rulers were newly marked `contested` because a consulted book differs from the current reading by more than a year, or the two books disagree with each other. 4 already-contested rulers gained book alternatives. 7 newly added rulers are contested for the same reason. The Elam polity, already contested, gained a Potts start reading (c. 2600–2500 BC). The later citation of Lane-Poole's Seljuks of Iraq table (p. 154) on this branch created no new contested facts: all nine dates agree with the current readings within one year.
 
 ### The ten largest disagreements (existing records)
 
