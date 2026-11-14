@@ -98,19 +98,25 @@ def _polity(root: Path, earliest: int = 1, latest: int = 1) -> None:
 
 
 def test_repository_is_valid():
-    """v0 ships illustrations only. Update this when sourced records are added."""
+    """The tree validates. Examples stay exactly the illustration set; every other record is sourced data outside examples/."""
     report = validate_root(REPO)
     assert report.issues == [], _text(report)
-    ids = {doc.document["id"] for doc in report.documents}
-    assert ids == EXAMPLE_IDS
-    assert all(doc.path.startswith("examples/") for doc in report.documents)
-    assert report.files_checked == len(EXAMPLE_IDS)
+    example_docs = [doc for doc in report.documents if doc.path.startswith("examples/")]
+    data_docs = [doc for doc in report.documents if not doc.path.startswith("examples/")]
+    assert {doc.document["id"] for doc in example_docs} == EXAMPLE_IDS
+    assert len(example_docs) == len(EXAMPLE_IDS)
+    for doc in data_docs:
+        assert "example" not in doc.document, doc.path
+        assert EXAMPLE_IDS.isdisjoint({doc.document["id"]}), doc.path
+    assert report.files_checked == len(report.documents)
 
 
 def test_examples_are_marked_and_not_historical_dates():
     report = validate_root(REPO)
     assert report.issues == [], _text(report)
     for doc in report.documents:
+        if not doc.path.startswith("examples/"):
+            continue
         assert doc.document["example"] is True
         assert "not a historical claim" in doc.document["note"].casefold()
         if doc.kind == "source":
@@ -392,12 +398,22 @@ def test_bundle_of_the_repository_keeps_examples_apart(tmp_path: Path):
     assert manifest["format"] == "chronoglobe-bundle"
     assert manifest["version"] == "0.1.0"
     assert manifest["generated_at"] == "2026-11-14T00:00:00Z"
-    assert manifest["counts"]["records"] == len(EXAMPLE_IDS)
+    data_records = validate_root(REPO).documents
+    assert manifest["counts"]["records"] == len(data_records)
     assert manifest["counts"]["examples"] == len(EXAMPLE_IDS)
     assert manifest["fact_url_template"] == "https://chronoglobe.si/f/{id}@{version}"
     paths = [item["path"] for item in manifest["bundles"]]
     assert paths
-    assert all(path.endswith(".examples.json") for path in paths)
+    example_paths = [path for path in paths if path.endswith(".examples.json")]
+    assert example_paths
+    for item in manifest["bundles"]:
+        assert item["example"] is item["path"].endswith(".examples.json"), item["path"]
+        records = json.loads((output / item["path"]).read_text(encoding="utf-8"))["records"]
+        ids = {record["id"] for record in records}
+        if item["example"]:
+            assert ids <= EXAMPLE_IDS, item["path"]
+        else:
+            assert ids.isdisjoint(EXAMPLE_IDS), item["path"]
     assert not any(path.startswith("borders/gpl/") for path in paths)
     population = json.loads((output / "layers/population/c9000.examples.json").read_text(encoding="utf-8"))
     ids = {record["id"] for record in population["records"]}
