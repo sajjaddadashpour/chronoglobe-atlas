@@ -1,0 +1,10 @@
+id: usamgik-capital-seoul
+polity: usamgik
+place: Seoul
+earliest: 1945
+latest: 1948
+sources:
+- ekc-e0019891-usamgik
+- wp-en-usamgik
+confidence: attested
+note: "EKC 미군정청; Wikipedia infobox capital Seoul. Evidence: scholarly-or-primary."

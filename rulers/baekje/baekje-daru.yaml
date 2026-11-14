@@ -1,0 +1,23 @@
+id: baekje-daru
+name: Daru
+title: King of Baekje
+polity: baekje
+earliest: 28
+latest: 77
+sources:
+- ekc-e0013437-baekje-daru
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 28 CE to 77 CE"
+  low: 28
+  high: 77
+  sources:
+  - ekc-e0013437-baekje-daru
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 28–77 (Wikipedia list); EKC: 28 CE to 77 CE. Start 28 CE; end 77 CE. Korean name: 다루왕 (EKC article title). Personal name (Wikipedia list): Buyeo Daru. Wikidata: Q497305 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

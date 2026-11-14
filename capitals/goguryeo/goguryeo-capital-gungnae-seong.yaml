@@ -1,0 +1,21 @@
+id: goguryeo-capital-gungnae-seong
+polity: goguryeo
+place: "Gungnae-seong (Ji'an)"
+earliest: 3
+latest: 427
+sources:
+- ekc-e0006166-gungnae-seong
+- ekc-e0003323-goguryeo
+confidence: contested
+alternatives:
+- value: "start: 3 CE (Samguk sagi)"
+  low: 3
+  high: 3
+  sources:
+  - ekc-e0006166-gungnae-seong
+  note: Reading labelled legendary.
+- value: "start: later than 3 CE (EKC cites re-examinations; no year)"
+  sources:
+  - ekc-e0006166-gungnae-seong
+  note: Reading labelled contested.
+note: "Capital from 3 CE (Samguk sagi; date debated, see Jolbon record) to the move to Pyongyang in 427 [attested]. Hwando-seong served as capital 209-246 and again from 342 (separate record). Evidence: scholarly-or-primary."

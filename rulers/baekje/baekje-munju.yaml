@@ -1,0 +1,11 @@
+id: baekje-munju
+name: Munju
+title: King of Baekje
+polity: baekje
+earliest: 475
+latest: 477
+sources:
+- ekc-e0019671-baekje-munju
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 475–477 (Wikipedia list); EKC: 475 CE to 477 CE. Start 475 CE; end 477 CE. Korean name: 문주왕 (EKC article title). Personal name (Wikipedia list): Buyeo Do / Buyeo Modo. Wikidata: Q497796 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

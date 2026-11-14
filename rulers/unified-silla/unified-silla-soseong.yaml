@@ -1,0 +1,11 @@
+id: unified-silla-soseong
+name: Soseong
+title: King of Silla
+polity: unified-silla
+earliest: 798
+latest: 800
+sources:
+- ekc-e0030131-unified-silla-soseong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 798–800 (Wikipedia list); EKC: 798 CE to 800 CE. Start 798 CE; end 800 CE. Korean name: 소성왕 (EKC article title). Wikidata: Q488358 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

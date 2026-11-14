@@ -1,0 +1,9 @@
+id: korean-empire-capital-hanseong
+polity: korean-empire
+place: Hanseong (Seoul)
+earliest: 1897
+latest: 1910
+sources:
+- ekc-e0015187-korean-empire
+confidence: attested
+note: "EKC 대한제국: empire proclaimed in Seoul (Hwangudan). Evidence: scholarly-or-primary."

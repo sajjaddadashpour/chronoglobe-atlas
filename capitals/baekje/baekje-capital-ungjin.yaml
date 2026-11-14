@@ -1,0 +1,10 @@
+id: baekje-capital-ungjin
+polity: baekje
+place: Ungjin (Gongju)
+earliest: 475
+latest: 538
+sources:
+- ekc-e0022355-baekje
+- ekc-e0004485-gongju-si
+confidence: attested
+note: "EKC 백제, 공주시: capital 475-538. Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: baekje-geunchogo
+name: Geunchogo
+title: King of Baekje
+polity: baekje
+earliest: 346
+latest: 375
+sources:
+- ekc-e0007465-baekje-geunchogo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 346–375 (Wikipedia list); EKC: 346 CE to 375 CE. Start 346 CE; end 375 CE. Korean name: 근초고왕 (EKC article title). Personal name (Wikipedia list): Buyeo Gu. Wikidata: Q497601 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

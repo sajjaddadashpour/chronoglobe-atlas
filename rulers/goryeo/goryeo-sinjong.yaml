@@ -1,0 +1,11 @@
+id: goryeo-sinjong
+name: Sinjong
+title: King of Goryeo
+polity: goryeo
+earliest: 1197
+latest: 1204
+sources:
+- ekc-e0033381-goryeo-sinjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1197–1204 (Wikipedia list); EKC: 1197 CE to 1204 CE. Start 1197 CE; end 1204 CE. Korean name: 신종 (EKC article title). Personal name (Wikipedia list): Wang Tak. Wikidata: Q493930 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

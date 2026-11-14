@@ -1,0 +1,11 @@
+id: taebong-capital-cheorwon-2
+polity: taebong
+place: Cheorwon
+earliest: 905
+latest: 918
+sources:
+- ekc-e0058942-taebong
+- ekc-e0056148-cheorwon-gun
+- ekc-e0017454-majin
+confidence: scholarly-consensus
+note: "EKC 철원군, 태봉: capital again from 905 to 918. Evidence: scholarly-or-primary."

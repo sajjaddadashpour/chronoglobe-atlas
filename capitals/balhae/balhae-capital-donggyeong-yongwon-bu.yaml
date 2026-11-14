@@ -1,0 +1,23 @@
+id: balhae-capital-donggyeong-yongwon-bu
+polity: balhae
+place: Donggyeong Yongwon-bu (Hunchun)
+earliest: 785
+latest: 794
+sources:
+- ekc-e0027003-sanggyeong-yongcheon-bu
+- ekc-e0021626-balhae
+confidence: contested
+alternatives:
+- value: 785-794 (EKC 상경용천부)
+  low: 785
+  high: 794
+  sources:
+  - ekc-e0027003-sanggyeong-yongcheon-bu
+  note: Reading labelled scholarly-consensus.
+- value: late 780s-794 (EKC 발해)
+  low: 786
+  high: 794
+  sources:
+  - ekc-e0021626-balhae
+  note: Reading labelled scholarly-consensus.
+note: "Capital from 785 (or the late 780s) until King Seong moved back to Sanggyeong (793-794). Evidence: scholarly-or-primary."

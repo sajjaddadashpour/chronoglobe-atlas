@@ -1,0 +1,24 @@
+id: goryeo-hyeonjong
+name: Hyeonjong
+title: King of Goryeo
+polity: goryeo
+earliest: 1009
+latest: 1031
+sources:
+- ekc-e0063417-goryeo-hyeonjong
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 1010 CE to 1031 CE"
+  low: 1010
+  high: 1031
+  sources:
+  - ekc-e0063417-goryeo-hyeonjong
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 1009 CE to 1031 CE"
+  low: 1009
+  high: 1031
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 1009–1031 (Wikipedia list); EKC: 1010 CE to 1031 CE. Outer bounds 1009 CE to 1031 CE; the readings are in alternatives. Korean name: 현종 (EKC article title). Personal name (Wikipedia list): Wang Sun. EKC header gives 1010; its body gives accession in the 2nd month of 1009 (difference probably from counting the first full regnal year; not verified). Wikidata: Q493736 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

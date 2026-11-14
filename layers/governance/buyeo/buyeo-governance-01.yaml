@@ -1,0 +1,14 @@
+id: buyeo-governance-01
+layer: governance
+polity: buyeo
+subject: "governance form: monarchy (king with ga chiefs)"
+earliest: -200
+latest: 494
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0024368-buyeo
+confidence: estimate
+note: "Governance type: monarchy (king with ga chiefs). Dates as given: 2nd century BCE to 494 CE. Evidence: EKC 부여: officials under the king included the Maga, Uga, Jeoga and Guga (ga 加 = chiefs with their own power bases). Evidence: scholarly-or-primary."

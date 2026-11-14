@@ -1,0 +1,10 @@
+id: goguryeo-capital-jangan-seong
+polity: goguryeo
+place: Jangan-seong (Pyongyang)
+earliest: 586
+latest: 668
+sources:
+- ekc-e0048656-jangan-seong
+- ekc-e0003323-goguryeo
+confidence: attested
+note: "EKC 장안성: capital moved here in 586; capital until the fall of Goguryeo in 668. Evidence: scholarly-or-primary."

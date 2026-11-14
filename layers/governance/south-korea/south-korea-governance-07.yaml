@@ -1,0 +1,14 @@
+id: south-korea-governance-07
+layer: governance
+polity: south-korea
+subject: "governance form: republic (Sixth Republic)"
+earliest: 1988
+latest: 2026
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- wp-en-list-of-presidents-of-south-korea
+confidence: scholarly-consensus
+note: "Governance type: republic (Sixth Republic). Dates as given: 1988-present (2026 is not an end date). Evidence: Period headings of the Wikipedia list of presidents. The form of each republic (presidential, parliamentary, Yushin) is not encoded; see OPEN_QUESTIONS. Evidence: secondary-only."

@@ -1,0 +1,23 @@
+id: silla-pasa
+name: Pasa
+title: Isageum of Silla
+polity: silla
+earliest: 80
+latest: 112
+sources:
+- ekc-e0059568-silla-pasa
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 80 CE to 112 CE"
+  low: 80
+  high: 112
+  sources:
+  - ekc-e0059568-silla-pasa
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 80–112 (Wikipedia list); EKC: 80 CE to 112 CE. Start 80 CE; end 112 CE. Korean name: 파사이사금 (EKC article title). Wikidata: Q485616 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

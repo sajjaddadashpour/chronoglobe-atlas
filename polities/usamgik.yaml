@@ -1,0 +1,10 @@
+id: usamgik
+name: United States Army Military Government in Korea
+kind: other
+earliest: 1945
+latest: 1948
+sources:
+- ekc-e0019891-usamgik
+- wp-en-usamgik
+confidence: attested
+note: "Korean name: 미군정청 (EKC). Kind 'other' = military occupation administration south of the 38th parallel. Start: Sept 1945 (US forces enter Seoul 9 Sep 1945). End: 15 Aug 1948 (Republic of Korea government proclaimed). Successors: south-korea. Evidence: scholarly-or-primary."

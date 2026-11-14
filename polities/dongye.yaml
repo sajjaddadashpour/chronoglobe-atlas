@@ -1,0 +1,12 @@
+id: dongye
+name: Dongye (Ye)
+kind: people
+earliest: -195
+latest: 300
+sources:
+- ekc-e0016693-dongye
+confidence: estimate
+low: -195
+high: 300
+method: "low and high are the outer year bounds of the span (earliest possible start, latest possible end), taken from the dated estimates in the cited sources; per-bound readings are in note."
+note: "Korean name: 동예 (EKC). Start: not given; known under Wiman Joseon (earliest bound set to the start of wiman-joseon). EKC: placed under Lintun commandery in 108 BCE; subject to Goguryeo from the late 2nd century; described in 3rd-century Chinese sources. End year not given; 300 used as latest bound (end of the century of the last description). See OPEN_QUESTIONS. Successors: goguryeo, silla (not resolved). Evidence: scholarly-or-primary."

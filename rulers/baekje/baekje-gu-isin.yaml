@@ -1,0 +1,11 @@
+id: baekje-gu-isin
+name: Gu-isin
+title: King of Baekje
+polity: baekje
+earliest: 420
+latest: 427
+sources:
+- ekc-e0005981-baekje-gu-isin
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 420–427 (Wikipedia list); EKC: 420 CE to 427 CE. Start 420 CE; end 427 CE. Korean name: 구이신왕 (EKC article title). Personal name (Wikipedia list): Unknown. Wikidata: Q497730 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

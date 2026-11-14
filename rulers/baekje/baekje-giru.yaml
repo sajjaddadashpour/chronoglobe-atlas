@@ -1,0 +1,23 @@
+id: baekje-giru
+name: Giru
+title: King of Baekje
+polity: baekje
+earliest: 77
+latest: 128
+sources:
+- ekc-e0008189-baekje-giru
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 77 CE to 128 CE"
+  low: 77
+  high: 128
+  sources:
+  - ekc-e0008189-baekje-giru
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 77–128 (Wikipedia list); EKC: 77 CE to 128 CE. Start 77 CE; end 128 CE. Korean name: 기루왕 (EKC article title). Personal name (Wikipedia list): Buyeo Giru. Wikidata: Q497336 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

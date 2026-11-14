@@ -1,0 +1,11 @@
+id: joseon-jeongjo
+name: Jeongjo
+title: King of Joseon
+polity: joseon
+earliest: 1776
+latest: 1800
+sources:
+- ekc-e0050867-joseon-jeongjo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1776–1800 (Wikipedia list); EKC: 1776 CE to 1800 CE. Start 1776 CE; end 1800 CE. Korean name: 정조 (EKC article title). Personal name (Wikipedia list): Yi San. Wikidata: Q26530 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

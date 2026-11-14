@@ -1,0 +1,19 @@
+id: wiman-joseon-capital-wanggeom-seong
+polity: wiman-joseon
+place: Wanggeom-seong (location contested)
+earliest: -195
+latest: -108
+sources:
+- ekc-e0041138-wiman-joseon
+- ekc-e0003937-gojoseon
+confidence: contested
+alternatives:
+- value: Pyongyang area (seat of later Lelang commandery)
+  sources:
+  - ekc-e0041138-wiman-joseon
+  note: Reading labelled contested.
+- value: "Xiandu county, Liaodong"
+  sources:
+  - ekc-e0041138-wiman-joseon
+  note: Reading labelled contested.
+note: "Capital of Wiman Joseon until its fall in 108 BCE (EKC). Location: Chinese records place it either in the later Lelang commandery area (Pyongyang) or at Xiandu county in Liaodong; EKC sets out both. Evidence: scholarly-or-primary."

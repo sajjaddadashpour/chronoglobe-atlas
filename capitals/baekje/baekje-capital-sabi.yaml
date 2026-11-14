@@ -1,0 +1,9 @@
+id: baekje-capital-sabi
+polity: baekje
+place: Sabi (Buyeo)
+earliest: 538
+latest: 660
+sources:
+- ekc-e0022355-baekje
+confidence: attested
+note: "EKC 백제: capital 538-660 (King Seong's move). Evidence: scholarly-or-primary."

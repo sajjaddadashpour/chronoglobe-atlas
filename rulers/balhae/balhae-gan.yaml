@@ -1,0 +1,11 @@
+id: balhae-gan
+name: Gan
+title: King of Balhae
+polity: balhae
+earliest: 817
+latest: 818
+sources:
+- ekc-e0000555-balhae-gan
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 817?–818? (Wikipedia list); EKC: 817 CE to 818 CE. Start 817 CE; end 818 CE. Korean name: 간왕 (EKC article title). Personal name (Wikipedia list): Dae Myeong-chung. Wikidata: Q707122 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

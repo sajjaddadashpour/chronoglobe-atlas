@@ -1,0 +1,11 @@
+id: goryeo-jeongjong
+name: Jeongjong
+title: King of Goryeo
+polity: goryeo
+earliest: 945
+latest: 949
+sources:
+- ekc-e0050882-goryeo-jeongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 945–949 (Wikipedia list); EKC: 945 CE to 949 CE. Start 945 CE; end 949 CE. Korean name: 정종 (EKC article title). Personal name (Wikipedia list): Wang Yo. Wikidata: Q493659 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

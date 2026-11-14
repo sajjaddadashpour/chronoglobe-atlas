@@ -1,0 +1,10 @@
+id: joseon
+name: Joseon
+kind: state
+earliest: 1392
+latest: 1897
+sources:
+- ekc-e0051904-joseon
+- wp-en-list-of-monarchs-of-korea
+confidence: attested
+note: "Korean name: 조선 (EKC). Start: 1392 CE. End of this record: 1897 CE, when Gojong proclaimed the Korean Empire (atlas convention, as in old chronoglobe); EKC defines Joseon as 1392-1910 including the Empire. Successors: korean-empire. Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: korean-empire-sunjong
+name: Sunjong
+title: Emperor of Korea
+polity: korean-empire
+earliest: 1907
+latest: 1910
+sources:
+- ekc-e0031947-korean-empire-sunjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1907–1910 (Wikipedia list); EKC: 1907 CE to 1910 CE. Start 1907 CE; end 1910 CE. Korean name: 순종 (EKC article title). Personal name (Wikipedia list): Yi Cheok. Wikidata: Q334111 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

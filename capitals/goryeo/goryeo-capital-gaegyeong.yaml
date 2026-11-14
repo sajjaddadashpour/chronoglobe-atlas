@@ -1,0 +1,10 @@
+id: goryeo-capital-gaegyeong
+polity: goryeo
+place: Gaegyeong (Kaesong)
+earliest: 919
+latest: 1232
+sources:
+- ekc-e0003424-goryeo
+- ekc-e0056148-cheorwon-gun
+confidence: attested
+note: "Capital from 919 to the move to Ganghwa in 1232. Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: goryeo-myeongjong
+name: Myeongjong
+title: King of Goryeo
+polity: goryeo
+earliest: 1170
+latest: 1197
+sources:
+- ekc-e0018365-goryeo-myeongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1170–1197 (Wikipedia list); EKC: 1170 CE to 1197 CE. Start 1170 CE; end 1197 CE. Korean name: 명종 (EKC article title). Personal name (Wikipedia list): Wang Ho. Wikidata: Q493913 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

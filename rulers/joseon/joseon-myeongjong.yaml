@@ -1,0 +1,11 @@
+id: joseon-myeongjong
+name: Myeongjong
+title: King of Joseon
+polity: joseon
+earliest: 1545
+latest: 1567
+sources:
+- ekc-e0018366-joseon-myeongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1545–1567 (Wikipedia list); EKC: 1545 CE to 1567 CE. Start 1545 CE; end 1567 CE. Korean name: 명종 (EKC article title). Personal name (Wikipedia list): Yi Hwan. Wikidata: Q483641 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

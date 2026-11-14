@@ -1,0 +1,24 @@
+id: balhae-dae-won-ui
+name: Dae Won-ui
+title: King of Balhae
+polity: balhae
+earliest: 793
+latest: 794
+sources:
+- ekc-e0014649-balhae-dae-won-ui
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 793 CE to 794 CE"
+  low: 793
+  high: 794
+  sources:
+  - ekc-e0014649-balhae-dae-won-ui
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 793 CE"
+  low: 793
+  high: 793
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 793 (Wikipedia list); EKC: 793 CE to 794 CE. Outer bounds 793 CE to 794 CE; the readings are in alternatives. Korean name: 대원의 (EKC article title). Personal name (Wikipedia list): Dae Won-ui. Wikidata: Q707114 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

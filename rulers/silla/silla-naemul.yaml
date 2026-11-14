@@ -1,0 +1,11 @@
+id: silla-naemul
+name: Naemul
+title: Maripgan of Silla
+polity: silla
+earliest: 356
+latest: 402
+sources:
+- ekc-e0012440-silla-naemul
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 356–402 (Wikipedia list); EKC: 356 CE to 402 CE. Start 356 CE; end 402 CE. Korean name: 내물마립간 (EKC article title). Wikidata: Q492831 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

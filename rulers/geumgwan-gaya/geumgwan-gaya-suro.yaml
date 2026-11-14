@@ -1,0 +1,11 @@
+id: geumgwan-gaya-suro
+name: Suro
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 42
+latest: 199
+sources:
+- ekc-e0031325-suro
+- wp-en-list-of-monarchs-of-korea
+confidence: legendary
+note: "Reign as given: 42–199 (Wikipedia list); EKC: 42 CE to 199 CE. Start 42 CE; end 199 CE. Korean name: 수로왕 (EKC article title). Personal name (Wikipedia list): Suro. Founder known from foundation legend; reign years are traditional. Wikidata: Q496836 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

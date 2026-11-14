@@ -1,0 +1,23 @@
+id: baekje-bunseo
+name: Bunseo
+title: King of Baekje
+polity: baekje
+earliest: 298
+latest: 304
+sources:
+- ekc-e0024836-baekje-bunseo
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 298 CE to 304 CE"
+  low: 298
+  high: 304
+  sources:
+  - ekc-e0024836-baekje-bunseo
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 298–304 (Wikipedia list); EKC: 298 CE to 304 CE. Start 298 CE; end 304 CE. Korean name: 분서왕 (EKC article title). Personal name (Wikipedia list): Buyeo Bunseo. Wikidata: Q497533 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

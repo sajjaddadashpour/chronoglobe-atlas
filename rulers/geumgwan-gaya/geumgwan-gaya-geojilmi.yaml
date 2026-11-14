@@ -1,0 +1,23 @@
+id: geumgwan-gaya-geojilmi
+name: Geojilmi
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 291
+latest: 346
+sources:
+- ekc-e0001896-geumgwan-gaya-geojilmi
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 291 CE to 346 CE"
+  low: 291
+  high: 346
+  sources:
+  - ekc-e0001896-geumgwan-gaya-geojilmi
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: the Garakguk-gi king list is rejected by some (mainly Japanese) scholars, who equate several of these kings with one another (EKC 겸지왕); no alternative years in the sources read"
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled contested.
+note: "Reign as given: 291–346 (Wikipedia list); EKC: 291 CE to 346 CE. Start 291 CE; end 346 CE. Korean name: 거질미왕 (EKC article title). Personal name (Wikipedia list): Geojilmi. Wikidata: Q491113 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

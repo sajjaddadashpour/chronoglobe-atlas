@@ -1,0 +1,30 @@
+id: goguryeo-gwanggaeto
+name: Gwanggaeto
+title: King of Goguryeo
+polity: goguryeo
+earliest: 391
+latest: 413
+sources:
+- ekc-e0005057-goguryeo-gwanggaeto
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Gwanggaeto stele: 391 to 412 CE"
+  low: 391
+  high: 412
+  sources:
+  - ekc-e0005057-goguryeo-gwanggaeto
+  note: Reading labelled attested.
+- value: "Samguk sagi: 392 to 413 CE"
+  low: 392
+  high: 413
+  sources:
+  - ekc-e0005057-goguryeo-gwanggaeto
+  note: Reading labelled attested.
+- value: "Wikipedia list: 391 to 412 CE"
+  low: 391
+  high: 412
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 391–412 (Wikipedia list); EKC: 391 CE to 413 CE. Outer bounds 391 CE to 413 CE; the readings are in alternatives. Korean name: 광개토왕 (EKC article title). Personal name (Wikipedia list): Go Damdeok. EKC body: the Gwanggaeto stele dates the reign 391-412, Samguk sagi 392-413. Wikidata: Q498791 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

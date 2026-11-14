@@ -1,0 +1,11 @@
+id: unified-silla-gyeongsun
+name: Gyeongsun
+title: King of Silla
+polity: unified-silla
+earliest: 927
+latest: 935
+sources:
+- ekc-e0002611-gyeongsun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 927–935 (Wikipedia list); EKC: 927 CE to 935 CE. Start 927 CE; end 935 CE. Korean name: 경순왕 (EKC article title). Wikidata: Q485578 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

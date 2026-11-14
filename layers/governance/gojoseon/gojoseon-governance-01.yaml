@@ -1,0 +1,16 @@
+id: gojoseon-governance-01
+layer: governance
+polity: gojoseon
+subject: "governance form: monarchy"
+earliest: -361
+latest: -195
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0003937-gojoseon
+- ekc-e0053644-jun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Governance type: monarchy. Dates as given: 4th century BCE to Wiman (kings Bu and Jun named in Chinese sources). Evidence: EKC 준왕: Jun, son of Bu, last king of Joseon before Wiman; the Wikipedia list gives Bu and Jun as kings. Evidence: scholarly-or-primary."

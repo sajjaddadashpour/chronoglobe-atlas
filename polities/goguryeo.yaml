@@ -1,0 +1,26 @@
+id: goguryeo
+name: Goguryeo
+kind: state
+earliest: -100
+latest: 668
+sources:
+- ekc-e0003323-goguryeo
+- ekc-e0016431-dongmyeong
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "start: 37 BCE (Samguk sagi)"
+  low: -37
+  high: -37
+  sources:
+  - ekc-e0003323-goguryeo
+  - ekc-e0016431-dongmyeong
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled legendary.
+- value: "start: 1st century BCE or earlier (EKC; 100-37 BCE is this pass's encoding)"
+  low: -100
+  high: -37
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled estimate.
+note: "Korean name: 고구려 (EKC). Start contested: 37 BCE (Samguk sagi, founding by Jumong) vs. the 1st century BCE or earlier (EKC period heading; a Goguryeo polity is implied by the Han county name in Xuantu). End: 668 CE (fall of Pyongyang to Silla-Tang) [attested]. Critical scholarship treats Samguk sagi reign data before King Sansang/Taejo as unreliable (EKC); those rulers are labelled contested. Successors: unified-silla, balhae (claims of continuity contested). Evidence: scholarly-or-primary."

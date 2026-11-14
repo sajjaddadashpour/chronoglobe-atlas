@@ -1,0 +1,11 @@
+id: joseon-yeonsangun
+name: Yeonsangun
+title: King of Joseon
+polity: joseon
+earliest: 1494
+latest: 1506
+sources:
+- ekc-e0036803-joseon-yeonsangun
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1494–1506 (Wikipedia list); EKC: 1494 CE to 1506 CE. Start 1494 CE; end 1506 CE. Korean name: 연산군 (EKC article title). Personal name (Wikipedia list): Yi Yung. Wikidata: Q470084 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

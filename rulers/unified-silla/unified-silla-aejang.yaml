@@ -1,0 +1,11 @@
+id: unified-silla-aejang
+name: Aejang
+title: King of Silla
+polity: unified-silla
+earliest: 800
+latest: 809
+sources:
+- ekc-e0035230-unified-silla-aejang
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 800–809 (Wikipedia list); EKC: 800 CE to 809 CE. Start 800 CE; end 809 CE. Korean name: 애장왕 (EKC article title). Wikidata: Q485632 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,24 @@
+id: silla
+name: Silla (to 668)
+kind: state
+earliest: -57
+latest: 668
+sources:
+- ekc-e0032800-silla
+- ekc-e0063242-hyeokgeose
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "start: 57 BCE (Samguk sagi)"
+  low: -57
+  high: -57
+  sources:
+  - ekc-e0032800-silla
+  - ekc-e0063242-hyeokgeose
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled legendary.
+- value: "critical reading: dated kingship only from the 4th century (Naemul); no alternative start year in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Korean name: 신라 (EKC). Start: 57 BCE in Samguk sagi (Hyeokgeose); EKC notes Saro-guk in the Gyeongju basin probably formed as a city-state before this, and critical scholarship doubts the Samguk sagi chronology before King Naemul (r. 356-402). End of this record: 668 CE, by the atlas convention of splitting Silla at the fall of Goguryeo (EKC treats Silla as one state, 57 BCE-935 CE). Successors: unified-silla. Evidence: scholarly-or-primary."

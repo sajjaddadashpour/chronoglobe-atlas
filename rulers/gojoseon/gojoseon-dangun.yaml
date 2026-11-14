@@ -1,0 +1,11 @@
+id: gojoseon-dangun
+name: Dangun
+title: King of Gojoseon
+polity: gojoseon
+earliest: -2333
+latest: -1122
+sources:
+- ekc-e0013538-dangun
+- wp-en-list-of-monarchs-of-korea
+confidence: legendary
+note: "Reign as given: 2333(?) – ? BC (Wikipedia list); EKC: 2333 BCE to 1122 BCE. Start 2333 BCE; end 1122 BCE. Korean name: 단군 (EKC article title). Personal name (Wikipedia list): Dangun Wanggeom. Founder known from foundation legend; reign years are traditional. Wikidata: Q549567 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

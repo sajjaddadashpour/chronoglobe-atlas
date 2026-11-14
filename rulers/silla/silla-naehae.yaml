@@ -1,0 +1,23 @@
+id: silla-naehae
+name: Naehae
+title: Isageum of Silla
+polity: silla
+earliest: 196
+latest: 230
+sources:
+- ekc-e0012585-silla-naehae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 196 CE to 230 CE"
+  low: 196
+  high: 230
+  sources:
+  - ekc-e0012585-silla-naehae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 196–230 (Wikipedia list); EKC: 196 CE to 230 CE. Start 196 CE; end 230 CE. Korean name: 내해이사금 (EKC article title). Wikidata: Q496614 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

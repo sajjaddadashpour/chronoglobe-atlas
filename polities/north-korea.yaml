@@ -1,0 +1,10 @@
+id: north-korea
+name: "Democratic People's Republic of Korea (North Korea)"
+kind: state
+earliest: 1948
+latest: 2026
+sources:
+- ekc-e0024785-north-korea
+- wp-en-supreme-leader-north-korea
+confidence: attested
+note: "Korean name: 조선민주주의인민공화국 (EKC 북한). Start: 9 Sep 1948. Ongoing: latest 2026 is the year of this pass, not an end date. Evidence: scholarly-or-primary."

@@ -1,0 +1,23 @@
+id: silla-michu
+name: Michu
+title: Isageum of Silla
+polity: silla
+earliest: 262
+latest: 284
+sources:
+- ekc-e0020023-silla-michu
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 262 CE to 284 CE"
+  low: 262
+  high: 284
+  sources:
+  - ekc-e0020023-silla-michu
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 262–284 (Wikipedia list); EKC: 262 CE to 284 CE. Start 262 CE; end 284 CE. Korean name: 미추이사금 (EKC article title). Wikidata: Q488160 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

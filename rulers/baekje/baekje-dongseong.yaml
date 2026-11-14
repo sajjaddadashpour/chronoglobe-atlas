@@ -1,0 +1,11 @@
+id: baekje-dongseong
+name: Dongseong
+title: King of Baekje
+polity: baekje
+earliest: 479
+latest: 501
+sources:
+- ekc-e0016593-baekje-dongseong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 479–501 (Wikipedia list); EKC: 479 CE to 501 CE. Start 479 CE; end 501 CE. Korean name: 동성왕 (EKC article title). Personal name (Wikipedia list): Buyeo Modae / Buyeo Dae / Buyeo Mamo / Buyeo Malda. Wikidata: Q497846 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

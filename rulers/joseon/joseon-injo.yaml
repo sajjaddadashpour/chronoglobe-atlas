@@ -1,0 +1,11 @@
+id: joseon-injo
+name: Injo
+title: King of Joseon
+polity: joseon
+earliest: 1623
+latest: 1649
+sources:
+- ekc-e0047028-joseon-injo
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1623–1649 (Wikipedia list); EKC: 1623 CE to 1649 CE. Start 1623 CE; end 1649 CE. Korean name: 인조 (EKC article title). Personal name (Wikipedia list): Yi Jong. Wikidata: Q484453 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

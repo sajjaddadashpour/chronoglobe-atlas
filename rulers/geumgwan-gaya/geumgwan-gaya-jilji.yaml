@@ -1,0 +1,21 @@
+id: geumgwan-gaya-jilji
+name: Jilji
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 451
+latest: 492
+sources:
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 451 CE to 492 CE"
+  low: 451
+  high: 492
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: the Garakguk-gi king list is rejected by some (mainly Japanese) scholars, who equate several of these kings with one another (EKC 겸지왕); no alternative years in the sources read"
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled contested.
+note: "Reign as given: 451–492 (Wikipedia list). Start 451 CE; end 492 CE. Personal name (Wikipedia list): Jilji. Wikidata: Q281064 (via wp-en-wikidata-korea; verify item scope before use). Evidence: secondary-only."

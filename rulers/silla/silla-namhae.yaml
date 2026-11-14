@@ -1,0 +1,23 @@
+id: silla-namhae
+name: Namhae
+title: Chachaung of Silla
+polity: silla
+earliest: 4
+latest: 24
+sources:
+- ekc-e0012297-silla-namhae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 4 CE to 24 CE"
+  low: 4
+  high: 24
+  sources:
+  - ekc-e0012297-silla-namhae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 4–24 (Wikipedia list); EKC: 4 CE to 24 CE. Start 4 CE; end 24 CE. Korean name: 남해차차웅 (EKC article title). Wikidata: Q496504 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

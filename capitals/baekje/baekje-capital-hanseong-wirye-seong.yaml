@@ -1,0 +1,23 @@
+id: baekje-capital-hanseong-wirye-seong
+polity: baekje
+place: Hanseong / Wirye-seong (Seoul)
+earliest: -18
+latest: 475
+sources:
+- ekc-e0022355-baekje
+- ekc-e0041135-wirye-seong
+confidence: contested
+alternatives:
+- value: "start: 18 BCE (Samguk sagi)"
+  low: -18
+  high: -18
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled legendary.
+- value: "start: 3rd century (Sanguozhi reading of Baekje statehood)"
+  low: 201
+  high: 300
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Capital in the Han River basin from the founding (Samguk sagi 18 BCE, contested) to the fall of Hanseong in 475 (EKC 백제 periodization). EKC 위례성: Hanam Wirye-seong is most often identified with Pungnap-dong earthen fort (Seoul); the name changed to Hanseong from the mid/late 4th century, linked to the 371 move to Hansan (a double capital of the northern fort, Pungnap, and southern fort, Mongchon); not encoded separately. Evidence: scholarly-or-primary."

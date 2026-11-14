@@ -1,0 +1,13 @@
+id: buyeo
+name: Buyeo
+kind: state
+earliest: -200
+latest: 494
+sources:
+- ekc-e0024368-buyeo
+- wp-en-list-of-monarchs-of-korea
+confidence: estimate
+low: -200
+high: 494
+method: "low and high are the outer year bounds of the span (earliest possible start, latest possible end), taken from the dated estimates in the cited sources; per-bound readings are in note."
+note: "Korean name: 부여 (EKC). Start: 2nd century BCE (EKC; encoded 200 BCE as earliest possible) [estimate]. End: 494 CE (last ruler surrenders to Goguryeo) [attested]. EKC: the capital fell to the Murong Xianbei in 285 and Buyeo was raided by Former Yan in 346. Eastern Buyeo (Dongbuyeo) kings Geumwa and Daeso, known only from Samguk sagi, are filed under this polity as in the Wikipedia list. Record label estimate is the weaker of start (estimate) and end (attested). Successors: goguryeo. Evidence: scholarly-or-primary."

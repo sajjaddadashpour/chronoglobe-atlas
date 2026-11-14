@@ -1,0 +1,11 @@
+id: korean-empire-gojong
+name: Gojong
+title: Emperor of Korea
+polity: korean-empire
+earliest: 1897
+latest: 1907
+sources:
+- ekc-e0003939-joseon-gojong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1897–1907 (Wikipedia list); EKC: to 1907 CE (one bound only). Start 1897 CE; end 1907 CE. Korean name: 고종 (EKC article title). Personal name (Wikipedia list): Yi Jae-hwang / Yi Hui. EKC gives 1863-1907 as one reign (Joseon king, then emperor from 1897). The 1863/1864 start difference probably comes from the lunar date of Cheoljong's death (12th month 1863 = January 1864); not verified. Wikidata: Q257425 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-partial."

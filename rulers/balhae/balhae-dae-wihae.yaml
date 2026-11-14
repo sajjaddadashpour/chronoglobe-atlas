@@ -1,0 +1,24 @@
+id: balhae-dae-wihae
+name: Dae Wihae
+title: King of Balhae
+polity: balhae
+earliest: 894
+latest: 906
+sources:
+- ekc-e0014652-balhae-dae-wihae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 894 CE to 906 CE"
+  low: 894
+  high: 906
+  sources:
+  - ekc-e0014652-balhae-dae-wihae
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 895 CE to 906 CE"
+  low: 895
+  high: 906
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 895–906 (Wikipedia list); EKC: 894 CE to 906 CE. Outer bounds 894 CE to 906 CE; the readings are in alternatives. Korean name: 대위해 (EKC article title). Personal name (Wikipedia list): Dae Wihae. Wikidata: Q703361 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

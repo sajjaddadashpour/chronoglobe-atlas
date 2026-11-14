@@ -1,0 +1,30 @@
+id: goryeo-governance-03
+layer: governance
+polity: goryeo
+subject: "governance form: monarchy under Mongol (Yuan) overlordship"
+earliest: 1259
+latest: 1356
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0003424-goryeo
+- ekc-e0050111-jeongdong-haengseong
+- ekc-e0034141-ssangseong-chonggwan-bu
+- ekc-e0016332-dongnyeong-bu
+confidence: contested
+alternatives:
+- value: "start: 1259 (peace with the Mongols)"
+  low: 1259
+  high: 1259
+  sources:
+  - ekc-e0003424-goryeo
+  note: Reading labelled scholarly-consensus.
+- value: "start: 1270 (court returns to Gaegyeong, end of military rule)"
+  low: 1270
+  high: 1270
+  sources:
+  - ekc-e0003424-goryeo
+  note: Reading labelled scholarly-consensus.
+note: "Governance type: monarchy under Mongol (Yuan) overlordship. Dates as given: 1259 (peace with the Mongols) or 1270 (return to Gaegyeong) to 1356 (Gongmin's anti-Yuan reforms). Evidence: EKC 고려: peace 1259, return 1270, kings married Yuan princesses from Chungnyeol; EKC 정동행성 (Branch Secretariat from 1280), 쌍성총관부 (1258-1356), 동녕부 (1270-1290). Evidence: scholarly-or-primary."

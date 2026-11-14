@@ -1,0 +1,23 @@
+id: silla-girim
+name: Girim
+title: Isageum of Silla
+polity: silla
+earliest: 298
+latest: 310
+sources:
+- ekc-e0008207-silla-girim
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 298 CE to 310 CE"
+  low: 298
+  high: 310
+  sources:
+  - ekc-e0008207-silla-girim
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 298–310 (Wikipedia list); EKC: 298 CE to 310 CE. Start 298 CE; end 310 CE. Korean name: 기림이사금 (EKC article title). Wikidata: Q485627 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

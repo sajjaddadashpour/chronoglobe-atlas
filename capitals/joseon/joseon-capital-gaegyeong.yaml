@@ -1,0 +1,10 @@
+id: joseon-capital-gaegyeong
+polity: joseon
+place: Gaegyeong (Kaesong)
+earliest: 1392
+latest: 1394
+sources:
+- ekc-e0051904-joseon
+- ekc-e0056148-cheorwon-gun
+confidence: scholarly-consensus
+note: "Joseon kept Gaegyeong until the move to Hanyang in 1394. A return to Gaegyeong in 1399-1405 is not encoded (not checked in sources read; OPEN_QUESTIONS). Evidence: scholarly-or-primary."

@@ -1,0 +1,11 @@
+id: goguryeo-dongmyeong
+name: Dongmyeong
+title: King of Goguryeo
+polity: goguryeo
+earliest: -37
+latest: -19
+sources:
+- ekc-e0016431-dongmyeong
+- wp-en-list-of-monarchs-of-korea
+confidence: legendary
+note: "Reign as given: 37–19 BC (Wikipedia list); EKC: 37 BCE to 19 BCE. Start 37 BCE; end 19 BCE. Korean name: 동명성왕 (EKC article title). Personal name (Wikipedia list): Go Jumong / Go Chumo / Go Sanghae. Founder known from foundation legend; reign years are traditional. Wikidata: Q378502 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

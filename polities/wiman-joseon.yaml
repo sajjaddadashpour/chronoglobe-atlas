@@ -1,0 +1,11 @@
+id: wiman-joseon
+name: Wiman Joseon
+kind: state
+earliest: -195
+latest: -108
+sources:
+- ekc-e0041138-wiman-joseon
+- ekc-e0003937-gojoseon
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Korean name: 위만조선 (EKC). Start: early 2nd century BCE, c. 194 BCE (Wiman's coup against King Jun; Wikipedia list ends Jun in 195 BCE, EKC dates Wiman's accession 194 BCE). End: 108 BCE (fall of Wanggeom-seong to Han; four Han commanderies set up). Capital Wanggeom-seong; its location is contested (see capital record). Record label scholarly-consensus. Successors: Han commanderies (not modelled). Evidence: scholarly-or-primary."

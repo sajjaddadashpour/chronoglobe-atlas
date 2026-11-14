@@ -1,0 +1,9 @@
+id: goguryeo-capital-hwando-seong
+polity: goguryeo
+place: "Hwando-seong (Ji'an)"
+earliest: 209
+latest: 246
+sources:
+- ekc-e0064979-hwando-seong
+confidence: scholarly-consensus
+note: "EKC 환도성: built 198, capital from 209, destroyed by Wei general Guanqiu Jian in 246, restored as residence in 342. The 342 phase is not a separate record (end year not given). Evidence: scholarly-or-primary."

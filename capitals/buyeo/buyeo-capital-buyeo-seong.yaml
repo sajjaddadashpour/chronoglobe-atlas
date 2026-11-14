@@ -1,0 +1,22 @@
+id: buyeo-capital-buyeo-seong
+polity: buyeo
+place: Buyeo-seong (location contested)
+earliest: -200
+latest: 494
+sources:
+- ekc-e0024368-buyeo
+confidence: contested
+alternatives:
+- value: "Changchun / Nong'an area"
+  sources:
+  - ekc-e0024368-buyeo
+  note: Reading labelled contested.
+- value: Jilin city area
+  sources:
+  - ekc-e0024368-buyeo
+  note: Reading labelled contested.
+- value: "Jilin city early, Nong'an later"
+  sources:
+  - ekc-e0024368-buyeo
+  note: Reading labelled contested.
+note: "EKC on the site of Buyeo-seong: an older view places it near Changchun / Nong'an; a recent view places the centre at the Jilin city area; another holds Jilin city was the early and Nong'an the later centre. No dated sequence of moves except the fall of the capital to the Murong in 285. Evidence: scholarly-or-primary."

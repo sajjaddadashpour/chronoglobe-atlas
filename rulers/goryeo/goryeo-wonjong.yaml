@@ -1,0 +1,11 @@
+id: goryeo-wonjong
+name: Wonjong
+title: King of Goryeo
+polity: goryeo
+earliest: 1259
+latest: 1274
+sources:
+- ekc-e0040820-goryeo-wonjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1259–1274 (Wikipedia list); EKC: 1259 CE to 1274 CE. Start 1259 CE; end 1274 CE. Korean name: 원종 (EKC article title). Personal name (Wikipedia list): Wang Sik. Wikidata: Q493978 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

@@ -1,0 +1,10 @@
+id: korean-empire
+name: Korean Empire (Daehan Jeguk)
+kind: state
+earliest: 1897
+latest: 1910
+sources:
+- ekc-e0015187-korean-empire
+- wp-en-list-of-monarchs-of-korea
+confidence: attested
+note: "Korean name: 대한제국 (EKC). Start: 12 Oct 1897. End: 29 Aug 1910 (annexation by Japan). Japanese protectorate from 1905/1906 encoded as a governance period. Successors: japanese-korea. Evidence: scholarly-or-primary."

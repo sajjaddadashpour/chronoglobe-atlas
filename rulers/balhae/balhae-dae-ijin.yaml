@@ -1,0 +1,24 @@
+id: balhae-dae-ijin
+name: Dae Ijin
+title: King of Balhae
+polity: balhae
+earliest: 830
+latest: 858
+sources:
+- ekc-e0014665-balhae-dae-ijin
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 830 CE to 858 CE"
+  low: 830
+  high: 858
+  sources:
+  - ekc-e0014665-balhae-dae-ijin
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 830 CE to 857 CE"
+  low: 830
+  high: 857
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 830–857 (Wikipedia list); EKC: 830 CE to 858 CE. Outer bounds 830 CE to 858 CE; the readings are in alternatives. Korean name: 대이진 (EKC article title). Personal name (Wikipedia list): Dae Ijin. Wikidata: Q703673 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

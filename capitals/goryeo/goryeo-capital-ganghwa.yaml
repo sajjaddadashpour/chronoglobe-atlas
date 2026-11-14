@@ -1,0 +1,10 @@
+id: goryeo-capital-ganghwa
+polity: goryeo
+place: Ganghwa
+earliest: 1232
+latest: 1270
+sources:
+- ekc-e0003424-goryeo
+- ekc-e0001507-ganghwa-do
+confidence: attested
+note: "Court on Ganghwa Island during the Mongol invasions, 1232-1270 (EKC). Evidence: scholarly-or-primary."

@@ -1,0 +1,24 @@
+id: goguryeo-dongcheon
+name: Dongcheon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 227
+latest: 248
+sources:
+- ekc-e0016818-goguryeo-dongcheon
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 227 CE to 247 CE"
+  low: 227
+  high: 247
+  sources:
+  - ekc-e0016818-goguryeo-dongcheon
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 227 CE to 248 CE"
+  low: 227
+  high: 248
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 227–248 (Wikipedia list); EKC: 227 CE to 247 CE. Outer bounds 227 CE to 248 CE; the readings are in alternatives. Korean name: 동천왕 (EKC article title). Personal name (Wikipedia list): Go Uwigeo / Go Wigung / Go Gyoche. Wikidata: Q498590 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

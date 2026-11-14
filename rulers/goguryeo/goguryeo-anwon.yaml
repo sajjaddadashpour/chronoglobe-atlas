@@ -1,0 +1,11 @@
+id: goguryeo-anwon
+name: Anwon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 531
+latest: 545
+sources:
+- ekc-e0034924-goguryeo-anwon
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 531–545 (Wikipedia list); EKC: 531 CE to 545 CE. Start 531 CE; end 545 CE. Korean name: 안원왕 (EKC article title). Personal name (Wikipedia list): Go Boyeon / Go Yeon. Wikidata: Q498863 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

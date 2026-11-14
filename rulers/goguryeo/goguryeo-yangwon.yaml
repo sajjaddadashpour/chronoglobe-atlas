@@ -1,0 +1,11 @@
+id: goguryeo-yangwon
+name: Yangwon
+title: King of Goguryeo
+polity: goguryeo
+earliest: 545
+latest: 559
+sources:
+- ekc-e0035688-goguryeo-yangwon
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 545–559 (Wikipedia list); EKC: 545 CE to 559 CE. Start 545 CE; end 559 CE. Korean name: 양원왕 (EKC article title). Personal name (Wikipedia list): Go Pyeongseong. Wikidata: Q498883 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

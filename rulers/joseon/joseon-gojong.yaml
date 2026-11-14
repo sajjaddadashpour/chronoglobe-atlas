@@ -1,0 +1,24 @@
+id: joseon-gojong
+name: Gojong
+title: King of Joseon
+polity: joseon
+earliest: 1863
+latest: 1897
+sources:
+- ekc-e0003939-joseon-gojong
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 1863 CE to 1897 CE"
+  low: 1863
+  high: 1897
+  sources:
+  - ekc-e0003939-joseon-gojong
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 1864 CE to 1897 CE"
+  low: 1864
+  high: 1897
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 1864–1897 / (1897–1907) * (Wikipedia list); EKC: from 1863 CE (one bound only). Outer bounds 1863 CE to 1897 CE; the readings are in alternatives. Korean name: 고종 (EKC article title). Personal name (Wikipedia list): Yi Jae-hwang / Yi Hui. EKC gives 1863-1907 as one reign (Joseon king, then emperor from 1897). The 1863/1864 start difference probably comes from the lunar date of Cheoljong's death (12th month 1863 = January 1864); not verified. Wikidata: Q257425 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-partial."

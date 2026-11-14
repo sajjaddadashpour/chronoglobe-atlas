@@ -1,0 +1,24 @@
+id: balhae-dae-geonhwang
+name: Dae Geonhwang
+title: King of Balhae
+polity: balhae
+earliest: 857
+latest: 871
+sources:
+- ekc-e0013999-balhae-dae-geonhwang
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 858 CE to 871 CE"
+  low: 858
+  high: 871
+  sources:
+  - ekc-e0013999-balhae-dae-geonhwang
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 857 CE to 871 CE"
+  low: 857
+  high: 871
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 857–871 (Wikipedia list); EKC: 858 CE to 871 CE. Outer bounds 857 CE to 871 CE; the readings are in alternatives. Korean name: 대건황 (EKC article title). Personal name (Wikipedia list): Dae Geonhwang. Wikidata: Q706419 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

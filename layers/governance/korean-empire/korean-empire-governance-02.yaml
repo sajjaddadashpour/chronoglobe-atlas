@@ -1,0 +1,28 @@
+id: korean-empire-governance-02
+layer: governance
+polity: korean-empire
+subject: "governance form: Japanese protectorate (Residency-General)"
+earliest: 1905
+latest: 1910
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0059235-residency-general
+- ekc-e0015187-korean-empire
+confidence: contested
+alternatives:
+- value: "start: 1905 (treaty)"
+  low: 1905
+  high: 1905
+  sources:
+  - ekc-e0059235-residency-general
+  note: Reading labelled scholarly-consensus.
+- value: "start: 1906 (Residency-General opens)"
+  low: 1906
+  high: 1906
+  sources:
+  - ekc-e0059235-residency-general
+  note: Reading labelled attested.
+note: "Governance type: Japanese protectorate (Residency-General). Dates as given: Nov 1905 treaty / Feb 1906 Residency-General to Aug 1910. Evidence: EKC 통감부: Residency-General Feb 1906 to Aug 1910, set up under the 1905 treaty. Evidence: scholarly-or-primary."

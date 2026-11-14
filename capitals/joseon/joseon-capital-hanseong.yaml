@@ -1,0 +1,9 @@
+id: joseon-capital-hanseong
+polity: joseon
+place: "Hanseong (Hanyang, Seoul)"
+earliest: 1394
+latest: 1897
+sources:
+- ekc-e0051904-joseon
+confidence: attested
+note: "EKC 조선: move to Hanyang in 1394, renamed Hanseong. Evidence: scholarly-or-primary."

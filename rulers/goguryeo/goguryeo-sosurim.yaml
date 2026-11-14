@@ -1,0 +1,11 @@
+id: goguryeo-sosurim
+name: Sosurim
+title: King of Goguryeo
+polity: goguryeo
+earliest: 371
+latest: 384
+sources:
+- ekc-e0030144-goguryeo-sosurim
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 371–384 (Wikipedia list); EKC: 371 CE to 384 CE. Start 371 CE; end 384 CE. Korean name: 소수림왕 (EKC article title). Personal name (Wikipedia list): Go Gubu. Wikidata: Q498741 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

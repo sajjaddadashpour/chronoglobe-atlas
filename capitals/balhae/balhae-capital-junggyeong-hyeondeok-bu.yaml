@@ -1,0 +1,25 @@
+id: balhae-capital-junggyeong-hyeondeok-bu
+polity: balhae
+place: "Junggyeong Hyeondeok-bu (Xigucheng, Helong)"
+earliest: 742
+latest: 756
+sources:
+- ekc-e0053686-junggyeong-hyeondeok-bu
+- ekc-e0027003-sanggyeong-yongcheon-bu
+- ekc-e0021626-balhae
+confidence: contested
+alternatives:
+- value: "end: 755 (EKC 상경용천부, 중경현덕부)"
+  low: 755
+  high: 755
+  sources:
+  - ekc-e0027003-sanggyeong-yongcheon-bu
+  - ekc-e0053686-junggyeong-hyeondeok-bu
+  note: Reading labelled scholarly-consensus.
+- value: "end: 756 (EKC 발해: early in 756)"
+  low: 756
+  high: 756
+  sources:
+  - ekc-e0021626-balhae
+  note: Reading labelled scholarly-consensus.
+note: "EKC 중경현덕부: capital 742 to the mid-750s. Evidence: scholarly-or-primary."

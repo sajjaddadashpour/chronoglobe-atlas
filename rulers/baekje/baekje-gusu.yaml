@@ -1,0 +1,23 @@
+id: baekje-gusu
+name: Gusu
+title: King of Baekje
+polity: baekje
+earliest: 214
+latest: 234
+sources:
+- ekc-e0005880-baekje-gusu
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 214 CE to 234 CE"
+  low: 214
+  high: 234
+  sources:
+  - ekc-e0005880-baekje-gusu
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Geunchogo conflict with the Sanguozhi picture of Baekje as a Mahan statelet (EKC 백제); no alternative years in the sources read"
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Reign as given: 214–234 (Wikipedia list); EKC: 214 CE to 234 CE. Start 214 CE; end 234 CE. Korean name: 구수왕 (EKC article title). Personal name (Wikipedia list): Buyeo Gusu / Buyeo Guisu. Wikidata: Q497432 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

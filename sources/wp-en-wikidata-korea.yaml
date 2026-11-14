@@ -1,0 +1,11 @@
+id: wp-en-wikidata-korea
+authors:
+- Wikipedia contributors
+- Wikidata contributors
+title: English Wikipedia page properties (Wikidata items) and Wikidata Encyclopedia of Korean Culture IDs (P9475) for the Korea pass
+year: 2026
+publisher: Wikimedia Foundation
+url: "https://www.wikidata.org/wiki/Property:P9475"
+license: CC0-1.0 (Wikidata); titles are facts
+dataset: bibliography
+note: "Tier: secondary cross-check only. Consulted: yes - API responses cached in korea-pass _work/wd.json. Accessed 2026-11-14. Used only to find Wikidata items and the matching Encyclopedia of Korean Culture article for each name. Wikidata is CC0."

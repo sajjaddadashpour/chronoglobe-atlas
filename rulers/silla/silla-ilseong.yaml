@@ -1,0 +1,23 @@
+id: silla-ilseong
+name: Ilseong
+title: Isageum of Silla
+polity: silla
+earliest: 134
+latest: 154
+sources:
+- ekc-e0047243-silla-ilseong
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 134 CE to 154 CE"
+  low: 134
+  high: 154
+  sources:
+  - ekc-e0047243-silla-ilseong
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Naemul are doubted by critical scholarship (EKC 신라); no alternative years in the sources read"
+  sources:
+  - ekc-e0032800-silla
+  note: Reading labelled contested.
+note: "Reign as given: 134–154 (Wikipedia list); EKC: 134 CE to 154 CE. Start 134 CE; end 154 CE. Korean name: 일성이사금 (EKC article title). Wikidata: Q485563 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

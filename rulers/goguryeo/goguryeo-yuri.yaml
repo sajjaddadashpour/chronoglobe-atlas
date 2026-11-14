@@ -1,0 +1,23 @@
+id: goguryeo-yuri
+name: Yuri
+title: King of Goguryeo
+polity: goguryeo
+earliest: -19
+latest: 18
+sources:
+- ekc-e0041388-goguryeo-yuri
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 19 BCE to 18 CE"
+  low: -19
+  high: 18
+  sources:
+  - ekc-e0041388-goguryeo-yuri
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Sansang are treated as unreliable by critical scholarship (EKC 고구려); no alternative years in the sources read"
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "Reign as given: 19 BC – 18 AD (Wikipedia list); EKC: 19 BCE to 18 CE. Start 19 BCE; end 18 CE. Korean name: 유리왕 (EKC article title). Personal name (Wikipedia list): Hae Yuri / Hae Yuryu / Hae Nuri. Wikidata: Q498412 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

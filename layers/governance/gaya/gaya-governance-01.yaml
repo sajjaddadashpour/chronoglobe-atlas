@@ -1,0 +1,14 @@
+id: gaya-governance-01
+layer: governance
+polity: gaya
+subject: "governance form: confederation of statelets (never unified)"
+earliest: -100
+latest: 562
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0000257-gaya
+confidence: estimate
+note: "Governance type: confederation of statelets (never unified). Dates as given: 1st century BCE to 562 CE. Evidence: EKC 가야: league of small states, never unified; leadership passed from Geumgwan Gaya to Daegaya. Evidence: scholarly-or-primary."

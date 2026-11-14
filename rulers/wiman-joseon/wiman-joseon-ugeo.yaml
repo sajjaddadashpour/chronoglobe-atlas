@@ -1,0 +1,14 @@
+id: wiman-joseon-ugeo
+name: Ugeo
+title: King of (Wiman) Joseon
+polity: wiman-joseon
+earliest: -195
+latest: -108
+sources:
+- ekc-e0039783-wiman-joseon-ugeo
+- wp-en-list-of-monarchs-of-korea
+confidence: estimate
+low: -195
+high: -108
+method: low and high are the outer year bounds of the reign as dated (approximately) by the cited sources; inner bounds are in note.
+note: "Reign as given: ?–108 BC (Wikipedia list); EKC: to 108 BCE (one bound only). Start 195 BCE; end 108 BCE. Korean name: 우거왕 (EKC article title). Personal name (Wikipedia list): King Ugeo. The sources read give no start year; the start is set to the wiman-joseon outer bound (195 BCE). See docs/korea/OPEN_QUESTIONS.md section F. Wikidata: Q706819 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-partial."

@@ -1,0 +1,24 @@
+id: unified-silla-sindeok
+name: Sindeok
+title: King of Silla
+polity: unified-silla
+earliest: 912
+latest: 917
+sources:
+- ekc-e0032765-unified-silla-sindeok
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "EKC: 913 CE to 917 CE"
+  low: 913
+  high: 917
+  sources:
+  - ekc-e0032765-unified-silla-sindeok
+  note: Reading labelled scholarly-consensus.
+- value: "Wikipedia list: 912 CE to 917 CE"
+  low: 912
+  high: 917
+  sources:
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled scholarly-consensus.
+note: "Reign as given: 912–917 (Wikipedia list); EKC: 913 CE to 917 CE. Outer bounds 912 CE to 917 CE; the readings are in alternatives. Korean name: 신덕왕 (EKC article title). Wikidata: Q485609 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

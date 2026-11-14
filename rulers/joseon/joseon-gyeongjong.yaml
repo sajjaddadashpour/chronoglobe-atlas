@@ -1,0 +1,11 @@
+id: joseon-gyeongjong
+name: Gyeongjong
+title: King of Joseon
+polity: joseon
+earliest: 1720
+latest: 1724
+sources:
+- ekc-e0002808-joseon-gyeongjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 1720–1724 (Wikipedia list); EKC: 1720 CE to 1724 CE. Start 1720 CE; end 1724 CE. Korean name: 경종 (EKC article title). Personal name (Wikipedia list): Yi Yun. Wikidata: Q484995 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

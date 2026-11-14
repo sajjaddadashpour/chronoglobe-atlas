@@ -1,0 +1,10 @@
+id: later-baekje-capital-wansanju
+polity: later-baekje
+place: Wansanju (Jeonju)
+earliest: 900
+latest: 936
+sources:
+- ekc-e0065738-later-baekje
+- ekc-e0038980-wansan-ju
+confidence: scholarly-consensus
+note: "EKC 후백제, 완산주: capital 900-936. Evidence: scholarly-or-primary."

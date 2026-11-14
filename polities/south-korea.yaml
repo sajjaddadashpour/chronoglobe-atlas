@@ -1,0 +1,10 @@
+id: south-korea
+name: Republic of Korea (South Korea)
+kind: state
+earliest: 1948
+latest: 2026
+sources:
+- ekc-e0015002-republic-of-korea
+- wp-en-list-of-presidents-of-south-korea
+confidence: attested
+note: "Korean name: 대한민국 (EKC). Start: 15 Aug 1948 (government proclaimed). Ongoing: latest 2026 is the year of this pass, not an end date. Evidence: scholarly-or-primary."

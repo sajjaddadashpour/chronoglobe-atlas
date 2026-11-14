@@ -1,0 +1,11 @@
+id: goryeo-gwangjong
+name: Gwangjong
+title: King of Goryeo
+polity: goryeo
+earliest: 949
+latest: 975
+sources:
+- ekc-e0005220-goryeo-gwangjong
+- wp-en-list-of-monarchs-of-korea
+confidence: scholarly-consensus
+note: "Reign as given: 949–975 (Wikipedia list); EKC: 949 CE to 975 CE. Start 949 CE; end 975 CE. Korean name: 광종 (EKC article title). Personal name (Wikipedia list): Wang So. Wikidata: Q469387 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

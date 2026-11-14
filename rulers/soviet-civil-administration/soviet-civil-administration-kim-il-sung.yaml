@@ -1,0 +1,11 @@
+id: soviet-civil-administration-kim-il-sung
+name: Kim Il-sung
+title: "Chairman, Provisional People's Committee for North Korea (then People's Committee)"
+polity: soviet-civil-administration
+earliest: 1946
+latest: 1948
+sources:
+- ekc-e0024785-north-korea
+- wp-en-soviet-civil-administration
+confidence: scholarly-consensus
+note: "Term as given: 8 Feb 1946 - Sept 1948 (EKC 북한; Wikipedia infobox lists him as chairman). Evidence: scholarly-or-primary."

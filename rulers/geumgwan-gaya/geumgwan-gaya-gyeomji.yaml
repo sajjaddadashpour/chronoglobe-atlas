@@ -1,0 +1,23 @@
+id: geumgwan-gaya-gyeomji
+name: Gyeomji
+title: King of Geumgwan Gaya
+polity: geumgwan-gaya
+earliest: 492
+latest: 521
+sources:
+- ekc-e0002262-geumgwan-gaya-gyeomji
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 492 CE to 521 CE"
+  low: 492
+  high: 521
+  sources:
+  - ekc-e0002262-geumgwan-gaya-gyeomji
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: the Garakguk-gi king list is rejected by some (mainly Japanese) scholars, who equate several of these kings with one another (EKC 겸지왕); no alternative years in the sources read"
+  sources:
+  - ekc-e0007597-geumgwan-gaya
+  note: Reading labelled contested.
+note: "Reign as given: 492–521 (Wikipedia list); EKC: 492 CE to 521 CE. Start 492 CE; end 521 CE. Korean name: 겸지왕 (EKC article title). Personal name (Wikipedia list): Gyeomji. Wikidata: Q491150 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

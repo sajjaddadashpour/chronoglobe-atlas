@@ -1,0 +1,24 @@
+id: daegaya
+name: Daegaya
+kind: state
+earliest: 42
+latest: 562
+sources:
+- ekc-e0013970-daegaya
+- ekc-e0000257-gaya
+confidence: contested
+alternatives:
+- value: "start: c. 42 CE (Samguk sagi geography count, 520 years before 562)"
+  low: 42
+  high: 42
+  sources:
+  - ekc-e0013970-daegaya
+  note: Reading labelled legendary.
+- value: "start as leading power of the later Gaya league: mid-5th century (440-460 is this pass's encoding)"
+  low: 440
+  high: 460
+  sources:
+  - ekc-e0013970-daegaya
+  - ekc-e0000257-gaya
+  note: Reading labelled estimate.
+note: "Korean name: 대가야 (EKC). Start contested: Samguk sagi geography counts 16 generations and 520 years from Ijinasi to Doseolji, implying c. 42 CE; as a leading power it appears from the mid-5th century (EKC). End: 562 CE, conquered by Silla under King Jinheung (Samguk sagi; Nihon shoki records the fall of 'Mimana' in the same year) [attested]. No dated ruler list survives (see OPEN_QUESTIONS). Member of gaya. Evidence: scholarly-or-primary."

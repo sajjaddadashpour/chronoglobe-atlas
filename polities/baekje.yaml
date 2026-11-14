@@ -1,0 +1,26 @@
+id: baekje
+name: Baekje
+kind: state
+earliest: -18
+latest: 660
+sources:
+- ekc-e0022355-baekje
+- ekc-e0038871-onjo
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "start: 18 BCE (Samguk sagi, Onjo)"
+  low: -18
+  high: -18
+  sources:
+  - ekc-e0022355-baekje
+  - ekc-e0038871-onjo
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled legendary.
+- value: "still a Mahan statelet in the 3rd century (Sanguozhi reading); kingdom formation in the 3rd century (201-300 is this pass's encoding)"
+  low: 201
+  high: 300
+  sources:
+  - ekc-e0022355-baekje
+  note: Reading labelled contested.
+note: "Korean name: 백제 (EKC). Start contested: 18 BCE (Samguk sagi, Onjo) vs. the Sanguozhi picture in which Baekje (Baekje-guk) is still one Mahan statelet in the 3rd century (EKC discusses the conflict). End: 660 CE (Sabi falls to Silla-Tang) [attested]; restoration movement with Buyeo Pung to 663 noted in rulers. Successors: unified-silla. Evidence: scholarly-or-primary."

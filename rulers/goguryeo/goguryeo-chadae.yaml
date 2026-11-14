@@ -1,0 +1,23 @@
+id: goguryeo-chadae
+name: Chadae
+title: King of Goguryeo
+polity: goguryeo
+earliest: 146
+latest: 165
+sources:
+- ekc-e0055132-goguryeo-chadae
+- wp-en-list-of-monarchs-of-korea
+confidence: contested
+alternatives:
+- value: "Samguk sagi reign as given: 146 CE to 165 CE"
+  low: 146
+  high: 165
+  sources:
+  - ekc-e0055132-goguryeo-chadae
+  - wp-en-list-of-monarchs-of-korea
+  note: Reading labelled reconstructed.
+- value: "critical reading: Samguk sagi reign years before King Sansang are treated as unreliable by critical scholarship (EKC 고구려); no alternative years in the sources read"
+  sources:
+  - ekc-e0003323-goguryeo
+  note: Reading labelled contested.
+note: "Reign as given: 146–165 (Wikipedia list); EKC: 146 CE to 165 CE. Start 146 CE; end 165 CE. Korean name: 차대왕 (EKC article title). Personal name (Wikipedia list): Go Suseong. Wikidata: Q498506 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."

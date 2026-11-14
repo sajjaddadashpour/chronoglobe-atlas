@@ -1,0 +1,14 @@
+id: north-korea-governance-01
+layer: governance
+polity: north-korea
+subject: "governance form: socialist state (proletarian dictatorship; Marxism-Leninism and Juche)"
+earliest: 1948
+latest: 2026
+value_low: 1
+value_high: 1
+unit: indicator (1 = the governance form named in subject applies to this polity in this span)
+method: "Categorical governance period read from the cited sources, encoded as a 0/1 indicator because the v0 layer schema only holds numeric values. No measurement or index is implied."
+sources:
+- ekc-e0024785-north-korea
+confidence: attested
+note: "Governance type: socialist state (proletarian dictatorship; Marxism-Leninism and Juche). Dates as given: 9 Sep 1948 - present (2026 is not an end date). Evidence: EKC 북한 definition. Evidence: scholarly-or-primary."

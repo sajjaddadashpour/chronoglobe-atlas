@@ -1,0 +1,12 @@
+id: okjeo
+name: Okjeo
+kind: people
+earliest: -195
+latest: 300
+sources:
+- ekc-e0038760-okjeo
+confidence: estimate
+low: -195
+high: 300
+method: "low and high are the outer year bounds of the span (earliest possible start, latest possible end), taken from the dated estimates in the cited sources; per-bound readings are in note."
+note: "Korean name: 옥저 (EKC). A people/polity group on the north-east coast. Start: not given; first known under Wiman Joseon (earliest bound set to the start of wiman-joseon). EKC: placed under Xuantu commandery in 107 BCE; described in 3rd-century Chinese sources (Sanguozhi); later absorbed by Goguryeo. End year not given in the sources read; 300 is the end of the century of the last description, used as the latest bound. See docs/korea/OPEN_QUESTIONS.md. Successors: goguryeo. Evidence: scholarly-or-primary."

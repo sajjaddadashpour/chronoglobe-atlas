@@ -1,0 +1,11 @@
+id: baekje-onjo
+name: Onjo
+title: King of Baekje
+polity: baekje
+earliest: -18
+latest: 28
+sources:
+- ekc-e0038871-onjo
+- wp-en-list-of-monarchs-of-korea
+confidence: legendary
+note: "Reign as given: 18 BC – 28 AD (Wikipedia list); EKC: 18 BCE to 28 CE. Start 18 BCE; end 28 CE. Korean name: 온조왕 (EKC article title). Personal name (Wikipedia list): Buyeo Onjo. Founder known from foundation legend; reign years are traditional. Wikidata: Q497285 (via wp-en-wikidata-korea; verify item scope before use). Evidence: scholarly-or-primary."
