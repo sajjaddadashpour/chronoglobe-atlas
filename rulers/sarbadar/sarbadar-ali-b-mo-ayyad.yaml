@@ -3,9 +3,25 @@ name: ʿAli b. Moʾayyad
 title: leader
 polity: sarbadar
 earliest: 1362
-latest: 1381
+latest: 1382
 sources:
 - eir-sarbedars
 - wp-en-sarbadars
-confidence: scholarly-consensus
-note: "Reign as given: 1362 - 1381 (with interruption 1376-79 per Wikipedia). Start 1362 CE; end 1381 CE. Paid homage to Timur at Nishapur, April 1381. Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1362 to 1381 (existing reading)
+  low: 1362
+  high: 1381
+  sources:
+  - eir-sarbedars
+  - wp-en-sarbadars
+- value: "1364-1381 (Lane-Poole p. 251, § 88: A.H. 766–783 / A.D. 1364–1381) / 1364–1365 to 1381–1382 (Zambaur § 242 p. 256: A.H. 766–783; tabular Islamic calendar, Julian years)"
+  low: 1364
+  high: 1382
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: "A usurper, Darwish Rukn al-Din, is listed at 778-780; Ali's line resumes and the dynasty is closed by Timur's conquest in 783."
+note: "Reign as given: 1362 - 1381 (with interruption 1376-79 per Wikipedia). Start 1362 CE; end 1381 CE. Paid homage to Timur at Nishapur, April 1381. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 251, § 88: A.H. 766 = 28 September 1364–16 September 1365 CE (Julian, tabular); ended A.H. 783 = 28 March 1381–17 March 1382 CE (Julian, tabular). Printed A.D. year(s): 1364–1381. Zambaur 1927, § 242 p. 256: A.H. 766 = 28 September 1364–16 September 1365 CE (Julian, tabular); ended A.H. 783 = 28 March 1381–17 March 1382 CE (Julian, tabular). A usurper, Darwish Rukn al-Din, is listed at 778-780; Ali's line resumes and the dynasty is closed by Timur's conquest in 783. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

@@ -7,5 +7,21 @@ latest: 1403
 sources:
 - wp-en-list-of-rulers-of-qara-qoyunlu
 - wp-en-qara-qoyunlu
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 1388/89 - 1394/1400/1403. Start 1388 CE to 1389 CE; end 1400 CE to 1403 CE. Fled to Egypt after Timur's defeat of the Qara Qoyunlu in 1400 (Wikipedia). Evidence: secondary-only."
+alternatives:
+- value: 1388–1389 to 1400–1403 (existing reading)
+  low: 1388
+  high: 1403
+  sources:
+  - wp-en-list-of-rulers-of-qara-qoyunlu
+  - wp-en-qara-qoyunlu
+- value: "1388-1400 (Lane-Poole p. 253, § 90: A.H. 790–802 / A.D. 1388–1400) / 1388 to 1399–1400 (Zambaur § 245 p. 257: A.H. 790–802; tabular Islamic calendar, Julian years)"
+  low: 1388
+  high: 1400
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: "Lane-Poole prints c. 790 / c. 1388; interrupted by Timur's invasion in 802/1400. Circa 790; died Dhu l-Hijja 822. Interrupted by Timur in 802."
+note: "Reign as given: 1388/89 - 1394/1400/1403. Start 1388 CE to 1389 CE; end 1400 CE to 1403 CE. Fled to Egypt after Timur's defeat of the Qara Qoyunlu in 1400 (Wikipedia). Evidence: scholarly-or-primary. Lane-Poole 1894, p. 253, § 90: A.H. 790 = 11 January 1388–29 December 1388 CE (Julian, tabular); ended A.H. 802 = 3 September 1399–22 August 1400 CE (Julian, tabular). Printed A.D. year(s): 1388–1400 (accession marked circa / environ / '?'). Lane-Poole prints c. 790 / c. 1388; interrupted by Timur's invasion in 802/1400. Zambaur 1927, § 245 p. 257: A.H. 790 = 11 January 1388–29 December 1388 CE (Julian, tabular); ended A.H. 802 = 3 September 1399–22 August 1400 CE (Julian, tabular) (accession marked circa / environ / '?'). Circa 790; died Dhu l-Hijja 822. Interrupted by Timur in 802. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

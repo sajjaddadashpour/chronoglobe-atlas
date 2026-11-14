@@ -6,5 +6,17 @@ earliest: 923
 latest: 963
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 923–963. Start 923 CE; end 963 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: secondary-only."
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 923 to 963 (existing reading)
+  low: 923
+  high: 963
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "932 to 955–956 (Zambaur § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 320–344; tabular Islamic calendar, Julian years)"
+  low: 932
+  high: 956
+  sources:
+  - zambaur-1927
+note: "Reign as given: 923–963. Start 923 CE; end 963 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Zambaur 1927, § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 320 = 13 January 932–31 December 932 CE (Julian, tabular); ended A.H. 344 = 27 April 955–15 April 956 CE (Julian, tabular) (accession marked circa / environ / '?') Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

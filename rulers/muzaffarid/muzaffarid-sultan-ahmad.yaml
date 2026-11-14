@@ -1,0 +1,23 @@
+id: muzaffarid-sultan-ahmad
+name: Sultan Ahmad
+title: sultan (Kirman)
+polity: muzaffarid
+earliest: 1384
+latest: 1393
+sources:
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: "1387-1393 (Lane-Poole p. 250: A.H. 789–795 / A.D. 1387–1393)"
+  low: 1387
+  high: 1393
+  sources:
+  - lanepoole-1894
+  note: Printed as contemporaries, 789-795 / 1387-1393.
+- value: "1384–1385 to 1392–1393 (Zambaur § 239 p. 254: A.H. 786–795; tabular Islamic calendar, Julian years)"
+  low: 1384
+  high: 1393
+  sources:
+  - zambaur-1927
+note: "Reign as given from. Lane-Poole 1894 and/or. Zambaur 1927 (see source locators below). Start 1384 CE to 1387 CE; end 1392 CE to 1393 CE. Lane-Poole 1894, p. 250: A.H. 789 = 22 January 1387–10 January 1388 CE (Julian, tabular); ended A.H. 795 = 17 November 1392–5 November 1393 CE (Julian, tabular). Printed A.D. year(s): 1387–1393. Printed as contemporaries, 789-795 / 1387-1393. Zambaur 1927, § 239 p. 254: A.H. 786 = 24 February 1384–12 February 1385 CE (Julian, tabular); ended A.H. 795 = 17 November 1392–5 November 1393 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept. Evidence: scholarly-or-primary."

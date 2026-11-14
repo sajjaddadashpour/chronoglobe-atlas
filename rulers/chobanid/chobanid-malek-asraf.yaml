@@ -2,9 +2,10 @@ id: chobanid-malek-asraf
 name: Malek Ašraf
 title: amir
 polity: chobanid
-earliest: 1335
+earliest: 1343
 latest: 1357
 sources:
 - eir-chobanids
+- zambaur-1927
 confidence: attested
-note: "Reign as given: ? - 758/1357. Start unknown; end 1357 CE. Start year unknown; earliest is the polity start bound (1335 CE), not a reign date. Start date not extracted from the source read (open question). Evidence: scholarly-or-primary."
+note: "Reign as given: ? - 758/1357. Start unknown; end 1357 CE. Start year unknown; earliest is the polity start bound (1335 CE), not a reign date. Start date not extracted from the source read (open question). [Iran pass 2: that unknown bound has now been filled from Lane-Poole and/or Zambaur; earliest/latest are no longer the polity placeholder.] Evidence: scholarly-or-primary. Zambaur 1927, § 241 p. 255: 15 December 1343 CE (Julian; A.H. 27 Rajab 744); ended A.H. 756 = 16 January 1355–5 January 1356 CE (Julian, tabular). Beheaded at Tabriz by Jani Beg of Qipchaq in 756. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

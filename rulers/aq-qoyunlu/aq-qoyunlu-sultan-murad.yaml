@@ -2,10 +2,26 @@ id: aq-qoyunlu-sultan-murad
 name: Sultan Murad
 title: bey / sultan
 polity: aq-qoyunlu
-earliest: 1500
+earliest: 1497
 latest: 1508
 sources:
 - eir-aq-qoyunlu
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 1500–1508. Start 1500 CE; end 1508 CE. Killed at Rohā (date not extracted). The Wikipedia row cites: Bosworth 2012 p. 275. Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1500 to 1508 (existing reading)
+  low: 1500
+  high: 1508
+  sources:
+  - eir-aq-qoyunlu
+  - wp-en-list-of-monarchs-of-iran
+- value: "1497-1499 (Lane-Poole p. 254, § 91: A.H. 903–905 / A.D. 1497–1499) ; 1501-1502 (Lane-Poole p. 254, § 91: A.H. 907–908 / A.D. 1501–1502) / 1497–1498 to 1499–1500 (Zambaur § 246 p. 258: A.H. 903–905; tabular Islamic calendar, Julian years) ; 1501–1502 to 1502–1503 (Zambaur § 246 p. 258: A.H. 907–908; tabular Islamic calendar, Julian years)"
+  low: 1497
+  high: 1503
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: "Combined regional or interrupted dates from the same book: 1497-1499 (Lane-Poole p. 254, § 91: A.H. 903–905 / A.D. 1497–1499) | 1501-1502 (Lane-Poole p. 254, § 91: A.H. 907–908 / A.D. 1501–1502) First reign. Combined regional or interrupted dates from the same book: 1497–1498 to 1499–1500 (Zambaur § 246 p. 258: A.H. 903–905; tabular Islamic calendar, Julian years) | 1501–1502 to 1502–1503 (Zambaur § 246 p. 258: A.H. 907–908; tabular Islamic calendar, Julian years)"
+note: "Reign as given: 1500–1508. Start 1500 CE; end 1508 CE. Killed at Rohā (date not extracted). The Wikipedia row cites: Bosworth 2012 p. 275. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 254, § 91: A.H. 903 = 30 August 1497–19 August 1498 CE (Julian, tabular); ended A.H. 908 = 7 July 1502–26 June 1503 CE (Julian, tabular). Printed A.D. year(s): 1497–1499. Combined regional or interrupted dates from the same book: 1497-1499 (Lane-Poole p. 254, § 91: A.H. 903–905 / A.D. 1497–1499) | 1501-1502 (Lane-Poole p. 254, § 91: A.H. 907–908 / A.D. 1501–1502). Zambaur 1927, § 246 p. 258: A.H. 903 = 30 August 1497–19 August 1498 CE (Julian, tabular); ended A.H. 908 = 7 July 1502–26 June 1503 CE (Julian, tabular). First reign. Combined regional or interrupted dates from the same book: 1497–1498 to 1499–1500 (Zambaur § 246 p. 258: A.H. 903–905; tabular Islamic calendar, Julian years) | 1501–1502 to 1502–1503 (Zambaur § 246 p. 258: A.H. 907–908; tabular Islamic calendar, Julian years) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

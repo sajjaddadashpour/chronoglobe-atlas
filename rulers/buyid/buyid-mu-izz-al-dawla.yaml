@@ -2,10 +2,30 @@ id: buyid-mu-izz-al-dawla
 name: "Mu'izz al-Dawla (Ahmad)"
 title: amir
 polity: buyid
-earliest: 935
-latest: 950
+earliest: 932
+latest: 967
 sources:
 - eir-buyids
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 935/936–949/950. Start 935 CE to 936 CE; end 949 CE to 950 CE. Entered Baghdad 19 Dec 945 (Iranica). The Wikipedia end year 949/950 needs checking against Bosworth NID (open question). The Wikipedia row cites: Ross 1977 pp. 111–112; Ross 1977 p. 111; Daryaee 2012 p. 394. Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 935–936 to 949–950 (existing reading)
+  low: 935
+  high: 950
+  sources:
+  - eir-buyids
+  - wp-en-list-of-monarchs-of-iran
+- value: "932-967 (Lane-Poole p. 141 (II. Iraq): A.H. 320–356 / A.D. 932–967)"
+  low: 932
+  high: 967
+  sources:
+  - lanepoole-1894
+- value: "945–946 to 967 (Zambaur § 204 p. 212 (Baghdad): A.H. 334–356; tabular Islamic calendar, Julian years) ; 935–936 to 949–950 (Zambaur § 204 p. 213 (Kirman): A.H. 324–338; tabular Islamic calendar, Julian years)"
+  low: 935
+  high: 967
+  sources:
+  - zambaur-1927
+  note: "Combined regional or interrupted dates from the same book: 945–946 to 967 (Zambaur § 204 p. 212 (Baghdad): A.H. 334–356; tabular Islamic calendar, Julian years) | 935–936 to 949–950 (Zambaur § 204 p. 213 (Kirman): A.H. 324–338; tabular Islamic calendar, Julian years)"
+note: "Reign as given: 935/936–949/950. Start 935 CE to 936 CE; end 949 CE to 950 CE. Entered Baghdad 19 Dec 945 (Iranica). The Wikipedia end year 949/950 needs checking against Bosworth NID (open question). The Wikipedia row cites: Ross 1977 pp. 111–112; Ross 1977 p. 111; Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 141 (II. Iraq): A.H. 320 = 13 January 932–31 December 932 CE (Julian, tabular); ended A.H. 356 = 17 December 966–5 December 967 CE (Julian, tabular). Printed A.D. year(s): 932–967. Zambaur 1927, § 204 p. 212 (Baghdad): A.H. 334 = 13 August 945–1 August 946 CE (Julian, tabular); ended 1 April 967 CE (Julian; A.H. 17 Rabi' II 356). Combined regional or interrupted dates from the same book: 945–946 to 967 (Zambaur § 204 p. 212 (Baghdad): A.H. 334–356; tabular Islamic calendar, Julian years) | 935–936 to 949–950 (Zambaur § 204 p. 213 (Kirman): A.H. 324–338; tabular Islamic calendar, Julian years) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

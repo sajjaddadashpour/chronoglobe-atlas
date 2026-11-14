@@ -2,9 +2,21 @@ id: jalayirid-soltan-mohammad
 name: Solṭān Moḥammad
 title: sultan
 polity: jalayirid
-earliest: 1336
+earliest: 1421
 latest: 1424
 sources:
 - eir-jalayerids
-confidence: attested
-note: "Reign as given: ? - July 1424. Start unknown; end 1424 CE. Start year unknown; earliest is the polity start bound (1336 CE), not a reign date. Evidence: scholarly-or-primary."
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: unknown to 1424 (existing reading)
+  low: 1424
+  high: 1424
+  sources:
+  - eir-jalayerids
+- value: "1421 to 1421–1422 (Zambaur § 238 p. 253: A.H. 824–825; tabular Islamic calendar, Julian years)"
+  low: 1421
+  high: 1422
+  sources:
+  - zambaur-1927
+note: "Reign as given: ? - July 1424. Start unknown; end 1424 CE. Start year unknown; earliest is the polity start bound (1336 CE), not a reign date. [Iran pass 2: that unknown bound has now been filled from Lane-Poole and/or Zambaur; earliest/latest are no longer the polity placeholder.] Evidence: scholarly-or-primary. Zambaur 1927, § 238 p. 253: A.H. 824 = 6 January 1421–26 December 1421 CE (Julian, tabular); ended A.H. 825 = 26 December 1421–14 December 1422 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

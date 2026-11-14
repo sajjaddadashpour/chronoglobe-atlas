@@ -1,0 +1,22 @@
+id: aq-qoyunlu-jahangir
+name: Jahangir
+title: beg
+polity: aq-qoyunlu
+earliest: 1444
+latest: 1466
+sources:
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: "1444-1466 (Lane-Poole p. 254, § 91: A.H. 848–871 / A.D. 1444–1466)"
+  low: 1444
+  high: 1466
+  sources:
+  - lanepoole-1894
+- value: "1444–1445 to 1453–1454 (Zambaur § 246 p. 258: A.H. 848–857; tabular Islamic calendar, Julian years)"
+  low: 1444
+  high: 1454
+  sources:
+  - zambaur-1927
+note: "Reign as given from. Lane-Poole 1894 and/or. Zambaur 1927 (see source locators below). Start 1444 CE to 1445 CE; end 1453 CE to 1466 CE. Lane-Poole 1894, p. 254, § 91: A.H. 848 = 20 April 1444–9 April 1445 CE (Julian, tabular); ended A.H. 871 = 13 August 1466–1 August 1467 CE (Julian, tabular). Printed A.D. year(s): 1444–1466. Zambaur 1927, § 246 p. 258: A.H. 848 = 20 April 1444–9 April 1445 CE (Julian, tabular); ended A.H. 857 = 12 January 1453–1 January 1454 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept. Evidence: scholarly-or-primary."

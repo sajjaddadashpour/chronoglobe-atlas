@@ -7,5 +7,20 @@ latest: 935
 sources:
 - eir-ziyarids
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 927/928 or 931 - 934/935. Start 927 CE to 931 CE; end 934 CE to 935 CE. Iranica 931-35. The Wikipedia row cites: Ross 1977 p. 579. Evidence: scholarly-or-primary."
+alternatives:
+- value: 927–931 to 934–935 (existing reading)
+  low: 927
+  high: 935
+  sources:
+  - eir-ziyarids
+  - wp-en-list-of-monarchs-of-iran
+- value: "928-935 (Lane-Poole p. 137, § 56: A.H. 316–323 / A.D. 928–935) / 927–928 to 934–935 (Zambaur § 201 p. 210: A.H. 315–323; tabular Islamic calendar, Julian years)"
+  low: 927
+  high: 935
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 927/928 or 931 - 934/935. Start 927 CE to 931 CE; end 934 CE to 935 CE. Iranica 931-35. The Wikipedia row cites: Ross 1977 p. 579. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 137, § 56: A.H. 316 = 25 February 928–12 February 929 CE (Julian, tabular); ended A.H. 323 = 11 December 934–29 November 935 CE (Julian, tabular). Printed A.D. year(s): 928–935. Zambaur 1927, § 201 p. 210: A.H. 315 = 8 March 927–24 February 928 CE (Julian, tabular); ended A.H. 323 = 11 December 934–29 November 935 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

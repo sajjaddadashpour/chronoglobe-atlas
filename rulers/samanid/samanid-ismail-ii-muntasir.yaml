@@ -6,5 +6,6 @@ earliest: 999
 latest: 1005
 sources:
 - wp-en-list-of-monarchs-of-iran
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: 999–1005. Start 999 CE; end 1005 CE. The Wikipedia row cites: Daryaee 2012 p. 395; Baumer 2016 The Samanids. Evidence: secondary-only."
+note: "Reign as given: 999–1005. Start 999 CE; end 1005 CE. The Wikipedia row cites: Daryaee 2012 p. 395; Baumer 2016 The Samanids. Evidence: scholarly-or-primary. Zambaur 1927, § 190 p. 202: A.H. 390 = 13 December 999–1 December 1000 CE (Julian, tabular); ended Rabi' I 395 = 16 December 1004–14 January 1005 CE (Julian). Killed in Rabi' I 395. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

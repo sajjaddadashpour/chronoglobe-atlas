@@ -1,0 +1,22 @@
+id: aq-qoyunlu-hamza
+name: Hamza
+title: beg
+polity: aq-qoyunlu
+earliest: 1406
+latest: 1445
+sources:
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: "1406-1444 (Lane-Poole p. 254, § 91: A.H. 809–848 / A.D. 1406–1444)"
+  low: 1406
+  high: 1444
+  sources:
+  - lanepoole-1894
+- value: "1435–1436 to 1444–1445 (Zambaur § 246 p. 258: A.H. 839–848; tabular Islamic calendar, Julian years)"
+  low: 1435
+  high: 1445
+  sources:
+  - zambaur-1927
+note: "Reign as given from. Lane-Poole 1894 and/or. Zambaur 1927 (see source locators below). Start 1406 CE to 1436 CE; end 1444 CE to 1445 CE. Lane-Poole 1894, p. 254, § 91: A.H. 809 = 18 June 1406–6 June 1407 CE (Julian, tabular); ended A.H. 848 = 20 April 1444–9 April 1445 CE (Julian, tabular). Printed A.D. year(s): 1406–1444. Zambaur 1927, § 246 p. 258: A.H. 839 = 27 July 1435–14 July 1436 CE (Julian, tabular); ended A.H. 848 = 20 April 1444–9 April 1445 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept. Evidence: scholarly-or-primary."

@@ -7,5 +7,20 @@ latest: 1062
 sources:
 - eir-buyids
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 1048–1062. Start 1048 CE; end 1062 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1048 to 1062 (existing reading)
+  low: 1048
+  high: 1062
+  sources:
+  - eir-buyids
+  - wp-en-list-of-monarchs-of-iran
+- value: "1048-1056 (Lane-Poole p. 141 (Kirman, last): A.H. 440–448 / A.D. 1048–1056) / 1048–1049 to 1056–1057 (Zambaur § 204 p. 213 (Kirman): A.H. 440–448; tabular Islamic calendar, Julian years)"
+  low: 1048
+  high: 1057
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 1048–1062. Start 1048 CE; end 1062 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 141 (Kirman, last): A.H. 440 = 16 June 1048–4 June 1049 CE (Julian, tabular); ended A.H. 448 = 21 March 1056–9 March 1057 CE (Julian, tabular). Printed A.D. year(s): 1048–1056. Zambaur 1927, § 204 p. 213 (Kirman): A.H. 440 = 16 June 1048–4 June 1049 CE (Julian, tabular); ended A.H. 448 = 21 March 1056–9 March 1057 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

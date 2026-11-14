@@ -3,9 +3,29 @@ name: Masʽud
 title: amir / sultan
 polity: ghaznavid
 earliest: 1030
-latest: 1040
+latest: 1042
 sources:
 - eir-ghaznavids
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 1030 – 23 May 1040. Start 1030 CE; end 1040 CE. Defeated at Dandānqān 1040; Iran-relevant list ends here. Later Ghaznavid sultans (to 1186) not imported. The Wikipedia row cites: Ross 1977 p. 230. Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1030 to 1040 (existing reading)
+  low: 1030
+  high: 1040
+  sources:
+  - eir-ghaznavids
+  - wp-en-list-of-monarchs-of-iran
+- value: "1030-1040 (Lane-Poole p. 289: A.H. 421–432 / A.D. 1030–1040)"
+  low: 1030
+  high: 1040
+  sources:
+  - lanepoole-1894
+- value: "1030 to 1042 (Zambaur § 260 p. 282: A.H. 421–433; tabular Islamic calendar, Julian years)"
+  low: 1030
+  high: 1042
+  sources:
+  - zambaur-1927
+  note: "Official accession at Herat in Dhu l-Qa'da 421. Assassinated 11 Jumada I 433. A second reign of Muhammad in 432, defeated and killed in 433, sits between Mas'ud I and Mawdud."
+note: "Reign as given: 1030 – 23 May 1040. Start 1030 CE; end 1040 CE. Defeated at Dandānqān 1040; Iran-relevant list ends here. Later Ghaznavid sultans (to 1186) not imported. The Wikipedia row cites: Ross 1977 p. 230. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 289: A.H. 421 = 9 January 1030–28 December 1030 CE (Julian, tabular); ended A.H. 432 = 11 September 1040–30 August 1041 CE (Julian, tabular). Printed A.D. year(s): 1030–1040. Zambaur 1927, § 260 p. 282: Shawwal 421 = 2 October 1030–30 October 1030 CE (Julian); ended 6 January 1042 CE (Julian; A.H. 11 Jumada I 433). Official accession at Herat in Dhu l-Qa'da 421. Assassinated 11 Jumada I 433. A second reign of Muhammad in 432, defeated and killed in 433, sits between Mas'ud I and Mawdud. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

@@ -6,5 +6,19 @@ earliest: 1378
 latest: 1389
 sources:
 - wp-en-list-of-rulers-of-qara-qoyunlu
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 1378/80 - 1388/89. Start 1378 CE to 1380 CE; end 1388 CE to 1389 CE. Evidence: secondary-only."
+alternatives:
+- value: 1378–1380 to 1388–1389 (existing reading)
+  low: 1378
+  high: 1389
+  sources:
+  - wp-en-list-of-rulers-of-qara-qoyunlu
+- value: "1378-1388 (Lane-Poole p. 253, § 90: A.H. 780–790 / A.D. 1378–1388) / 1378–1379 to 1388 (Zambaur § 245 p. 257: A.H. 780–790; tabular Islamic calendar, Julian years)"
+  low: 1378
+  high: 1388
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 1378/80 - 1388/89. Start 1378 CE to 1380 CE; end 1388 CE to 1389 CE. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 253, § 90: A.H. 780 = 30 April 1378–19 April 1379 CE (Julian, tabular); ended A.H. 790 = 11 January 1388–29 December 1388 CE (Julian, tabular). Printed A.D. year(s): 1378–1388. Zambaur 1927, § 245 p. 257: A.H. 780 = 30 April 1378–19 April 1379 CE (Julian, tabular); ended A.H. 790 = 11 January 1388–29 December 1388 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

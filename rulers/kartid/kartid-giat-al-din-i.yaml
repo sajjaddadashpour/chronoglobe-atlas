@@ -2,10 +2,12 @@ id: kartid-giat-al-din-i
 name: Ḡiāṯ-al-Din I
 title: malik
 polity: kartid
-earliest: 1308
+earliest: 1306
 latest: 1329
 sources:
 - eir-al-e-kart
 - wp-en-kart-dynasty
+- lanepoole-1894
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: 1308 - 1328/29. Start 1308 CE; end 1328 CE to 1329 CE. Evidence: scholarly-or-primary."
+note: "Reign as given: 1308 - 1328/29. Start 1308 CE; end 1328 CE to 1329 CE. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 252, § 89: A.H. 708 = 21 June 1308–9 June 1309 CE (Julian, tabular); ended A.H. 729 = 5 November 1328–24 October 1329 CE (Julian, tabular). Printed A.D. year(s): 1308–1328. Zambaur 1927, § 244 pp. 256–257: A.H. 706 = 13 July 1306–1 July 1307 CE (Julian, tabular); ended A.H. 729 = 5 November 1328–24 October 1329 CE (Julian, tabular). Had Chupan killed in 728. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

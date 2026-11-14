@@ -86,3 +86,30 @@ These labels come from the GPL historical-basemaps files. They are listed so the
 - Old dates were single integers. New dates carry `earliest`/`latest`, `display`, `confidence`, `sources`, and `alternatives` where sources disagree.
 - Old `confidence` values (`parsed-list`, `curated-verified`) mixed provenance with certainty. New: `confidence` (one of the six labels) plus `evidence` (scholarly-or-primary / news / secondary-only).
 - Ruler roles (head of state vs head of government vs rival claimant vs puppet) are now explicit (`title`, `role`).
+
+## 4. Iran pass 2: Lane-Poole (1894), Zambaur (1927) and Potts (1999)
+
+Sources: `lanepoole-1894`, `zambaur-1927` (consulted via Chief of Staff transcriptions of archive.org page images; both superseded by Bosworth 1996) and the already-listed `potts-elam` (now consulted for pp. 4–5, 259–262). Schema unchanged.
+
+### Wikipedia-only rows supported or replaced
+
+69 of the 248 Wikipedia-only Iran ruler rows now cite one or both manuals. The remaining 179 are mostly in dynasties these books do not cover (Sasanian, Parthian, Ilkhanate, Umayyad, Seleucid, Safavid and later) or in lines whose tables were not copied (Seljuks of Iraq, a few stray names). Where the book dates agree with the current data within one year, the row stays as it was and the book is added as a consulted source.
+
+### Date disagreements of more than one year
+
+When a book differs from the current Iranica or Wikipedia reading by more than a year, the fact is `contested` and each reading is kept as an alternative with its own source. 22 existing rulers were newly marked contested; 4 already-contested rulers gained book alternatives; 7 newly added rulers are contested because the two books disagree with each other. The ten largest disagreements are listed in CONTESTED.md (Iran pass 2).
+
+Notable corrections to unknown or placeholder bounds:
+
+- Ḥasan-e Kūček: pass 1 had a start of 738/1338 and used the polity end 1357 as a placeholder. Zambaur § 241 gives accession in 728 (17 Nov 1327–5 Nov 1328) and death on 27 Rajab 744 (15 Dec 1343).
+- Malek Ašraf: pass 1 start was the polity bound 1335; Zambaur gives 27 Rajab 744 (15 Dec 1343). His end remains Iranica 758/1357 (Zambaur closes the line in 756).
+- Abu Saʿid Mirza: the Wikipedia Iran list ended him in 1458 (loss of western Iran). Lane-Poole closes his supreme reign at 872/1467; Zambaur gives his death as 25 Rajab 873 (8 February 1469).
+- Several Jalayirid starts that had been filled with the polity start 1336 (Ovays II, Moḥammad, Ḥosayn II) now have Zambaur accession years. Solṭān Maḥmud's unknown end is no longer the polity bound 1432.
+
+### Rulers added
+
+79 rulers that appear in the books with both years printed, plus Mar-biti-apla-usur (Potts 1999 p. 262, 984–979 BC). They include the Abbasid caliphs after 861 (an open question of pass 1), the Ghaznavid sultans after Masʿud I, missing Buyid, Sarbadar, Muzaffarid and Aq Qoyunlu princes, Tahir III, Ahmad b. Asad, and others listed in the pass-2 README and in the pull-request report. Later Saffarids of Nimruz (Zambaur's 3rd and 4th family groups, after 460/1068) were not added, because the `saffarid` polity record ends in 1003.
+
+### Elam
+
+Potts 1999 p. 4 cannot "in all honesty speak of Elam before c. 2600–2500 BC". That start is a new contested alternative on `elam`, alongside the Iranica Proto-Elamite, first-attested-name, and Awan readings. Tables 5.4/5.5 (Shimashkian kings) were not transcribed row by row, so dated Shimashkian kings could not be added from Potts.

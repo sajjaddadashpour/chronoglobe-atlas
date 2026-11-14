@@ -2,9 +2,11 @@ id: saffarid-amr-i
 name: Amr I
 title: amir
 polity: saffarid
-earliest: 879
-latest: 901
+earliest: 878
+latest: 902
 sources:
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: 879–901. Start 879 CE; end 901 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: secondary-only."
+note: "Reign as given: 879–901. Start 879 CE; end 901 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 130: A.H. 265 = 3 September 878–23 August 879 CE (Julian, tabular); ended A.H. 287 = 7 January 900–26 December 900 CE (Julian, tabular). Printed A.D. year(s): 878–900. Zambaur 1927, § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 265 = 3 September 878–23 August 879 CE (Julian, tabular); ended A.H. 289 = 16 December 901–5 December 902 CE (Julian, tabular). Assassinated at Baghdad in 289. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

@@ -3,8 +3,27 @@ name: "Abu Sa'id Mirza"
 title: amir / sultan
 polity: timurid
 earliest: 1451
-latest: 1458
+latest: 1469
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 1451/1452–1458. Start 1451 CE to 1452 CE; end 1458 CE. The Wikipedia Iran list stops at 1458 (loss of western Iran); he ruled in the east until 1469 (old dataset) - not verified this pass. The Wikipedia row cites: Ross 1977 p. 536; Sicker 2000 p. 172. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1451–1452 to 1458 (existing reading)
+  low: 1451
+  high: 1458
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "1452-1467 (Lane-Poole p. 268: A.H. 855–872 / A.D. 1452–1467)"
+  low: 1452
+  high: 1467
+  sources:
+  - lanepoole-1894
+- value: "1451–1452 to 1469 (Zambaur § 251 p. 269 (supreme line): A.H. 855–873; tabular Islamic calendar, Julian years)"
+  low: 1451
+  high: 1469
+  sources:
+  - zambaur-1927
+  note: Died 25 Rajab 873.
+note: "Reign as given: 1451/1452–1458. Start 1451 CE to 1452 CE; end 1458 CE. The Wikipedia Iran list stops at 1458 (loss of western Iran); he ruled in the east until 1469 (old dataset) - not verified this pass. The Wikipedia row cites: Ross 1977 p. 536; Sicker 2000 p. 172. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 268: A.H. 855 = 3 February 1451–22 January 1452 CE (Julian, tabular); ended A.H. 872 = 2 August 1467–20 July 1468 CE (Julian, tabular). Printed A.D. year(s): 1452–1467. Zambaur 1927, § 251 p. 269 (supreme line): A.H. 855 = 3 February 1451–22 January 1452 CE (Julian, tabular); ended 8 February 1469 CE (Julian; A.H. 25 Rajab 873). Died 25 Rajab 873. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

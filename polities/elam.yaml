@@ -1,13 +1,37 @@
 id: elam
 name: Elam
-kind: state
 earliest: -3300
 latest: -539
 sources:
 - eir-elam-i
 - wp-en-elam
+- potts-elam
 confidence: contested
 alternatives:
+- value: "start: c. 3200 BCE (Proto-Elamite period)"
+  low: -3300
+  high: -3100
+  sources:
+  - eir-elam-i
+  note: Reading labelled estimate. Vallat dates the Proto-Elamite period from c. 3200 BCE. Bounds 3300-3100 BCE.
+- value: "start: c. 2650 BCE (name Elam first attested)"
+  low: -2650
+  high: -2650
+  sources:
+  - eir-elam-i
+  note: Reading labelled estimate.
+- value: "start: c. 2400 BCE (Awan dynasty)"
+  low: -2400
+  high: -2400
+  sources:
+  - eir-elam-i
+  note: Reading labelled estimate.
+- value: "start: c. 2600–2500 BC (minimalist: cannot speak of Elam before the name NIM/Elam)"
+  low: -2600
+  high: -2500
+  sources:
+  - potts-elam
+  note: Potts 1999 (1st ed.) p. 4. Verify against page; read at screen resolution. Consulted via Chief of Staff transcription of archive.org page images.
 - value: "end: 646 BCE (sack of Susa by Ashurbanipal)"
   low: -646
   high: -646
@@ -20,4 +44,5 @@ alternatives:
   sources:
   - eir-elam-i
   note: Reading labelled estimate.
-note: "Persian name: ایلام (تمدن ایلام) (fa.wikipedia article title, source wp-fa-langlinks; secondary). Also called: Elamite kingdoms; Anshan and Susa. Kind (draft wording): kingdom / succession of dynasties (federal highland-lowland state). Start: c. 3200 BCE (Proto-Elamite period) [estimate; bounds 3300 BCE to 3100 BCE; eir-elam-i]. Vallat dates the Proto-Elamite period from c. 3200 BCE; the name \"Elam\" is first attested c. 2650 BCE. Starting the polity at Proto-Elamite rather than at the first attested dynasty (Awan, c. 2400) is a framing choice. The old chronoglobe 5000 BCE start has no support in the sources read. Other readings (bound not contested): c. 2650 BCE (name Elam first attested) [estimate; eir-elam-i]; c. 2400 BCE (Awan dynasty) [estimate; eir-elam-i]. End: 646 BCE (sack of Susa) or 539 BCE (conquest of Susiana) [contested; bounds 646 BCE to 539 BCE; eir-elam-i]. Ashurbanipal sacked Susa in 646 BCE, but Vallat shows a Neo-Elamite III kingdom continued (646-539?); Susiana was conquered \"perhaps by Cyrus in 539\". Default display end: 539 BCE. Record label contested is the weaker of the start label (estimate) and end label (contested); see docs/iran/README.md. Successors: achaemenid (Susiana absorbed by the Persians (Cyrus?); Anshan was already ruled by the early Achaemenids/Teispids). Royal title \"king of Anshan and Susa\". Wikidata: Q128904 (via wp-fa-langlinks; verify item scope before use). Further reading, not consulted this pass: potts-elam."
+note: "Persian name: ایلام (تمدن ایلام) (fa.wikipedia article title, source wp-fa-langlinks; secondary). Also called: Elamite kingdoms; Anshan and Susa. Kind (draft wording): kingdom / succession of dynasties (federal highland-lowland state). Start: c. 3200 BCE (Proto-Elamite period) [estimate; bounds 3300 BCE to 3100 BCE; eir-elam-i]. Vallat dates the Proto-Elamite period from c. 3200 BCE; the name \"Elam\" is first attested c. 2650 BCE. Starting the polity at Proto-Elamite rather than at the first attested dynasty (Awan, c. 2400) is a framing choice. The old chronoglobe 5000 BCE start has no support in the sources read. Other readings (bound not contested): c. 2650 BCE (name Elam first attested) [estimate; eir-elam-i]; c. 2400 BCE (Awan dynasty) [estimate; eir-elam-i]. End: 646 BCE (sack of Susa) or 539 BCE (conquest of Susiana) [contested; bounds 646 BCE to 539 BCE; eir-elam-i]. Ashurbanipal sacked Susa in 646 BCE, but Vallat shows a Neo-Elamite III kingdom continued (646-539?); Susiana was conquered \"perhaps by Cyrus in 539\". Default display end: 539 BCE. Record label contested is the weaker of the start label (estimate) and end label (contested); see docs/iran/README.md. Successors: achaemenid (Susiana absorbed by the Persians (Cyrus?); Anshan was already ruled by the early Achaemenids/Teispids). Royal title \"king of Anshan and Susa\". Wikidata: Q128904 (via wp-fa-langlinks; verify item scope before use). Potts 1999 (1st ed.) p. 4, consulted via Chief of Staff transcription of archive.org page images, cannot in all honesty speak of Elam before c. 2600-2500 BC (minimalist position, keyed to the Mesopotamian term NIM/Elam). That start is kept as a contested alternative. On pp. 4-5 Potts also argues that absorption into the Achaemenid empire does not mark Elam's demise, and that the name drops out of Nestorian ecclesiastical sources after the Islamic conquest; that is a cultural endpoint, not used here as a political end date. Tables 5.4/5.5 (Shimashkian kings) were not transcribed row by row, so dated Shimashkian kings could not be added from Potts this pass. Tag: verify against page; read at screen resolution."
+kind: state

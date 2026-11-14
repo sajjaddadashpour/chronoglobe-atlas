@@ -6,5 +6,19 @@ earliest: 1092
 latest: 1104
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: October/November 1092 – 22 December 1104. Start 1092 CE; end 1104 CE. The Wikipedia row cites: Luther 2001 p. 67; Luther 2001 p. 71. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1092 to 1104 (existing reading)
+  low: 1092
+  high: 1104
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "1094-1104 (Lane-Poole p. 153 (A. Great Seljuks): A.H. 487–498 / A.D. 1094–1104) / 1094–1095 to 1104 (Zambaur § 210 p. 221: A.H. 487–498; tabular Islamic calendar, Julian years)"
+  low: 1094
+  high: 1104
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: October/November 1092 – 22 December 1104. Start 1092 CE; end 1104 CE. The Wikipedia row cites: Luther 2001 p. 67; Luther 2001 p. 71. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 153 (A. Great Seljuks): A.H. 487 = 21 January 1094–9 January 1095 CE (Julian, tabular); ended A.H. 498 = 23 September 1104–11 September 1105 CE (Julian, tabular). Printed A.D. year(s): 1094–1104. Zambaur 1927, § 210 p. 221: A.H. 487 = 21 January 1094–9 January 1095 CE (Julian, tabular); ended 23 December 1104 CE (Julian; A.H. 3 Rabi' II 498) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

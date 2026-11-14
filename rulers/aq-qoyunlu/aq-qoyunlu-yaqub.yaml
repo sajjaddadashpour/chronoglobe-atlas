@@ -3,8 +3,10 @@ name: Yaqub
 title: bey / sultan
 polity: aq-qoyunlu
 earliest: 1478
-latest: 1490
+latest: 1491
 sources:
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: 1478–1490. Start 1478 CE; end 1490 CE. The Wikipedia row cites: Truhart 1985 p. 2043. Evidence: secondary-only."
+note: "Reign as given: 1478–1490. Start 1478 CE; end 1490 CE. The Wikipedia row cites: Truhart 1985 p. 2043. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 254, § 91: A.H. 884 = 25 March 1479–13 March 1480 CE (Julian, tabular); ended A.H. 896 = 14 November 1490–2 November 1491 CE (Julian, tabular). Printed A.D. year(s): 1479–1490. Zambaur 1927, § 246 p. 258: A.H. 884 = 25 March 1479–13 March 1480 CE (Julian, tabular); ended A.H. 896 = 14 November 1490–2 November 1491 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

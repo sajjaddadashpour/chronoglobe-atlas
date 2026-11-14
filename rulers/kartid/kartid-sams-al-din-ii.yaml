@@ -7,5 +7,21 @@ latest: 1306
 sources:
 - eir-al-e-kart
 - wp-en-kart-dynasty
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 1277/78 - 1295 (Wikipedia) or d. 1305/06 (Iranica). Start 1277 CE to 1278 CE; end 1295 CE to 1306 CE. Evidence: scholarly-or-primary."
+alternatives:
+- value: 1277–1278 to 1295–1306 (existing reading)
+  low: 1277
+  high: 1306
+  sources:
+  - eir-al-e-kart
+  - wp-en-kart-dynasty
+- value: "1278-1283 (Lane-Poole p. 252, § 89: A.H. 677–682 / A.D. 1278–1283) / 1278–1279 to 1283–1284 (Zambaur § 244 pp. 256–257: A.H. 677–682; tabular Islamic calendar, Julian years)"
+  low: 1278
+  high: 1284
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: Printed 677-82 / 1278-83 as contemporary with Shams al-Din I. Coregent 677-682.
+note: "Reign as given: 1277/78 - 1295 (Wikipedia) or d. 1305/06 (Iranica). Start 1277 CE to 1278 CE; end 1295 CE to 1306 CE. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 252, § 89: A.H. 677 = 25 May 1278–14 May 1279 CE (Julian, tabular); ended A.H. 682 = 1 April 1283–20 March 1284 CE (Julian, tabular). Printed A.D. year(s): 1278–1283. Printed 677-82 / 1278-83 as contemporary with Shams al-Din I. Zambaur 1927, § 244 pp. 256–257: A.H. 677 = 25 May 1278–14 May 1279 CE (Julian, tabular); ended A.H. 682 = 1 April 1283–20 March 1284 CE (Julian, tabular). Coregent 677-682. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

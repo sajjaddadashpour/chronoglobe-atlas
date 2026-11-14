@@ -2,9 +2,11 @@ id: samanid-nuh-i
 name: Nuh I
 title: amir
 polity: samanid
-earliest: 943
+earliest: 942
 latest: 955
 sources:
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: April/May 943 – 954/955. Start 943 CE; end 954 CE to 955 CE. The Wikipedia row cites: Ross 1977 p. 480. Evidence: secondary-only."
+note: "Reign as given: April/May 943 – 954/955. Start 943 CE; end 954 CE to 955 CE. The Wikipedia row cites: Ross 1977 p. 480. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 132: A.H. 331 = 15 September 942–3 September 943 CE (Julian, tabular); ended A.H. 343 = 7 May 954–25 April 955 CE (Julian, tabular). Printed A.D. year(s): 942–954. Zambaur 1927, § 190 p. 202: Sha'ban 331 = 10 April 943–8 May 943 CE (Julian); ended A.H. 343 = 7 May 954–25 April 955 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

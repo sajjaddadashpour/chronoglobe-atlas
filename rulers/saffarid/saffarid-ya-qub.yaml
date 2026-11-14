@@ -7,5 +7,20 @@ latest: 879
 sources:
 - eir-saffarids
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 861/867 - 879. Start 861 CE to 867 CE; end 879 CE. Iranica dates Saffarid power from 247/861. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary."
+alternatives:
+- value: 861–867 to 879 (existing reading)
+  low: 861
+  high: 879
+  sources:
+  - eir-saffarids
+  - wp-en-list-of-monarchs-of-iran
+- value: "868-878 (Lane-Poole p. 130: A.H. 254–265 / A.D. 868–878) / 868 to 878–879 (Zambaur § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 254–265; tabular Islamic calendar, Julian years)"
+  low: 868
+  high: 879
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 861/867 - 879. Start 861 CE to 867 CE; end 879 CE. Iranica dates Saffarid power from 247/861. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 130: A.H. 254 = 1 January 868–20 December 868 CE (Julian, tabular); ended A.H. 265 = 3 September 878–23 August 879 CE (Julian, tabular). Printed A.D. year(s): 868–878. Zambaur 1927, § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 254 = 1 January 868–20 December 868 CE (Julian, tabular); ended A.H. 265 = 3 September 878–23 August 879 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."
