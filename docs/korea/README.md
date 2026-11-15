@@ -58,6 +58,8 @@ Facts whose cited sources are only Wikipedia: **53 of 364 (14.6%)**. Almost all 
 
 ## Files
 
+- `POLITIES.md`: names, Wikidata ids, old chronoglobe ids and succession. Split old records (Gojoseon, Samhan, Gaya) are mapped to one best-matching atlas id.
+- `ID_MAP.md`: `polity/<id>` aliases for the site lookup path.
 - `CORRECTIONS.md`: what changes against old chronoglobe Korea data.
 - `CONTESTED.md`: scholarly disputes and every contested record.
 - `OPEN_QUESTIONS.md`: gaps, dropped rows, flagged checks.
