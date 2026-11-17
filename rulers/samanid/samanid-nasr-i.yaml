@@ -2,9 +2,27 @@ id: samanid-nasr-i
 name: Nasr I
 title: amir
 polity: samanid
-earliest: 875
+earliest: 864
 latest: 892
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 875 – August/September 892. Start 875 CE; end 892 CE. The Wikipedia row cites: Daryaee 2012 p. 395; Ross 1977 p. 480. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 875 to 892 (existing reading)
+  low: 875
+  high: 892
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "874-892 (Lane-Poole p. 132: A.H. 261–279 / A.D. 874–892)"
+  low: 874
+  high: 892
+  sources:
+  - lanepoole-1894
+- value: "864–865 to 892 (Zambaur § 190 p. 202: A.H. 250–279; tabular Islamic calendar, Julian years)"
+  low: 864
+  high: 892
+  sources:
+  - zambaur-1927
+note: "Reign as given: 875 – August/September 892. Start 875 CE; end 892 CE. The Wikipedia row cites: Daryaee 2012 p. 395; Ross 1977 p. 480. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 132: A.H. 261 = 16 October 874–4 October 875 CE (Julian, tabular); ended A.H. 279 = 3 April 892–22 March 893 CE (Julian, tabular). Printed A.D. year(s): 874–892. Zambaur 1927, § 190 p. 202: A.H. 250 = 13 February 864–31 January 865 CE (Julian, tabular); ended Jumada II 279 = 29 August 892–26 September 892 CE (Julian) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

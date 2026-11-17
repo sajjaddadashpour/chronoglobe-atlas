@@ -3,9 +3,28 @@ name: Uzun Hasan
 title: bey / sultan
 polity: aq-qoyunlu
 earliest: 1452
-latest: 1478
+latest: 1479
 sources:
 - eir-aq-qoyunlu
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: autumn 1452 (Āmed) - 1478; over Iran from 1467/69. Start 1452 CE to 1453 CE; end 1478 CE. Iranica: seized Āmed autumn 1452; Wikipedia Iran list counts from 1465/1469. The Wikipedia row cites: Truhart 1985 p. 2043. Evidence: scholarly-or-primary."
+alternatives:
+- value: 1452–1453 to 1478 (existing reading)
+  low: 1452
+  high: 1478
+  sources:
+  - eir-aq-qoyunlu
+  - wp-en-list-of-monarchs-of-iran
+- value: "1466-1478 (Lane-Poole p. 254, § 91: A.H. 871–883 / A.D. 1466–1478)"
+  low: 1466
+  high: 1478
+  sources:
+  - lanepoole-1894
+- value: "1453–1454 to 1478–1479 (Zambaur § 246 p. 258: A.H. 857–883; tabular Islamic calendar, Julian years)"
+  low: 1453
+  high: 1479
+  sources:
+  - zambaur-1927
+note: "Reign as given: autumn 1452 (Āmed) - 1478; over Iran from 1467/69. Start 1452 CE to 1453 CE; end 1478 CE. Iranica: seized Āmed autumn 1452; Wikipedia Iran list counts from 1465/1469. The Wikipedia row cites: Truhart 1985 p. 2043. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 254, § 91: A.H. 871 = 13 August 1466–1 August 1467 CE (Julian, tabular); ended A.H. 883 = 4 April 1478–23 March 1479 CE (Julian, tabular). Printed A.D. year(s): 1466–1478. Zambaur 1927, § 246 p. 258: A.H. 857 = 12 January 1453–1 January 1454 CE (Julian, tabular); ended A.H. 883 = 4 April 1478–23 March 1479 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

@@ -2,10 +2,26 @@ id: ziyarid-qabus
 name: Qabus
 title: amir
 polity: ziyarid
-earliest: 977
+earliest: 976
 latest: 1013
 sources:
 - eir-ziyarids
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 977/978 - 981 and 997/998 - 1012/1013. Start 977 CE to 978 CE; end 1012 CE to 1013 CE. Iranica: 978-81 and 997-1012 (exile in between). Wikipedia: restored 998. The Wikipedia row cites: Ross 1977 p. 579. Evidence: scholarly-or-primary."
+alternatives:
+- value: 977–978 to 1012–1013 (existing reading)
+  low: 977
+  high: 1013
+  sources:
+  - eir-ziyarids
+  - wp-en-list-of-monarchs-of-iran
+- value: "976-1012 (Lane-Poole p. 137, § 56: A.H. 366–403 / A.D. 976–1012) / 976–977 to 1012–1013 (Zambaur § 201 p. 210: A.H. 366–403; tabular Islamic calendar, Julian years)"
+  low: 976
+  high: 1013
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: In exile 371-388.
+note: "Reign as given: 977/978 - 981 and 997/998 - 1012/1013. Start 977 CE to 978 CE; end 1012 CE to 1013 CE. Iranica: 978-81 and 997-1012 (exile in between). Wikipedia: restored 998. The Wikipedia row cites: Ross 1977 p. 579. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 137, § 56: A.H. 366 = 30 August 976–19 August 977 CE (Julian, tabular); ended A.H. 403 = 23 July 1012–11 July 1013 CE (Julian, tabular). Printed A.D. year(s): 976–1012. Zambaur 1927, § 201 p. 210: A.H. 366 = 30 August 976–19 August 977 CE (Julian, tabular); ended A.H. 403 = 23 July 1012–11 July 1013 CE (Julian, tabular). In exile 371-388. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

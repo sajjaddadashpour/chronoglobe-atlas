@@ -2,9 +2,22 @@ id: chobanid-hasan-e-kucek
 name: "Ḥasan-e Kūček (Shaikh Ḥasan \"the Lesser\")"
 title: amir (kingmaker in Tabriz)
 polity: chobanid
-earliest: 1338
-latest: 1357
+earliest: 1327
+latest: 1343
 sources:
 - eir-chobanids
-confidence: scholarly-consensus
-note: "Reign as given: from 738/1338. Start 1338 CE; end unknown. End year unknown; latest is the polity end bound (1357 CE), not a reign date. End date not extracted from the source read (open question). Evidence: scholarly-or-primary."
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1338 to unknown (existing reading)
+  low: 1338
+  high: 1338
+  sources:
+  - eir-chobanids
+- value: "1327–1328 to 1343 (Zambaur § 241 p. 255: A.H. 728–744; tabular Islamic calendar, Julian years)"
+  low: 1327
+  high: 1343
+  sources:
+  - zambaur-1927
+  note: Victory over his Jalayirid namesake in 738; assassinated by his wife on 27 Rajab 744.
+note: "Reign as given: from 738/1338. Start 1338 CE; end unknown. End year unknown; latest is the polity end bound (1357 CE), not a reign date. End date not extracted from the source read (open question). [Iran pass 2: that unknown bound has now been filled from Lane-Poole and/or Zambaur; earliest/latest are no longer the polity placeholder.] Evidence: scholarly-or-primary. Zambaur 1927, § 241 p. 255: A.H. 728 = 17 November 1327–5 November 1328 CE (Julian, tabular); ended 15 December 1343 CE (Julian; A.H. 27 Rajab 744). Victory over his Jalayirid namesake in 738; assassinated by his wife on 27 Rajab 744. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

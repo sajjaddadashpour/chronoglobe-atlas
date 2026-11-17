@@ -2,10 +2,24 @@ id: saffarid-khalaf
 name: Khalaf
 title: amir
 polity: saffarid
-earliest: 963
-latest: 1003
+earliest: 955
+latest: 1009
 sources:
 - eir-saffarids
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 963 - 1002/1003. Start 963 CE; end 1002 CE to 1003 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary."
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 963 to 1002–1003 (existing reading)
+  low: 963
+  high: 1003
+  sources:
+  - eir-saffarids
+  - wp-en-list-of-monarchs-of-iran
+- value: "955–956 to 1008–1009 (Zambaur § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 344–399; tabular Islamic calendar, Julian years)"
+  low: 955
+  high: 1009
+  sources:
+  - zambaur-1927
+  note: Died 399.
+note: "Reign as given: 963 - 1002/1003. Start 963 CE; end 1002 CE to 1003 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Zambaur 1927, § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 344 = 27 April 955–15 April 956 CE (Julian, tabular); ended A.H. 399 = 5 September 1008–24 August 1009 CE (Julian, tabular) (accession marked circa / environ / '?'). Died 399. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

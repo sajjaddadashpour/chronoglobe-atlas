@@ -7,5 +7,20 @@ latest: 1338
 sources:
 - eir-sarbedars
 - wp-en-sarbadars
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 1337 (Sabzevār) - June 1338. Start 1332 CE to 1337 CE; end 1338 CE. Wikipedia gives 1332-1338 in one list and 1336-1338 in another. Evidence: scholarly-or-primary."
+alternatives:
+- value: 1332–1337 to 1338 (existing reading)
+  low: 1332
+  high: 1338
+  sources:
+  - eir-sarbedars
+  - wp-en-sarbadars
+- value: "1337-1338 (Lane-Poole p. 251, § 88: A.H. 737–738 / A.D. 1337–1338) / 1336–1337 to 1337–1338 (Zambaur § 242 p. 256: A.H. 737–738; tabular Islamic calendar, Julian years)"
+  low: 1336
+  high: 1338
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 1337 (Sabzevār) - June 1338. Start 1332 CE to 1337 CE; end 1338 CE. Wikipedia gives 1332-1338 in one list and 1336-1338 in another. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 251, § 88: A.H. 737 = 10 August 1336–30 July 1337 CE (Julian, tabular); ended A.H. 738 = 30 July 1337–18 July 1338 CE (Julian, tabular). Printed A.D. year(s): 1337–1338. Zambaur 1927, § 242 p. 256: A.H. 737 = 10 August 1336–30 July 1337 CE (Julian, tabular); ended A.H. 738 = 30 July 1337–18 July 1338 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

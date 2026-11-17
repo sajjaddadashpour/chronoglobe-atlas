@@ -1,0 +1,22 @@
+id: aq-qoyunlu-qara-yuluk-uthman
+name: Qara Yuluk Uthman
+title: beg
+polity: aq-qoyunlu
+earliest: 1378
+latest: 1436
+sources:
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: "1378-1406 (Lane-Poole p. 254, § 91: A.H. 780–809 / A.D. 1378–1406)"
+  low: 1378
+  high: 1406
+  sources:
+  - lanepoole-1894
+- value: "1378–1379 to 1435–1436 (Zambaur § 246 p. 258: A.H. 780–839; tabular Islamic calendar, Julian years)"
+  low: 1378
+  high: 1436
+  sources:
+  - zambaur-1927
+note: "Reign as given from. Lane-Poole 1894 and/or. Zambaur 1927 (see source locators below). Start 1378 CE to 1379 CE; end 1406 CE to 1436 CE. Lane-Poole 1894, p. 254, § 91: A.H. 780 = 30 April 1378–19 April 1379 CE (Julian, tabular); ended A.H. 809 = 18 June 1406–6 June 1407 CE (Julian, tabular). Printed A.D. year(s): 1378–1406. Zambaur 1927, § 246 p. 258: A.H. 780 = 30 April 1378–19 April 1379 CE (Julian, tabular); ended A.H. 839 = 27 July 1435–14 July 1436 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept. Evidence: scholarly-or-primary."

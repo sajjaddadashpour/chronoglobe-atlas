@@ -2,10 +2,26 @@ id: kartid-fakr-al-din
 name: Faḵr-al-Din
 title: malik
 polity: kartid
-earliest: 1295
+earliest: 1285
 latest: 1308
 sources:
 - eir-al-e-kart
 - wp-en-kart-dynasty
-confidence: scholarly-consensus
-note: "Reign as given: 1295–1308. Start 1295 CE; end 1308 CE. Died 1308 (Iranica). Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1295 to 1308 (existing reading)
+  low: 1295
+  high: 1308
+  sources:
+  - eir-al-e-kart
+  - wp-en-kart-dynasty
+- value: "1285-1308 (Lane-Poole p. 252, § 89: A.H. 684–708 / A.D. 1285–1308) / 1285–1286 to 1306–1307 (Zambaur § 244 pp. 256–257: A.H. 684–706; tabular Islamic calendar, Julian years)"
+  low: 1285
+  high: 1308
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: Friend of Amir Chupan.
+note: "Reign as given: 1295–1308. Start 1295 CE; end 1308 CE. Died 1308 (Iranica). Evidence: scholarly-or-primary. Lane-Poole 1894, p. 252, § 89: A.H. 684 = 9 March 1285–25 February 1286 CE (Julian, tabular); ended A.H. 708 = 21 June 1308–9 June 1309 CE (Julian, tabular). Printed A.D. year(s): 1285–1308. Zambaur 1927, § 244 pp. 256–257: A.H. 684 = 9 March 1285–25 February 1286 CE (Julian, tabular); ended A.H. 706 = 13 July 1306–1 July 1307 CE (Julian, tabular). Friend of Amir Chupan. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

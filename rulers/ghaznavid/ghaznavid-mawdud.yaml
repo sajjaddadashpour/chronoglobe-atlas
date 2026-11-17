@@ -1,0 +1,23 @@
+id: ghaznavid-mawdud
+name: Mawdud
+title: sultan
+polity: ghaznavid
+earliest: 1040
+latest: 1049
+sources:
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: "1040-1048 (Lane-Poole p. 289: A.H. 432–440 / A.D. 1040–1048)"
+  low: 1040
+  high: 1048
+  sources:
+  - lanepoole-1894
+- value: "1042 to 1048–1049 (Zambaur § 260 p. 282: A.H. 433–440; tabular Islamic calendar, Julian years)"
+  low: 1042
+  high: 1049
+  sources:
+  - zambaur-1927
+  note: Died Rajab 440.
+note: "Reign as given from. Lane-Poole 1894 and/or. Zambaur 1927 (see source locators below). Start 1040 CE to 1042 CE; end 1048 CE to 1049 CE. Lane-Poole 1894, p. 289: A.H. 432 = 11 September 1040–30 August 1041 CE (Julian, tabular); ended A.H. 440 = 16 June 1048–4 June 1049 CE (Julian, tabular). Printed A.D. year(s): 1040–1048. Zambaur 1927, § 260 p. 282: Sha'ban 433 = 26 March 1042–23 April 1042 CE (Julian); ended Rajab 440 = 10 December 1048–8 January 1049 CE (Julian). Died Rajab 440. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept. Evidence: scholarly-or-primary."

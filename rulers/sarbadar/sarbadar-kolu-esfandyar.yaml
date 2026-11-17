@@ -2,10 +2,25 @@ id: sarbadar-kolu-esfandyar
 name: Kolu Esfandyār
 title: leader
 polity: sarbadar
-earliest: 1346
+earliest: 1345
 latest: 1351
 sources:
 - eir-sarbedars
 - wp-en-sarbadars
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: 1347-51 (Iranica) / 1346-47 (Wikipedia). Start 1346 CE to 1347 CE; end 1347 CE to 1351 CE. Evidence: scholarly-or-primary."
+alternatives:
+- value: 1346–1347 to 1347–1351 (existing reading)
+  low: 1346
+  high: 1351
+  sources:
+  - eir-sarbedars
+  - wp-en-sarbadars
+- value: "1346-1346 (Lane-Poole p. 251, § 88: A.H. 746–747 / A.D. 1346–1346) / 1345–1346 to 1346–1347 (Zambaur § 242 p. 256: A.H. 746–747; tabular Islamic calendar, Julian years)"
+  low: 1345
+  high: 1347
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 1347-51 (Iranica) / 1346-47 (Wikipedia). Start 1346 CE to 1347 CE; end 1347 CE to 1351 CE. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 251, § 88: A.H. 746 = 4 May 1345–22 April 1346 CE (Julian, tabular); ended A.H. 747 = 24 April 1346–13 April 1347 CE (Julian, tabular). Printed A.D. year(s): 1346–1346. Zambaur 1927, § 242 p. 256: A.H. 746 = 4 May 1345–22 April 1346 CE (Julian, tabular); ended A.H. 747 = 24 April 1346–13 April 1347 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

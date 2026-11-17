@@ -7,5 +7,21 @@ latest: 1000
 sources:
 - eir-khorasan-vi
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: contested
-note: "Reign as given: Feb 999 - 999/1000. Start 999 CE; end 999 CE to 1000 CE. Iranica 999-1000. The Wikipedia row cites: Ross 1977 p. 480; Daryaee 2012 p. 395. Evidence: scholarly-or-primary."
+alternatives:
+- value: 999 to 999–1000 (existing reading)
+  low: 999
+  high: 1000
+  sources:
+  - eir-khorasan-vi
+  - wp-en-list-of-monarchs-of-iran
+- value: "accession 999 (Lane-Poole p. 132: A.H. 389 / A.D. 999; end year not printed) / 999 to 999 (Zambaur § 190 p. 202: A.H. 389–389; tabular Islamic calendar, Julian years)"
+  low: 999
+  high: 999
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: "Lane-Poole prints only the accession year 389/999; the table then ends. Captured 10 Dhu l-Qa'da 389 by the Ilek-Khan."
+note: "Reign as given: Feb 999 - 999/1000. Start 999 CE; end 999 CE to 1000 CE. Iranica 999-1000. The Wikipedia row cites: Ross 1977 p. 480; Daryaee 2012 p. 395. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 132: A.H. 389 = 23 December 998–11 December 999 CE (Julian, tabular); end year not printed. Printed A.D. year(s): 999. Lane-Poole prints only the accession year 389/999; the table then ends. Zambaur 1927, § 190 p. 202: Safar 389 = 22 January 999–19 February 999 CE (Julian); ended 23 October 999 CE (Julian; A.H. 10 Dhu l-Qa'da 389). Captured 10 Dhu l-Qa'da 389 by the Ilek-Khan. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

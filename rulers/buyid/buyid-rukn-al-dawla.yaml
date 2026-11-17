@@ -2,9 +2,28 @@ id: buyid-rukn-al-dawla
 name: Rukn al-Dawla (Hasan)
 title: amir
 polity: buyid
-earliest: 946
-latest: 976
+earliest: 932
+latest: 977
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 946/947 – 16 September 976. Start 946 CE to 947 CE; end 976 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Ross 1977 p. 112; Daryaee 2012 p. 394. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 946–947 to 976 (existing reading)
+  low: 946
+  high: 976
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "932-976 (Lane-Poole p. 142 (III. Rayy, Hamadhan, Ispahan): A.H. 320–366 / A.D. 932–976)"
+  low: 932
+  high: 976
+  sources:
+  - lanepoole-1894
+- value: "949 to 976–977 (Zambaur § 204 pp. 212–213 (emirat supérieur / Djabal): A.H. 338–366; tabular Islamic calendar, Julian years)"
+  low: 949
+  high: 977
+  sources:
+  - zambaur-1927
+  note: Emirat supérieur 16 Jumada I 338-366; Djabal from 335 to 366.
+note: "Reign as given: 946/947 – 16 September 976. Start 946 CE to 947 CE; end 976 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Ross 1977 p. 112; Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 142 (III. Rayy, Hamadhan, Ispahan): A.H. 320 = 13 January 932–31 December 932 CE (Julian, tabular); ended A.H. 366 = 30 August 976–19 August 977 CE (Julian, tabular). Printed A.D. year(s): 932–976. Zambaur 1927, § 204 pp. 212–213 (emirat supérieur / Djabal): 11 November 949 CE (Julian; A.H. 16 Jumada I 338); ended A.H. 366 = 30 August 976–19 August 977 CE (Julian, tabular). Emirat supérieur 16 Jumada I 338-366; Djabal from 335 to 366. Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

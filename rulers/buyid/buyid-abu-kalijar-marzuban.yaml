@@ -3,8 +3,10 @@ name: Abu Kalijar Marzuban
 title: amir
 polity: buyid
 earliest: 1024
-latest: 1048
+latest: 1049
 sources:
 - wp-en-list-of-monarchs-of-iran
+- lanepoole-1894
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: 1024–1048. Start 1024 CE; end 1048 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: secondary-only."
+note: "Reign as given: 1024–1048. Start 1024 CE; end 1048 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, pp. 141–142 (I. Fars): A.H. 415 = 15 March 1024–4 March 1025 CE (Julian, tabular); ended A.H. 440 = 16 June 1048–4 June 1049 CE (Julian, tabular). Printed A.D. year(s): 1024–1048. Combined regional or interrupted dates from the same book: 1024-1048 (Lane-Poole pp. 141–142 (I. Fars): A.H. 415–440 / A.D. 1024–1048) | 1028-1048 (Lane-Poole p. 141 (Kirman): A.H. 419–440 / A.D. 1028–1048). Zambaur 1927, § 204 p. 212 (Baghdad): Sha'ban 435 = 4 March 1044–1 April 1044 CE (Julian); ended A.H. 440 = 16 June 1048–4 June 1049 CE (Julian, tabular). Combined regional or interrupted dates from the same book: 1044 to 1048–1049 (Zambaur § 204 p. 212 (Baghdad): A.H. 435–440; tabular Islamic calendar, Julian years) | 1024–1025 to 1048–1049 (Zambaur § 204 p. 213 (Fars and Khuzistan): A.H. 415–440; tabular Islamic calendar, Julian years) | 1028–1029 to 1048–1049 (Zambaur § 204 p. 213 (Kirman): A.H. 419–440; tabular Islamic calendar, Julian years) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

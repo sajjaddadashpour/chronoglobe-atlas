@@ -1,9 +1,33 @@
-# Contested items (Iran first pass)
+# Contested items (Iran)
 
 Every fact below carries `confidence: contested`. Each reading and its sources stay in the record: in `alternatives` (value, low/high years where known, sources) and in `note`.
 The top section is a hand-written summary; the full list is generated from the records on this branch.
 
-## The ones that matter most for the globe
+
+## Iran pass 2 (Lane-Poole, Zambaur, Potts)
+
+22 existing rulers were newly marked `contested` because a consulted book differs from the current reading by more than a year, or the two books disagree with each other. 4 already-contested rulers gained book alternatives. 7 newly added rulers are contested for the same reason. The Elam polity, already contested, gained a Potts start reading (c. 2600–2500 BC). The later citation of Lane-Poole's Seljuks of Iraq table (p. 154) on this branch created no new contested facts: all nine dates agree with the current readings within one year.
+
+### The ten largest disagreements (existing records)
+
+Differences are measured against the current (Iranica or Wikipedia) start or end interval.
+
+1. **Mu'izz al-Dawla** (`buyid-mu-izz-al-dawla`). Current 935–950. Lane-Poole (Iraq list, p. 141) 320–356 / 932–967; Zambaur (Baghdad, then Kirman) likewise ends in 356/967. About 17 years on the end date.
+2. **Šams-al-Din II / Rokn-al-Din** (`kartid-sams-al-din-ii`). Already contested: Wikipedia 1277/78–1295, Iranica death 1305/06. Both books treat Rukn as a coregent only, 677–682 / 1278–1283, not as the sole ruler into the 1290s.
+3. **Rukn al-Dawla** (`buyid-rukn-al-dawla`). Current 946–976. Lane-Poole (Rayy list, p. 142) starts him at 320/932 (with his brothers); Zambaur's emirat supérieur starts him on 16 Jumada I 338 / 949.
+4. **Uzun Hasan** (`aq-qoyunlu-uzun-hasan`). Already contested: Iranica from autumn 1452 at Āmed. Lane-Poole p. 254 starts him at 871/1466; Zambaur § 246 at 857 (1453–54), close to Iranica.
+5. **Abu Saʿid Mirza** (`timurid-abu-sa-id-mirza`). The Wikipedia Iran list ends him in 1458 (loss of western Iran). Lane-Poole closes the supreme reign at 872/1467; Zambaur gives his death as 25 Rajab 873 (8 February 1469).
+6. **Ḥasan-e Kūček** (`chobanid-hasan-e-kucek`). Pass 1 start 738/1338, end unknown (polity 1357). Zambaur § 241: accession 728 (1327–28), assassinated 27 Rajab 744 (15 December 1343). The 738 date in Zambaur is a victory over his Jalayirid namesake, not the start.
+7. **Nasr I** (`samanid-nasr-i`). Current and Lane-Poole start 261/874–875. Zambaur § 190 starts Nasr I at 250 (864–65), ten years earlier (perhaps as governor).
+8. **Faḵr-al-Din** (`kartid-fakr-al-din`). Current start 1295. Both books start him at 684 / 1285, after the coregency of Rukn.
+9. **Baha al-Dawla** (`buyid-baha-al-dawla`). Current and Lane-Poole Fars list start 388/998. Zambaur's Baghdad list starts him in 379/989.
+10. **Ahmad the Saffarid** (`saffarid-ahmad`). Current 923–963. Zambaur marks the accession *environ* 320 (932–33) and the next accession *environ* 344 (955–56).
+
+Other new disagreements of more than a year, not in that ten: Khalaf (Zambaur circa 344–399 vs 963–1003); Anushirvan (both books end 434/1042 vs Wikipedia 1049/50); Samsam al-Dawla (Zambaur from 372/982 vs 989); Tahir the Saffarid (books close the first dynasty at 290/903 vs Wikipedia 909); Sultan Murad of the Aq Qoyunlu (books 903/1497 and a restoration to 908/1502 vs 1500–1508); Fulad Sutun (books close Kirman at 448/1056 vs 1062); Shah Šojāʿ (Lane-Poole 759/1357, Zambaur 30 Rabi' I 765 / 1364, vs 1359); ʿAli b. Moʾayyad (books from 766/1364 vs 1362); Alvand (1499–1500 vs 1497–1502); Sultan al-Dawla (Zambaur end 412 vs 1024); Solṭān Moḥammad the Jalayirid (Zambaur 824–825 vs Iranica death July 1424); Berkyaruq (books from 487/1094 vs 1092); Masʿud I of Ghazna (Zambaur death 11 Jumada I 433 / 1042 vs 1040); Mobārez-al-Din Moḥammad (Lane-Poole end 759/1357 vs 1359).
+
+New rulers that are themselves contested because the books disagree include Qara Yuluk ʿUthmān (Lane-Poole ends him at 809/1406, Zambaur at 839), Hamza and Jahangir of the Aq Qoyunlu, Mawdud of Ghazna (432 vs 433), Muzaffarid Sultan Ahmad, and the Sarbadar leaders Yaḥyā and Ẓahīr-al-Din (Lane-Poole 756 vs Zambaur 759 for Ẓahīr).
+
+## The ones that matter most for the globe (pass 1)
 
 1. **Median chronology.** Herodotus gives Deioces 53 years, Phraortes 22, Cyaxares 40 and Astyages 35, ending in 550 BCE. Scholars fit this to Assyrian evidence in at least four ways: A c. 700-647 / 647-625 / 625-585 / 585-550; B (Diakonoff, Cameron) 728-675 / 675-653 / Scythians 653-625 / 625-585 / 585-550; Rawlinson and Medvedskaya 700-678 / 678-625; Grantovskiĭ c. 672 to the 640s. Only Cyaxares and Astyages are in cuneiform, so Deioces is labelled `legendary`. Some scholars (Sancisi-Weerdenburg) doubt a Median empire existed at all. Source: Iranica MEDIA ii and iii, DEIOCES, PHRAORTES.
 2. **Elam start and end.** Proto-Elamite c. 3200 BCE vs the first attested name c. 2650 BCE vs the Awan dynasty c. 2400. The end is either 646 (Ashurbanipal sacks Susa) or 539? (Susiana falls, "perhaps" to Cyrus). Igihalkid dynasty: c. 1400 or c. 1320 (Vallat gives both). Source: Iranica ELAM i.

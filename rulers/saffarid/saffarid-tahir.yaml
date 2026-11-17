@@ -2,9 +2,23 @@ id: saffarid-tahir
 name: Tahir
 title: amir
 polity: saffarid
-earliest: 901
+earliest: 900
 latest: 909
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 901–909. Start 901 CE; end 909 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 901 to 909 (existing reading)
+  low: 901
+  high: 909
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "900-903 (Lane-Poole p. 130: A.H. 287–290 / A.D. 900–903) / 901–902 to 902–903 (Zambaur § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 289–290; tabular Islamic calendar, Julian years)"
+  low: 900
+  high: 903
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+note: "Reign as given: 901–909. Start 901 CE; end 909 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 130: A.H. 287 = 7 January 900–26 December 900 CE (Julian, tabular); ended A.H. 290 = 5 December 902–23 November 903 CE (Julian, tabular). Printed A.D. year(s): 900–903. Zambaur 1927, § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 289 = 16 December 901–5 December 902 CE (Julian, tabular); ended A.H. 290 = 5 December 902–23 November 903 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

@@ -2,9 +2,27 @@ id: muzaffarid-shah-soja
 name: Shah Šojāʿ
 title: shah
 polity: muzaffarid
-earliest: 1359
+earliest: 1357
 latest: 1384
 sources:
 - eir-mozaffarids
-confidence: attested
-note: "Reign as given: 1359–1384. Start 1359 CE; end 1384 CE. Rivalry with his brother Shah Maḥmud (Isfahan); died 1384. Evidence: scholarly-or-primary."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1359 to 1384 (existing reading)
+  low: 1359
+  high: 1384
+  sources:
+  - eir-mozaffarids
+- value: "1357-1384 (Lane-Poole p. 250, § 87: A.H. 759–786 / A.D. 1357–1384)"
+  low: 1357
+  high: 1384
+  sources:
+  - lanepoole-1894
+- value: "1364 to 1384 (Zambaur § 239 p. 254: A.H. 765–786; tabular Islamic calendar, Julian years)"
+  low: 1364
+  high: 1384
+  sources:
+  - zambaur-1927
+note: "Reign as given: 1359–1384. Start 1359 CE; end 1384 CE. Rivalry with his brother Shah Maḥmud (Isfahan); died 1384. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 250, § 87: A.H. 759 = 14 December 1357–2 December 1358 CE (Julian, tabular); ended A.H. 786 = 24 February 1384–12 February 1385 CE (Julian, tabular). Printed A.D. year(s): 1357–1384. Zambaur 1927, § 239 p. 254: 6 January 1364 CE (Julian; A.H. 30 Rabi' I 765); ended Sha'ban 786 = 18 September 1384–16 October 1384 CE (Julian) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

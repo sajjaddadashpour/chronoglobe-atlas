@@ -6,5 +6,20 @@ earliest: 1029
 latest: 1050
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 1029/1030–1049/1050. Start 1029 CE to 1030 CE; end 1049 CE to 1050 CE. The Wikipedia row cites: Ross 1977 p. 579. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1029–1030 to 1049–1050 (existing reading)
+  low: 1029
+  high: 1050
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "1029-1042 (Lane-Poole p. 137, § 56: A.H. 420–434 / A.D. 1029–1042) / 1029–1030 to 1032–1033 (Zambaur § 201 p. 210: A.H. 420–424; tabular Islamic calendar, Julian years) ; 1034–1035 to 1042–1043 (Zambaur § 201 p. 210: A.H. 426–434; tabular Islamic calendar, Julian years)"
+  low: 1029
+  high: 1043
+  sources:
+  - lanepoole-1894
+  - zambaur-1927
+  note: "Combined regional or interrupted dates from the same book: 1029–1030 to 1032–1033 (Zambaur § 201 p. 210: A.H. 420–424; tabular Islamic calendar, Julian years) | 1034–1035 to 1042–1043 (Zambaur § 201 p. 210: A.H. 426–434; tabular Islamic calendar, Julian years)"
+note: "Reign as given: 1029/1030–1049/1050. Start 1029 CE to 1030 CE; end 1049 CE to 1050 CE. The Wikipedia row cites: Ross 1977 p. 579. Evidence: scholarly-or-primary. Lane-Poole 1894, p. 137, § 56: A.H. 420 = 20 January 1029–9 January 1030 CE (Julian, tabular); ended A.H. 434 = 21 August 1042–10 August 1043 CE (Julian, tabular). Printed A.D. year(s): 1029–1042. Zambaur 1927, § 201 p. 210: A.H. 420 = 20 January 1029–9 January 1030 CE (Julian, tabular); ended A.H. 434 = 21 August 1042–10 August 1043 CE (Julian, tabular). Combined regional or interrupted dates from the same book: 1029–1030 to 1032–1033 (Zambaur § 201 p. 210: A.H. 420–424; tabular Islamic calendar, Julian years) | 1034–1035 to 1042–1043 (Zambaur § 201 p. 210: A.H. 426–434; tabular Islamic calendar, Julian years) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

@@ -6,5 +6,24 @@ earliest: 1012
 latest: 1024
 sources:
 - wp-en-list-of-monarchs-of-iran
-confidence: scholarly-consensus
-note: "Reign as given: 1012–1024. Start 1012 CE; end 1024 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: secondary-only."
+- lanepoole-1894
+- zambaur-1927
+confidence: contested
+alternatives:
+- value: 1012 to 1024 (existing reading)
+  low: 1012
+  high: 1024
+  sources:
+  - wp-en-list-of-monarchs-of-iran
+- value: "1012-1024 (Lane-Poole pp. 141–142 (I. Fars): A.H. 403–415 / A.D. 1012–1024)"
+  low: 1012
+  high: 1024
+  sources:
+  - lanepoole-1894
+- value: "1012–1013 to 1021–1022 (Zambaur § 204 p. 212 (Baghdad): A.H. 403–412; tabular Islamic calendar, Julian years) ; 1012–1013 to 1021–1022 (Zambaur § 204 p. 213 (Fars and Khuzistan): A.H. 403–412; tabular Islamic calendar, Julian years)"
+  low: 1012
+  high: 1022
+  sources:
+  - zambaur-1927
+  note: "Combined regional or interrupted dates from the same book: 1012–1013 to 1021–1022 (Zambaur § 204 p. 212 (Baghdad): A.H. 403–412; tabular Islamic calendar, Julian years) | 1012–1013 to 1021–1022 (Zambaur § 204 p. 213 (Fars and Khuzistan): A.H. 403–412; tabular Islamic calendar, Julian years)"
+note: "Reign as given: 1012–1024. Start 1012 CE; end 1024 CE. Branch rulers overlap: the list mixes heads of the Fārs, Ray and Iraq branches. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Lane-Poole 1894, pp. 141–142 (I. Fars): A.H. 403 = 23 July 1012–11 July 1013 CE (Julian, tabular); ended A.H. 415 = 15 March 1024–4 March 1025 CE (Julian, tabular). Printed A.D. year(s): 1012–1024. Zambaur 1927, § 204 p. 212 (Baghdad): A.H. 403 = 23 July 1012–11 July 1013 CE (Julian, tabular); ended A.H. 412 = 17 April 1021–6 April 1022 CE (Julian, tabular). Combined regional or interrupted dates from the same book: 1012–1013 to 1021–1022 (Zambaur § 204 p. 212 (Baghdad): A.H. 403–412; tabular Islamic calendar, Julian years) | 1012–1013 to 1021–1022 (Zambaur § 204 p. 213 (Fars and Khuzistan): A.H. 403–412; tabular Islamic calendar, Julian years) Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."

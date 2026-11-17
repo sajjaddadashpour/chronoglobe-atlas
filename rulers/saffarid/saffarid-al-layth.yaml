@@ -2,9 +2,10 @@ id: saffarid-al-layth
 name: al-Layth
 title: amir
 polity: saffarid
-earliest: 909
-latest: 910
+earliest: 908
+latest: 912
 sources:
 - wp-en-list-of-monarchs-of-iran
+- zambaur-1927
 confidence: scholarly-consensus
-note: "Reign as given: 909–910. Start 909 CE; end 910 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: secondary-only."
+note: "Reign as given: 909–910. Start 909 CE; end 910 CE. The Wikipedia row cites: Daryaee 2012 p. 394. Evidence: scholarly-or-primary. Zambaur 1927, § 189 pp. 199–200 (1st and 2nd dynasties): A.H. 296 = 30 September 908–18 September 909 CE (Julian, tabular); ended A.H. 299 = 29 August 911–16 August 912 CE (Julian, tabular). Consulted: yes, via Chief of Staff transcription of archive.org page images. Bosworth, The New Islamic Dynasties (1996) supersedes these editions. A.H. years were converted with the standard tabular (civil) Islamic calendar; when an A.H. year spans two Julian A.D. years both bounds are kept."
